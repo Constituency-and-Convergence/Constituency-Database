@@ -1,0 +1,32 @@
+Module;Test;Fracture;MinMax;LeftEdge;RightEdge;Size;Core;Coreposition
+morphosyntax;Non-interruptability;free complex;maximal;9;20;12;verb;10
+morphosyntax;Non-interruptability;free simple;maximal;9;20;12;verb;10
+morphosyntax;Non-interruptability;promiscuous;maximal;9;18;10;verb;10
+morphosyntax;Ciscategorial selection;;minimal;10;16;7;verb;10
+morphosyntax;Ciscategorial selection;;maximal;10;19;10;verb;10
+morphosyntax;Non-permutability;;maximal;9;18;10;verb;10
+morphosyntax;Subspan Repetition;Lexical nominalizations;minimal;10;11;2;verb;10
+morphosyntax;Subspan Repetition;Lexical nominalizations;minimal;10;17;8;verb;10
+morphosyntax;Subspan Repetition;Lexical nominalizations;maximal;10;21;12;verb;10
+morphosyntax;Deviations from biuniqueness;Extended exponence (mid);maximal;10;17;8;verb;10
+morphosyntax;Deviations from biuniqueness;Extended exponence (neg);minimal;6;12;7;verb;10
+morphosyntax;Deviations from biuniqueness;Extended exponence (neg);maximal;4;12;9;verb;10
+morphosyntax;Subspan Repetition;Nominalization (-ka);maximal;8;21;14;verb;10
+morphosyntax;Subspan Repetition;Nominalization (G/N);maximal;10;21;12;verb;10
+morphosyntax;Subspan Repetition;Adverbial subordination;maximal;8;21;14;verb;10
+Indeterminate;Free occurrence;Person index;minimal;9;10;2;verb;10
+Indeterminate;Free occurrence;A/S NP;minimal;8;10;3;verb;10
+Indeterminate;Free occurrence;;maximal;9;20;12;verb;10
+Indeterminate;Deviations from biuniqueness;Allomorphy (valency);maximal;10;13;4;verb;10
+Indeterminate;Deviations from biuniqueness;Allomorphy (-cha);maximal;10;13;4;verb;10
+phonology;Tone;floating tone;minimal;10;16;7;verb;10
+phonology;Tone;floating tone;maximal;9;16;8;verb;10
+phonology;Tone;tonal spreading;maximal;10;18;9;verb;10
+phonology;Tone;tone polarity;maximal;1;21;21;verb;10
+phonology;Segmental;Vowel coalescence ;minimal;9;10;2;verb;10
+phonology;Segmental;Vowel coalescence ;maximal;9;16;8;verb;10
+phonology;Segmental;vowel harmony;maximal;9;10;2;verb;10
+phonology;Segmental;Consonant aspiration;minimal;9;10;2;verb;10
+phonology;Segmental;Consonant aspiration;maximal;9;12;4;verb;10
+phonology;Segmental;vowel elision;maximal;10;17;8;verb;10
+phonology;Segmental;Copy vowel insertion;maximal;10;16;7;verb;10

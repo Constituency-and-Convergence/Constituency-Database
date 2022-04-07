@@ -1,0 +1,34 @@
+﻿Constituency test,Left Edge,Right Edge,Module,Size,Layer.pooled,Layer.ms,Layer.phon,Category
+Nonpermutability (1 -chi),12,12,Morphosyntactic,1,1,1,,verb
+Minimal vowel lowering,12,13,Phonological,2,2,,1,verb
+Listemes,12,13,Morphosyntactic,2,2,2,,verb
+Deviations from biuniqueness,12,13,Morphosyntactic,2,2,2,,verb
+Minimal free occurrence,3,3,Morphosyntactic,1,1,1,,noun
+Noninterruptability by -lla,1,5,Morphosyntactic,5,2,2,,noun
+Nonpermutability (2 -chi),12,15,Morphosyntactic,4,3,2,,verb
+"Minimal subspan repetition (asyndetic, strict)",12,18,Morphosyntactic,7,4,3,,verb
+"Minimal subspan repetition (nmlz, minimal)",12,18,Morphosyntactic,7,4,3,,verb
+Minimal ciscategorial selection,1,5,Morphosyntactic,5,2,2,,noun
+Minimal vowel lowering,3,8,Phonological,6,3,,1,noun
+Maximal free occurrence,3,11,Morphosyntactic,9,4,3,,noun
+Minimal pitch accent,12,19,Phonological,8,5,,2,verb
+Noninterruptability by -lla,12,21,Morphosyntactic,10,6,4,,verb
+Minimal ciscategorial selection,12,21,Morphosyntactic,10,6,4,,verb
+Maximal ciscategorial selection (strict),12,25,Morphosyntactic,14,7,5,,verb
+Minimal free occurrence (singular),12,26,Morphosyntactic,15,8,6,,verb
+Pitch accent,3,11,Phonological,9,4,,2,noun
+Maximal vowel lowering,3,11,Phonological,9,4,,2,noun
+Minimal free occurrence (plural),12,29,Morphosyntactic,18,9,7,,verb
+Maximal vowel lowering,12,30,Phonological,19,10,,3,verb
+Noninterruptability by free form,12,30,Morphosyntactic,19,10,8,,verb
+"Minimal subspan repetition (asydentic, lax)",12,30,Morphosyntactic,19,10,8,,verb
+Maximal free occurrence,12,40,Morphosyntactic,29,11,9,,verb
+Final syllable/suffix deletion,1,29,Phonological,29,12,,4,verb
+Noninterruptability by XP (auxiliary construction),12,41,Morphosyntactic,30,13,10,,verb
+"Maximal subspan repetition (nmlz, maximal)",1,30,Morphosyntactic,30,14,11,,verb
+Noninterruptability by free form,3,12,Morphosyntactic,10,5,4,,noun
+Maximal pitch accent,12,41,Phonological,30,13,,5,verb
+Maximal ciscategorial selection (lax),2,41,Morphosyntactic,40,15,12,,verb
+Maximal ciscategorial selection,1,11,Morphosyntactic,11,6,5,,noun
+Noninterruptability by XP,1,12,Morphosyntactic,12,7,6,,noun
+Maximal subspan repetition (asyndetic),1,42,Morphosyntactic,42,16,13,,verb
