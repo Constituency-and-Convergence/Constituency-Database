@@ -50,6 +50,8 @@ The database consists of the following files:
      - Overlap_Nominal: position of the noun base in the planar structure
 * sources = bib-file with the sources
 
+The **input** folder contains the raw files in which the data is initially entered and updated. The **scripts** folder contains R scripts that produce the output version of the database.
+
 The CCDB is available under the Creative Commons Attribution Share Alike 4.0 International license. It is a work in progress and continuously updated. For research and citation, please refer to the most recent release archived in Zenodo.
 
 
