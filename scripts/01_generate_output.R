@@ -7,9 +7,9 @@ p_load(here,
 
 
 # read in input files and metadata, convert characters to factors for checking
-metadata <- read_tsv(here("metadata.tsv")) %>%
+metadata <- read_tsv(here("input/metadata.tsv")) %>%
   mutate(across(where(is.character), as_factor))
-overlaps <- read_tsv(here("overlaps.tsv")) %>%
+overlaps <- read_tsv(here("input/overlaps.tsv")) %>%
   mutate(across(where(is.character), as_factor))
 domains_input <- read_tsv(here("input/cc_domains_input.tsv")) %>%
   mutate(across(where(is.character),as_factor))
