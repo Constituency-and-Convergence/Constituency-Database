@@ -35,11 +35,12 @@ The database consists of the following files:
      - Left_Edge: left boundary of the test span
      - Right_Edge: right boundary of the test span
      - Convergence: number of other tests (in the same language) a span converges with
-     - Relative_Convergence: Converge
+     - Relative_Convergence: Convergence/Tests_Total
      - Size: number of positions the span covers
      - Relative_Size: Size/Largest
      - Largest: largest span observed in a language
      - Position_Total: total number of positions in the respective planar structure
+     - Tests_Total: total number of tests applied in language/planar structure
      - Planar_ID: which planar structur the test results are applied to
      - Test_Labels: short labels for plotting
 * overlaps = codes the position of the verb/noun base for each planar structure
