@@ -7,13 +7,13 @@ p_load(here,
 
 
 # read in input files and metadata, convert characters to factors for checking
-metadata <- read_tsv(here("05_data/metadata.tsv")) %>%
+metadata <- read_tsv(here("metadata.tsv")) %>%
   mutate(across(where(is.character), as_factor))
-overlaps <- read_tsv(here("05_data/overlaps.tsv")) %>%
+overlaps <- read_tsv(here("overlaps.tsv")) %>%
   mutate(across(where(is.character), as_factor))
-domains_input <- read_tsv(here("05_data/cc_domains_input.tsv")) %>%
+domains_input <- read_tsv(here("input/cc_domains_input.tsv")) %>%
   mutate(across(where(is.character),as_factor))
-planar_input <- read_tsv(here("05_data/cc_planar_input.tsv")) %>%
+planar_input <- read_tsv(here("input/cc_planar_input.tsv")) %>%
   mutate(across(where(is.character), as_factor))
 
 # check if planar input file is clean; check Planar_Type and Position_Type
@@ -37,7 +37,7 @@ planar_output <- planar_input %>%
 glimpse(planar_output)
 
 # write output file
-write_tsv(planar_output, here("05_data/cc_planar_output.tsv"))
+write_tsv(planar_output, here("cc_planar_output.tsv"))
 
 
 # generate full domains file
@@ -102,4 +102,4 @@ domains_out_conv <- domains_out %>%
   relocate(Tests_Total, .after = Position_Total)
 glimpse(domains_out_conv)
 
-write_tsv(domains_out_conv, here("05_data/cc_domains_output.tsv"))
+write_tsv(domains_out_conv, here("cc_domains_output.tsv"))
