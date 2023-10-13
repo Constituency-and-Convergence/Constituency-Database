@@ -1,0 +1,573 @@
+Language_ID	Planar_Type	Position	Position_Type	Elements	Class_Size	Notes
+teot1238	verbal	1	slot	subordinators	?	NA
+teot1238	verbal	2	slot	np (a/s, o), adv	Open	NA
+teot1238	verbal	3	slot	focus marker (=ēn)	1	NA
+teot1238	verbal	4	slot	adv á= ‘already’	1	NA
+teot1238	verbal	5	slot	clausal negator: kēd=	1	NA
+teot1238	verbal	6	slot	adverbial enclitics of frequency and manner: =pkā, =kā, =zī	3	NA
+teot1238	verbal	7	slot	adverbial enclitic of equality: =zá	1	NA
+teot1238	verbal	8	slot	adverbial enclitic of comparison: =rú	1	NA
+teot1238	verbal	9	slot	indefinite, interrogative pronouns tū=, xī=, kalī=; plural imperative gūl=	4	NA
+teot1238	verbal	10	slot	tense/aspect/mood	?	NA
+teot1238	verbal	11	slot	motion: andative e-, venitive ēd-	2	NA
+teot1238	verbal	12	slot	verb base	Open	NA
+teot1238	verbal	13	slot	second element in a compound: nominal, adjectival root	?	NA
+teot1238	verbal	14	slot	comitative -næ:	1	NA
+teot1238	verbal	15	slot	diminutive: -æˀny/-iˀny	2	NA
+teot1238	verbal	16	slot	manner adverbs: ʒlyāˀ ‘in vain’, ʤí: ‘quietly’	2	NA
+teot1238	verbal	17	slot	intensifiers tæ̰:, da̰:n	2	NA
+teot1238	verbal	18	slot	negation: =di	1	NA
+teot1238	verbal	19	slot	adverbial enclitics of frequency and manner: =pkā, =kā, =zī	3	NA
+teot1238	verbal	20	slot	adverbial enclitic of equality: =zá	1	NA
+teot1238	verbal	21	slot	adverbial enclitic of comparison: =rú	1	NA
+teot1238	verbal	22	slot	reciprocal saˀ	1	NA
+teot1238	verbal	23	slot	pronominal enclitic; NP (a/s)	?	NA
+teot1238	verbal	24	slot	pronominal enclitic; NP (p)	?	NA
+teot1238	verbal	25	slot	pronominal enclitic; NP (r)	?	NA
+teot1238	verbal	26	slot	adverb (lexical)	Open?	NA
+teot1238	verbal	27	slot	subordinate clause	Open	NA
+teot1238	verbal	28	slot	discursive enclitics	?	NA
+teot1238	nominal	1	slot	prepositions: ʃtḛ̂:n ‘of’; næ:z ‘by’	2	NA
+teot1238	nominal	2	zone	quantifiers (qr): zyē:n ‘various’, tubruˀ ‘some’, indef te= etc; relational nouns: lo:w ‘face of’, kwæˀ ‘side of’ etc.	?	NA
+teot1238	nominal	3	slot	adverbial enclitics of frequency and manner: =pkā, =kā, =zī	3	NA
+teot1238	nominal	4	slot	adverbial enclitic of equality: =zá	1	NA
+teot1238	nominal	5	slot	adverbial enclitics of frequency and manner: =pkā, =kā, =zī	3	NA
+teot1238	nominal	6	slot	plural d´=; 1pl dū=; dā= ‘Mr.’; tyú= ‘uncle’	4	NA
+teot1238	nominal	7	slot	possessive: ʃ-	5	NA
+teot1238	nominal	8	slot	noun base	Open	NA
+teot1238	nominal	9	slot	second element of a compound	?	NA
+teot1238	nominal	10	slot	adjective(s) (up to three)	?	NA
+teot1238	nominal	11	slot	diminutive: -æˀny/-iˀny	1	NA
+teot1238	nominal	12	slot	intensifiers: da̰:n; tæ̰:	2	NA
+teot1238	nominal	13	slot	adverbial enclitics of frequency and manner: =pkā, =kā, =zī	3	NA
+teot1238	nominal	14	slot	adverbial enclitic of equality: =zá	1	NA
+teot1238	nominal	15	slot	adverbial enclitic of comparison: =rú	1	NA
+teot1238	nominal	16	slot	demonstratives: =kī dem.temp; =kán dem.med; =rǽˀ dem.prox; =rǣ dem.dist	4	NA
+teot1238	nominal	17	slot	Prepositional phrase, pronominal enclitic, NP Possessor	Open	NA
+teot1238	nominal	18	slot	relative clause	Open	NA
+teot1238	nominal	19	slot	demonstratives: =kī dem.temp; =kán dem.med; =rǽˀ dem.prox; =rǣ dem.dist	4	NA
+teot1238	nominal	20	slot	focus marker =ēn	1	NA
+hupd1244	verbal	1	zone	NP{A,S,O,Oblique}	NA	NA
+hupd1244	verbal	2	slot	Subject Proclitic {S, A} (marginal)	NA	NA
+hupd1244	verbal	3	zone	Valence: (causative root), Interactional ʔũh-, Reflexive/passive hup-, O (simplex)	NA	NA
+hupd1244	verbal	4	slot	Causative root	NA	NA
+hupd1244	verbal	5	slot	Factitive hi-	NA	NA
+hupd1244	verbal	6	zone	Verb base (one or more compounded roots)	NA	NA
+hupd1244	verbal	7	slot	Telic -yɨʔ	NA	NA
+hupd1244	verbal	8	slot	Venitive -ʔay	NA	NA
+hupd1244	verbal	9	slot	Applicative -ʔũh	NA	NA
+hupd1244	verbal	10	slot	Completive -cɨ̃p / -cɨ̃w	NA	NA
+hupd1244	verbal	11	slot	Emphasis -pog	NA	NA
+hupd1244	verbal	12	slot	Counterfactual -tæ̃ʔ	NA	NA
+hupd1244	verbal	13	slot	Perfective -ʔeʔ	NA	NA
+hupd1244	verbal	14	slot	Clausal negative -nɨ́h	NA	NA
+hupd1244	verbal	15	slot	Habitual -bɨg , Distributive -pɨd, Future -teg	NA	NA
+hupd1244	verbal	16	slot	Evidentials -hɔ̃, -cud, -mah, frustrative -yæ̃h, repetitive -b’ay	NA	NA
+hupd1244	verbal	17	slot	Inchoative -ay	NA	NA
+hupd1244	verbal	18	slot	Inferred -ni	NA	NA
+hupd1244	verbal	19	slot	Filler -Vw	NA	NA
+hupd1244	verbal	20	slot	Boundary	NA	NA
+hupd1244	verbal	21	slot	Counterfactual =tih	NA	NA
+hupd1244	verbal	22	slot	Emphatic Coordinator =nih	NA	NA
+hupd1244	verbal	23	zone	Evidentials =cud,  =hɔ̃	NA	NA
+hupd1244	verbal	24	slot	Repetitive =b’ay	NA	NA
+hupd1244	verbal	25	slot	Emphasis =pog	NA	NA
+hupd1244	verbal	26	slot	Reportative =mah	NA	NA
+hupd1244	verbal	27	slot	Habitual bɨ́g, Distributive pɨ́d	NA	NA
+hupd1244	verbal	28	slot	Frustrative yæ̃́h	NA	NA
+hupd1244	verbal	29	slot	Contrast j’ám / j’ã́h, páh, tán	NA	NA
+hupd1244	verbal	30	zone	intensifier mún, adversative conjunction kǎh, persistive tæ, epistemic modality ʔũh, etc.	NA	NA
+hupd1244	verbal	31	zone	NP{A,S,O,Oblique}	NA	NA
+hupd1244	verbal	32	slot	Declarative -Vh	NA	NA
+hupd1244	nominal	1	slot	Demonstrative	NA	NA
+hupd1244	nominal	2	zone	NP{Poss}-nƗh	NA	NA
+hupd1244	nominal	3	slot	Quantifier, Numeral	NA	NA
+hupd1244	nominal	4	slot	Relative clause	NA	NA
+hupd1244	nominal	5	zone	root (or compounded roots)	NA	NA
+hupd1244	nominal	6	zone	Classifier	NA	NA
+hupd1244	nominal	7	zone	Adjective	NA	NA
+hupd1244	nominal	8	slot	‘Respect’ markers =wǝd (m), =wa (f)	NA	NA
+hupd1244	nominal	9	slot	Deceased marker =cud	NA	NA
+hupd1244	nominal	10	slot	Augmentative =pog, diminutive =mæh	NA	NA
+hupd1244	nominal	11	slot	Plural =d’ǝh	NA	NA
+hupd1244	nominal	12	zone	Case -ǎn, -an, -V́́t	NA	NA
+hupd1244	nominal	13	slot	Intensifier =hup	NA	NA
+hupd1244	nominal	14	slot	Parallel marker =hin	NA	NA
+hupd1244	nominal	15	zone	Topic/Focus/Contrast/Evidentiality	NA	NA
+iyoj1235	verbal	1	zone	Conjunction or conjunctive locution; interrogative ma?	NA	NA
+iyoj1235	verbal	2	zone	Topic: DP {A,S}, Adverb, Adverbial clause	NA	NA
+iyoj1235	verbal	3	zone	Focalized adverb or AdvP	NA	NA
+iyoj1235	verbal	4	slot	Complementizers ti, ka;	NA	NA
+iyoj1235	verbal	5	zone	N’, N, light DP, Pronoun/Adverb	NA	NA
+iyoj1235	verbal	6	zone	N’, N, light DP, Pronoun/Adverb	NA	NA
+iyoj1235	verbal	7	slot	Mirative ‑p’an; reportative ‑jen	NA	NA
+iyoj1235	verbal	8	slot	Prospective ja	NA	NA
+iyoj1235	verbal	9	slot	Incompletive ‑ta(j)	NA	NA
+iyoj1235	verbal	10	slot	Negation je	NA	NA
+iyoj1235	verbal	11	slot	Indirect evidential ‑t’i; mirative –p’an	NA	NA
+iyoj1235	verbal	12	slot	Interrogative ‑mi	NA	NA
+iyoj1235	verbal	13	slot	demonstrative kyak ‘that (way)’	NA	NA
+iyoj1235	verbal	14	slot	Cross referencing active/nonactive markers	NA	NA
+iyoj1235	verbal	15	slot	Reflexive/reciprocal ni(n); antipassive ka	NA	NA
+iyoj1235	verbal	16	slot	Predicate base 	NA	NA
+iyoj1235	verbal	17	slot	Participle -k	NA	NA
+iyoj1235	verbal	18	slot	Causative; antipassive; verbalizer	NA	NA
+iyoj1235	verbal	19	slot	Concord  1	NA	NA
+iyoj1235	verbal	20	slot	Concord 2	NA	NA
+iyoj1235	verbal	21	slot	Perdurative ‑jli	NA	NA
+iyoj1235	verbal	22	slot	Momentary ‑a	NA	NA
+iyoj1235	verbal	23	slot	Irrealis ‑a	NA	NA
+iyoj1235	verbal	24	slot	Reportative ‑jen	NA	NA
+iyoj1235	verbal	25	slot	Indirect evidential ‑t’i	NA	NA
+iyoj1235	verbal	26	slot	Mirative ‑p’an	NA	NA
+iyoj1235	verbal	27	slot	Incompletive ‑ta(j)	NA	NA
+iyoj1235	verbal	28	slot	Interrogative ‑mi	NA	NA
+iyoj1235	verbal	29	slot	Concord (3pl, A/S)‑is	NA	NA
+iyoj1235	verbal	30	slot	Applicative: orientation ‑a(j)	NA	NA
+iyoj1235	verbal	31	slot	Applicative: instrumental ‑e(j)	NA	NA
+iyoj1235	verbal	32	slot	Applicative: distal ‑ey	NA	NA
+iyoj1235	verbal	33	slot	Applicative: locatives ‑jiy, ‑jam	NA	NA
+iyoj1235	verbal	34	slot	Applicative: punctual locative ‑’e, distributive/comitative ‑k’i, and possibly others	NA	NA
+iyoj1235	verbal	35	slot	Oblique marker (only realized if position 36 is filled)	NA	NA
+iyoj1235	verbal	36	slot	Applicative	NA	NA
+iyoj1235	verbal	37	slot	Pluractional/downwards -jen	NA	NA
+iyoj1235	verbal	38	slot	Pluractional/iterative –’ni(j)	NA	NA
+iyoj1235	verbal	39	slot	Remote past –pe(j); perfect –(’V…)je(j)	NA	NA
+iyoj1235	verbal	40	zone?	Temporal, aspectual and discourse particles	NA	NA
+iyoj1235	verbal	41	slot	Locatives	NA	NA
+iyoj1235	verbal	42	zone	N/, N’, light DP	NA	NA
+iyoj1235	verbal	43	zone	N/, N’, light DP	NA	NA
+iyoj1235	verbal	44	slot	Adpositions-applicatives	NA	NA
+iyoj1235	verbal	45	zone	Heavy DP (A, S, O, Obl, Possessor of 43)	NA	NA
+iyoj1235	verbal	46	zone	Heavy DP (A, S, O, Obl); S	NA	NA
+mart1259	verbal	1	zone	Sentence adverbs	NA	NA
+mart1259	verbal	2	zone	Adverbial clauses	NA	NA
+mart1259	verbal	3	slot	Interrogative marker	NA	NA
+mart1259	verbal	4	slot	Obligation fok	NA	NA
+mart1259	verbal	5	zone	NP, subject pronouns (A, S)	NA	NA
+mart1259	verbal	6	zone	Adverbial	NA	NA
+mart1259	verbal	7	slot	Copula sé	NA	NA
+mart1259	verbal	8	slot	Negative marker pa (neg), pé (neg), poko (not.yet)	NA	NA
+mart1259	verbal	9	slot	Tense marker té (pst)	NA	NA
+mart1259	verbal	10	zone	Adverbial	NA	NA
+mart1259	verbal	11	slot	Tense marker ka (ipfv), ké (fut), key (fut), kay (fut)	NA	NA
+mart1259	verbal	12	slot	Modal pé ʻcanʼ	NA	NA
+mart1259	verbal	13	slot	Negative marker pa (neg)	NA	NA
+mart1259	verbal	14	slot	Causative fè	NA	NA
+mart1259	verbal	15	slot	NP (causee); causee pronouns	NA	NA
+mart1259	verbal	16	zone	Adverbial	NA	NA
+mart1259	verbal	17	slot	Derivational morpheme	NA	NA
+mart1259	verbal	18	slot	V base	NA	NA
+mart1259	verbal	19	slot	Object pronouns (recipient)	NA	NA
+mart1259	verbal	20	slot	Object pronouns (patient)	NA	NA
+mart1259	verbal	21	zone	Adverbial	NA	NA
+mart1259	verbal	22	zone	NP, complement clauses	NA	NA
+mart1259	verbal	23	zone	Adverbial	NA	NA
+mart1259	verbal	24	slot	PP	NA	NA
+mart1259	verbal	25	slot	Negative marker …ankò	NA	NA
+mart1259	verbal	26	zone	Adverbial clauses	NA	NA
+mart1259	verbal	27	zone	Sentence adverbs	NA	NA
+cent2127	verbal	1	Zone	Nonverb (If nominal, Any grammatical function/Case; otherwise particle) [OPT]	NA	NA
+cent2127	verbal	2	Slot	Verb core: Lexemic Verb Base or minimal Verb Base [OBLIG]	NA	NA
+cent2127	verbal	3	Zone	VV Postbase [OPT]	NA	NA
+cent2127	verbal	4	Slot	Aspect: -tu- ‘always’, -yuite- ‘never’, -qar- ‘momentarily’ [OPT]	NA	NA
+cent2127	verbal	5	Slot	'Realization1: -yaaqe- ‘in vain’, -ngate- ‘seem’, -ksaite- ''not yet'' [OPT]'	NA	NA
+cent2127	verbal	6	Slot	Tense: -llru- ‘did’, -ciqe- ‘will’, -ngaite- ‘won’t’ [OPT]	NA	NA
+cent2127	verbal	7	Slot	Status: -nrite- ‘not’; -yugnarqe- ‘may’; -yugnaite- ‘definitely won’t’ [OPT]	NA	NA
+cent2127	verbal	8	Slot	Realization2: -yaaqe- ‘in vain’, -ngate- ‘seem’ [OPT]	NA	NA
+cent2127	verbal	9	Slot	Evidential: -llini- ‘evidently’; -lli- ‘perhaps’ [OPT]	NA	NA
+cent2127	verbal	10	Slot	Tense-Modal: -(g)aqe- ‘would have’, -ki- (requires Optative) ‘will; did (narrative reading)’; -lqe- (requires Indicative transitives) ‘did’ [OPT]	NA	NA
+cent2127	verbal	11	Slot	Mood [OPT]	NA	NA
+cent2127	verbal	12	Slot	Mood [OBLIG]	NA	NA
+cent2127	verbal	13	Slot	Person+number [OPT]	NA	NA
+cent2127	verbal	14	Slot	Person+number [OPT]	NA	NA
+cent2127	verbal	15	Slot	Person+number [OPT]	NA	NA
+cent2127	verbal	16	Slot	Person+number [OBLIG]	NA	NA
+cent2127	verbal	17	Slot	Enclitic [OPT]	NA	NA
+cent2127	verbal	18	Slot	Enclitic [OPT]	NA	NA
+cent2127	verbal	19	Slot	Enclitic [OPT]	NA	NA
+cent2127	verbal	20	Slot	Enclitic [OPT]	NA	NA
+cent2127	verbal	21	Zone	Nonverb (If nominal, Any GF/case otherwise particle) [OPT]	NA	NA
+cher1273	verbal	1	zone	NP{A,S,P}; PP; Adv	NA	NA
+cher1273	verbal	2	slot	Irrealis y(i)-; relative c(i)-	NA	NA
+cher1273	verbal	3	slot	Translocative w(i)-	NA	NA
+cher1273	verbal	4	slot	Partitive n(i)-/ii- ~ iy-	NA	NA
+cher1273	verbal	5	slot	Distributive tee-/ti- ~ c-/too-	NA	NA
+cher1273	verbal	6	slot	Cislocative ta(y)-/ti(y)- ~ c-	NA	NA
+cher1273	verbal	7	slot	Iterative vv- ~ v́ʔ-/ii- ~ íʔ-	NA	NA
+cher1273	verbal	8	slot	Negative ka(y)-/kee-	NA	NA
+cher1273	verbal	9	slot	Pronominal prefixes	NA	NA
+cher1273	verbal	10	slot	Middle ata(a)-/ ali-/ at-; reflexive ataat-/ ata(a)-/ at-	NA	NA
+cher1273	verbal	11	slot	Incorporated noun root, compounded verb root	NA	NA
+cher1273	verbal	12	slot	Verb root	NA	NA
+cher1273	verbal	13	slot	Aspectual (perfective, only to host the following derivational suffixes in positions 14 - 20)	NA	NA
+cher1273	verbal	14	slot	Duplicative -iis-	NA	NA
+cher1273	verbal	15	slot	Repetitive -iiloo-	NA	NA
+cher1273	verbal	16	slot	Causative (can be repeated)	NA	NA
+cher1273	verbal	17	slot	Completive -o-	NA	NA
+cher1273	verbal	18	zone	Dative -e(e)-; ambulative -iit-	NA	NA
+cher1273	verbal	19	slot	Venitive -ii-; andative -ee-	NA	NA
+cher1273	verbal	20	slot	Inceptive -iit-	NA	NA
+cher1273	verbal	21	slot	Aspectual (present; imperfective; perfective; punctual; infinitive)	NA	NA
+cher1273	verbal	22	slot	Modal (indicative -a; assertive -vv́ʔi; reportative -ééʔi; habitual -óóʔi; future imperative -vvʔi; participial; nominal -i)	NA	NA
+cher1273	verbal	23	zone	Clitics (interrogative, discursive)	NA	NA
+cher1273	verbal	24	zone	NP{A,S,P}; PP; Adv	NA	NA
+cher1273	nominal	1	zone	NP{A,S,P}, PP, Adv	NA	NA
+cher1273	nominal	2	slot	Partitive ii- ~ iy-	NA	NA
+cher1273	nominal	3	slot	Distributive ti- ~ c-	NA	NA
+cher1273	nominal	4	slot	Pronominal prefixes	NA	NA
+cher1273	nominal	5	slot	Middle ata(a)-/ ali-/ at-, reflexive ataat-/ ata(a)-/ at-	NA	NA
+cher1273	nominal	6	slot	Compounded noun root	NA	NA
+cher1273	nominal	7	slot	Noun root	NA	NA
+cher1273	nominal	8	zone	-ya ‘real’, diminutive -(uu)ca, adjectivizer -haaʔi	NA	NA
+cher1273	nominal	9	slot	Locative	NA	NA
+cher1273	nominal	10	zone	Clitics (interrogative, discursive)	NA	NA
+cher1273	nominal	11	zone	NP{A,S,P}, PP, Adv	NA	NA
+cher1273	adjective	1	zone	NP{A,S,P}, PP, Adv	NA	NA
+cher1273	adjective	2	slot	Translocative w(i)-	NA	NA
+cher1273	adjective	3	slot	Partitive ii- ~ iy-	NA	NA
+cher1273	adjective	4	slot	Distributive ti- ~ c-	NA	NA
+cher1273	adjective	5	slot	Pronominal prefixes	NA	NA
+cher1273	adjective	6	slot	Middle ata(a)-/ ali-/ at-, reflexive ataat-/ ata(a)-/ at-	NA	NA
+cher1273	adjective	7	slot	Adjective root	NA	NA
+cher1273	adjective	8	slot	Intensifier	NA	NA
+cher1273	adjective	9	zone	Clitics (interrogative, discursive)	NA	NA
+cher1273	adjective	10	zone	NP{A,S,P}, PP, Adv	NA	NA
+arao1248	verbal	1	slot	XP (NP, PP, S), adverbials	NA	NA
+arao1248	verbal	2	zone	'P2'''	NA	NA
+arao1248	verbal	3	zone	XP (NP, PP,S), adverbials	NA	NA
+arao1248	verbal	4	slot	'prefix'''	NA	NA
+arao1248	verbal	5	slot	noun	NA	NA
+arao1248	verbal	6	slot	core verb root	NA	NA
+arao1248	verbal	7	zone	motion, time of day, aspectual, manner, root	NA	NA
+arao1248	verbal	8	slot	affectionate, small	NA	NA
+arao1248	verbal	9	slot	with difficulty, almost	NA	NA
+arao1248	verbal	10	slot	interactional	NA	NA
+arao1248	verbal	11	slot	caus., cmpl.	NA	NA
+arao1248	verbal	12	slot	3A	NA	NA
+arao1248	verbal	13	slot	finality marker	NA	NA
+arao1248	verbal	14	slot	tense, aspect, posture, negation, wandering, clause-linkage	NA	NA
+arao1248	verbal	15	slot	limitative, again	NA	NA
+arao1248	verbal	16	slot	auxiliary	NA	NA
+arao1248	verbal	17	slot	connector	NA	NA
+arao1248	verbal	18	zone	XP (NP, PP, Adv)	NA	NA
+dura0000	verbal	1	slot	connectors, question marker	NA	NA
+dura0000	verbal	2	slot	question words	NA	NA
+dura0000	verbal	3	slot	focus (S/A/P, OBL, etc.)	NA	NA
+dura0000	verbal	4	slot	realis negation	NA	NA
+dura0000	verbal	5	zone	adverbials	NA	NA
+dura0000	verbal	6	slot	additive	NA	NA
+dura0000	verbal	7	slot	intensifier	NA	NA
+dura0000	verbal	8	slot	intensifier/again	NA	NA
+dura0000	verbal	9	slot	intensifier/again	NA	NA
+dura0000	verbal	10	slot	additive	NA	NA
+dura0000	verbal	11	slot	modals	NA	NA
+dura0000	verbal	12	slot	perfective, irrealis negation	NA	NA
+dura0000	verbal	13	slot	causative `do’	NA	NA
+dura0000	verbal	14	slot	Irr/Pfv class markers	NA	NA
+dura0000	verbal	15	slot	iterative	NA	NA
+dura0000	verbal	16	slot	transitivizer `put’	NA	NA
+dura0000	verbal	17	slot	verb core	NA	NA
+dura0000	verbal	18	slot	additive	NA	NA
+dura0000	verbal	19	slot	reciprocal	NA	NA
+dura0000	verbal	20	slot	temporal adv.	NA	NA
+dura0000	verbal	21	slot	intensifier	NA	NA
+dura0000	verbal	22	slot	intensifier/again	NA	NA
+dura0000	verbal	23	slot	intensifier/again	NA	NA
+dura0000	verbal	24	slot	additive	NA	NA
+dura0000	verbal	25	slot	inside/being	NA	NA
+dura0000	verbal	26	slot	S/A	NA	NA
+dura0000	verbal	27	slot	P	NA	NA
+dura0000	verbal	28	zone	OBL, PP, LOC, adv.	NA	NA
+dura0000	verbal	29	slot	discourse markers	NA	NA
+kiow1266	verbal	1	slot	Left-Dislocated RC	NA	NA
+kiow1266	verbal	2	slot	Question Particles/WH Words	NA	NA
+kiow1266	verbal	3	slot	Clause Introducers	NA	NA
+kiow1266	verbal	4	zone	Modal Particles	NA	NA
+kiow1266	verbal	5	zone	Tense/Aspect Particles	NA	NA
+kiow1266	verbal	6	slot	Adverbs (place, manner, time)	NA	NA
+kiow1266	verbal	7	slot	Noun-Locative Adverbials	NA	NA
+kiow1266	verbal	8	zone	Modal Particles	NA	NA
+kiow1266	verbal	9	zone	Tense/Aspect Particles	NA	NA
+kiow1266	verbal	10	slot	Negation	NA	NA
+kiow1266	verbal	11	zone	Modal Particles	NA	NA
+kiow1266	verbal	12	zone	Tense/Aspect Particles	NA	NA
+kiow1266	verbal	13	slot	DP A, S or RC	NA	NA
+kiow1266	verbal	14	slot	Noun-Locative Adverbials	NA	NA
+kiow1266	verbal	15	zone	Modal Particles	NA	NA
+kiow1266	verbal	16	zone	Tense/Aspect Particles	NA	NA
+kiow1266	verbal	17	slot	DP P, i.o. or RC	NA	NA
+kiow1266	verbal	18	slot	Noun-Locative Adverbials	NA	NA
+kiow1266	verbal	19	zone	Modal Particles	NA	NA
+kiow1266	verbal	20	zone	Tense/Aspect Particles	NA	NA
+kiow1266	verbal	21	slot	DP d.o. or RC	NA	NA
+kiow1266	verbal	22	slot	Noun-Locative Adverbials	NA	NA
+kiow1266	verbal	23	zone	Modal Particles	NA	NA
+kiow1266	verbal	24	zone	Tense/Aspect Particles	NA	NA
+kiow1266	verbal	25	slot	Pronominal	NA	NA
+kiow1266	verbal	26	slot	Incorp. Adverb	NA	NA
+kiow1266	verbal	27	slot	Incorp. Noun	NA	NA
+kiow1266	verbal	28	slot	Incorp. Verb	NA	NA
+kiow1266	verbal	29	slot	Verb Stem (Root-Deriv)	NA	NA
+kiow1266	verbal	30	slot	Aspect Suffix	NA	NA
+kiow1266	verbal	31	slot	Negative Suffix	NA	NA
+kiow1266	verbal	32	zone	Modality Suffix	NA	NA
+kiow1266	verbal	33	slot	Hearsay Suffix	NA	NA
+kiow1266	verbal	34	slot	Nominalizer/Relativizer Suffix	NA	NA
+kiow1266	verbal	35	slot	Locative/Directional Suffix	NA	NA
+kiow1266	verbal	36	slot	Subordinate Markers	NA	NA
+kiow1266	verbal	37	slot	Adverbs (place, manner, time)	NA	NA
+kiow1266	verbal	38	slot	Noun-Locative Adverbials	NA	NA
+kiow1266	verbal	39	slot	Right-Dislocated DP or RC	NA	NA
+kaya1330	verbal	1	slot	polar interrogative particle	NA	NA
+kaya1330	verbal	2	slot	XP fronted for contrast	NA	NA
+kaya1330	verbal	3	slot	tense/mood marker	NA	NA
+kaya1330	verbal	4	slot	nominative subject NP or pronoun	NA	NA
+kaya1330	verbal	5	zone	particles of varied semantics	NA	NA
+kaya1330	verbal	6	slot	subject paucal number	NA	NA
+kaya1330	verbal	7	slot	oblique subject NP or index	NA	NA
+kaya1330	verbal	8	slot	oblique subject marker	NA	NA
+kaya1330	verbal	9	zone	XP (adjuncts)	NA	NA
+kaya1330	verbal	10	slot	direct object NP or index	NA	NA
+kaya1330	verbal	11	slot	'``preverb'''''	NA	NA
+kaya1330	verbal	12	slot	subject person	NA	NA
+kaya1330	verbal	13	slot	valency-reducing prefixes	NA	NA
+kaya1330	verbal	14	slot	transitivity prefixes	NA	NA
+kaya1330	verbal	15	slot	gmverb root	NA	NA
+kaya1330	verbal	16	slot	non-finiteness suffix	NA	NA
+kaya1330	verbal	17	slot	P (governed by auxiliary)	NA	NA
+kaya1330	verbal	18	slot	subject person (on aux.)	NA	NA
+kaya1330	verbal	19	slot	auxiliary root	NA	NA
+kaya1330	verbal	20	slot	non-finiteness suffix	NA	NA
+kaya1330	verbal	21	zone	non-verbal governing modifier	NA	NA
+kaya1330	verbal	22	slot	light manner verbs	NA	NA
+kaya1330	verbal	23	slot	nominal subordinate clause	NA	NA
+kaya1330	verbal	24	zone	Modifiers	NA	NA
+kaya1330	verbal	25	slot	Complement NP	NA	NA
+kaya1330	verbal	26	slot	Nominal relator	NA	NA
+kaya1330	verbal	27	slot	Noun root	NA	NA
+kaya1330	verbal	28	zone	Governing modifier	NA	NA
+kaya1330	verbal	29	slot	Dimunitive and related	NA	NA
+kaya1330	verbal	30	zone	Determiners and related	NA	NA
+kaya1330	verbal	31	slot	Adposition or case	NA	NA
+kaya1330	verbal	32	slot	Focus-sensitive particles	NA	NA
+moco1246	verbal	1	slot	clause linkers	NA	NA
+moco1246	verbal	2	zone	S/A, adverbs	NA	NA
+moco1246	verbal	3	slot	1st, 2nd P	NA	NA
+moco1246	verbal	4	slot	negation	NA	NA
+moco1246	verbal	5	slot	subject defocusing	NA	NA
+moco1246	verbal	6	slot	bound person forms	NA	NA
+moco1246	verbal	7	slot	verb core	NA	NA
+moco1246	verbal	8	slot	valence modifier I	NA	NA
+moco1246	verbal	9	slot	causee	NA	NA
+moco1246	verbal	10	slot	valence modifier II	NA	NA
+moco1246	verbal	11	slot	'1stpl, 2nd S/A, 3rd`pl'' P'	NA	NA
+moco1246	verbal	12	slot	aspect	NA	NA
+moco1246	verbal	13	slot	desiderative	NA	NA
+moco1246	verbal	14	slot	reflexive, reciprocal	NA	NA
+moco1246	verbal	15	zone	transitivizer, directionals, locatives	NA	NA
+moco1246	verbal	16	slot	non-subject plural	NA	NA
+moco1246	verbal	17	slot	diminutives	NA	NA
+moco1246	verbal	18	slot	temporal/ evid?	NA	NA
+moco1246	verbal	19	slot	3rd P or A	NA	NA
+moco1246	verbal	20	slot	oblique nominals	NA	NA
+yucu1253	verbal	1	slot	connectors	NA	NA
+yucu1253	verbal	2	slot	adverbial interrogatives	NA	NA
+yucu1253	verbal	3	zone	adverbials	NA	NA
+yucu1253	verbal	4	slot	negation	NA	NA
+yucu1253	verbal	5	slot	constituent focus/interrogative	NA	NA
+yucu1253	verbal	6	slot	negation	NA	NA
+yucu1253	verbal	7	slot	indefinite proforms	NA	NA
+yucu1253	verbal	8	slot	S/A NP	NA	NA
+yucu1253	verbal	9	slot	person indexes (S/A)	NA	NA
+yucu1253	verbal	10	slot	verb core	NA	NA
+yucu1253	verbal	11	slot	valency	NA	NA
+yucu1253	verbal	12	slot	negation	NA	NA
+yucu1253	verbal	13	slot	tense	NA	NA
+yucu1253	verbal	14	slot	nominalization, mood	NA	NA
+yucu1253	verbal	15	slot	gender/number	NA	NA
+yucu1253	verbal	16	slot	imperative	NA	NA
+yucu1253	verbal	17	slot	middle	NA	NA
+yucu1253	verbal	18	slot	perfective	NA	NA
+yucu1253	verbal	19	zone	habitual, frustrative	NA	NA
+yucu1253	verbal	20	slot	discourse markers	NA	NA
+yucu1253	verbal	21	zone	P, PP, OBL, ADV, remote past	NA	NA
+chac1251	verbal	1	slot	connector	NA	NA
+chac1251	verbal	2	zone	noun phrase {A,S,P,R,T}, adverbial, postpositional phrase	NA	NA
+chac1251	verbal	3	slot	tsi	NA	NA
+chac1251	verbal	4	slot	evidential/modal	NA	NA
+chac1251	verbal	5	slot	affective	NA	NA
+chac1251	verbal	6	slot	noun phrase {A,S,P,R,T}, adverbial, postpositional phrase	NA	NA
+chac1251	verbal	7	slot	body part incorporation	NA	NA
+chac1251	verbal	8	slot	verb core	NA	NA
+chac1251	verbal	9	slot	Valence 1 (transitivity)	NA	NA
+chac1251	verbal	10	slot	Valence 2 (antipassive -mis, causative1 -wa)	NA	NA
+chac1251	verbal	11	zone	Valence 3 (passive -ʔaka, interactional -na), negation =yama	NA	NA
+chac1251	verbal	12	zone	Valence 4 (interactional =bɨki, causative2 =ma)	NA	NA
+chac1251	verbal	13	slot	Completive =yo	NA	NA
+chac1251	verbal	14	slot	Associated motion	NA	NA
+chac1251	verbal	15	slot	Punctual =tapi	NA	NA
+chac1251	verbal	16	zone	Aspect, durative =kas	NA	NA
+chac1251	verbal	17	zone	adverbial/modal	NA	NA
+chac1251	verbal	18	slot	tsi	NA	NA
+chac1251	verbal	19	slot	evidential/modal	NA	NA
+chac1251	verbal	20	zone	noun phrase (A,S), postpositional phrase	NA	NA
+chac1251	verbal	21	slot	transitive (wa)	NA	NA
+chac1251	verbal	22	slot	third person plural =kan, aspect: durative, associated motion, adverbial	NA	NA
+chac1251	verbal	23	slot	temporal distance	NA	NA
+chac1251	verbal	24	slot	clause rank and type	NA	NA
+chac1251	verbal	25	slot	evidential/modal	NA	NA
+chac1251	verbal	26	slot	noun phrase {A,S}	NA	NA
+chac1251	verbal	27	slot	affective/modal	NA	NA
+chac1251	verbal	28	slot	noun phrase {P}, postpositional phrase	NA	NA
+siks1238	verbal	1	slot	proclitic	NA	NA
+siks1238	verbal	2	zone	DPs, adjuncts	NA	NA
+siks1238	verbal	3	slot	person prefix	NA	NA
+siks1238	verbal	4	zone	preverbs (incl. root)	NA	NA
+siks1238	verbal	5	slot	medial	NA	NA
+siks1238	verbal	6	slot	concrete final (incl. root)	NA	NA
+siks1238	verbal	7	slot	abstract final	NA	NA
+siks1238	verbal	8	slot	theme suffix	NA	NA
+siks1238	verbal	9	slot	clause-typing suffix	NA	NA
+siks1238	verbal	10	slot	plural agreement	NA	NA
+siks1238	verbal	11	slot	complementizer	NA	NA
+siks1238	verbal	12	slot	DP/clitic	NA	NA
+siks1238	verbal	13	slot	DP/clitic	NA	NA
+siks1238	verbal	14	slot	bare NP, bare plural	NA	NA
+ayau1235	verbal	1	slot	connector	NA	NA
+ayau1235	verbal	2	zone	sentence adv., topicalization	NA	NA
+ayau1235	verbal	3	slot	polar Gq, `even', `only'	NA	NA
+ayau1235	verbal	4	zone	noun complex, adverb	NA	NA
+ayau1235	verbal	5	slot	focus	NA	NA
+ayau1235	verbal	6	slot	anterior/posterior	NA	NA
+ayau1235	verbal	7	slot	`almost'	NA	NA
+ayau1235	verbal	8	slot	negation + ant/post	NA	NA
+ayau1235	verbal	9	slot	temporal sequence	NA	NA
+ayau1235	verbal	10	slot	modality, evidentiality	NA	NA
+ayau1235	verbal	11	slot	`a little'	NA	NA
+ayau1235	verbal	12	slot	past habitual, `always'	NA	NA
+ayau1235	verbal	13	slot	negation + ant/post 2	NA	NA
+ayau1235	verbal	14	slot	adverb, pronoun (P/R)	NA	NA
+ayau1235	verbal	15	slot	progressive	NA	NA
+ayau1235	verbal	16	slot	aspect/mode	NA	NA
+ayau1235	verbal	17	slot	associated motion	NA	NA
+ayau1235	verbal	18	slot	causative, inchoative	NA	NA
+ayau1235	verbal	19	slot	verb root(s)	NA	NA
+ayau1235	verbal	20	slot	comitative	NA	NA
+ayau1235	verbal	21	slot	focus	NA	NA
+ayau1235	verbal	22	slot	temporal sequence	NA	NA
+ayau1235	verbal	23	slot	modality, evidentiality	NA	NA
+ayau1235	verbal	24	slot	`a little'	NA	NA
+ayau1235	verbal	25	slot	past habitual, `always'	NA	NA
+ayau1235	verbal	26	zone	adverbial/quantifier clitics	NA	NA
+ayau1235	verbal	27	slot	modal clitics	NA	NA
+ayau1235	verbal	28	slot	pronominal clitics	NA	NA
+ayau1235	verbal	29	zone	noun complex, adverb	NA	NA
+ayau1235	verbal	30	slot	attitudinal particles	NA	NA
+ayau1235	verbal	31	zone	afterthoughts, vocative words	NA	NA
+ayau1235	nominal	1	slot	`more', `also'	NA	NA
+ayau1235	nominal	2	slot	temporal sequence	NA	NA
+ayau1235	nominal	3	slot	modality, evidentiality	NA	NA
+ayau1235	nominal	4	slot	`a little'	NA	NA
+ayau1235	nominal	5	slot	additive, `entire'	NA	NA
+ayau1235	nominal	6	slot	numeral, quantifier	NA	NA
+ayau1235	nominal	7	slot	temporal sequence	NA	NA
+ayau1235	nominal	8	slot	modality, evidentiality	NA	NA
+ayau1235	nominal	9	slot	`a little'	NA	NA
+ayau1235	nominal	10	slot	noun root(s)	NA	NA
+ayau1235	nominal	11	slot	adjective	NA	NA
+ayau1235	nominal	12	slot	possesssor	NA	NA
+ayau1235	nominal	13	slot	demonstrative	NA	NA
+ayau1235	nominal	14	slot	relative clause	NA	NA
+ayau1235	nominal	15	slot	absolute state marker	NA	NA
+ayau1235	nominal	16	slot	temporal sequence	NA	NA
+ayau1235	nominal	17	slot	modality, evidentiality	NA	NA
+ayau1235	nominal	18	slot	`a little'	NA	NA
+zenz1235	verbal	1	slot	conjunction		
+zenz1235	verbal	2	zone	NP (A, S, P)		
+zenz1235	verbal	3	zone 	adverbial		
+zenz1235	verbal	4	slot	mood (conditional, interrogative)		
+zenz1235	verbal	5	zone	mood (negation, hypothetical)		
+zenz1235	verbal	6	zone	adverbial		
+zenz1235	verbal	7	slot	aspect-mood		
+zenz1235	verbal	8	slot	transitivity		
+zenz1235	verbal	9	slot	auxiliary		
+zenz1235	verbal	10	slot	aspect-mood		
+zenz1235	verbal	11	slot	causative, iterative		
+zenz1235	verbal	12	slot	transitivity		
+zenz1235	verbal	13	slot	verb root		
+zenz1235	verbal	14	slot	compound stem, applicative		
+zenz1235	verbal	15	zone	adverbial		
+zenz1235	verbal	16	slot	essence		
+zenz1235	verbal	17	zone	subject NP (A, S)		
+zenz1235	verbal	18	zone	NP (P, T, R)		
+zenz1235	verbal	19	zone	adverbial		
+zenz1235	verbal	20	slot	tense		
+zenz1235	verbal	21	zone	discourse marker, adverbial		
+chac1251	nominal	1	zone	Possessor NP, Relative Clause, Quantifier, Zone Numeral, Demonstrative		
+chac1251	nominal	2	slot	Genitive Noun Complex		
+chac1251	nominal	3	slot	Prefix		
+chac1251	nominal	4	slot	Noun root		
+chac1251	nominal	5	slot	Augmentative, Veridative, Similative		
+chac1251	nominal	6	slot	Adjective, Xeni-phrase		
+chac1251	nominal	7	zone	Numeral, Relative Clause, Demonstrative		
+chac1251	nominal	8	slot	Conjunct		
+chac1251	nominal	9	zone	Plural, Dative		
+chac1251	nominal	10	slot	Case		
+chac1251	nominal	11	slot	Limitative, Interactive		
+chac1251	nominal	12	slot	Equalative		
+dura0000	nominal	1	slot	prepositions		
+dura0000	nominal	2	slot	topicalizer		
+dura0000	nominal	3	slot	other		
+dura0000	nominal	4	slot	numerals		
+dura0000	nominal	5	slot	quantifiers 1		
+dura0000	nominal	6	slot	quantifiers 2		
+dura0000	nominal	7	slot	classifier		
+dura0000	nominal	8	slot	noun base		
+dura0000	nominal	9	slot	compound (2nd part)		
+dura0000	nominal	10	zone	adjectives		
+dura0000	nominal	11	zone	possessor		
+dura0000	nominal	12	slot	demonstrative		
+dura0000	nominal	13	zone	relative clause		
+sout2991	verbal	1	zone	NP, PP, S	NA	NA
+sout2991	verbal	2	slot	already =�a	NA	NA
+sout2991	verbal	3	slot	already =raq	NA	NA
+sout2991	verbal	4	slot	certainly =puni	NA	NA
+sout2991	verbal	5	slot	adverbial, coord. =taq	NA	NA
+sout2991	verbal	6	slot	uncertainty =sina	NA	NA
+sout2991	verbal	7	slot	also =pis	NA	NA
+sout2991	verbal	8	slot	top., neg., dub., assert. =chu, =chus, =ch�, =pis	NA	NA
+sout2991	verbal	9	slot	interrogative =ri, , =r�	NA	NA
+sout2991	verbal	10	slot	topic marker =qa	NA	NA
+sout2991	verbal	11	zone	NP, PP, S	NA	NA
+sout2991	verbal	12	slot	verb root	NA	NA
+sout2991	verbal	13	slot	derivational suffixes and clusters	NA	NA
+sout2991	verbal	14	slot	inceptive -ri	NA	NA
+sout2991	verbal	15	slot	reciprocal -na	NA	NA
+sout2991	verbal	16	zone	adverbial, assistive -rqu,-rpa,-ysi	NA	NA
+sout2991	verbal	17	slot	affective -ri	NA	NA
+sout2991	verbal	18	slot	causative, passive -chi, -chiku	NA	NA
+sout2991	verbal	19	slot	reflexive, motion, adverbial -ku,-mu,-pu, -kampu,-kapu,-mpu	NA	NA
+sout2991	verbal	20	slot	proximal future -naya	NA	NA
+sout2991	verbal	21	slot	progressive -sha	NA	NA
+sout2991	verbal	22	slot	limitative -lla	NA	NA
+sout2991	verbal	23	slot	1.obj -wa	NA	NA
+sout2991	verbal	24	slot	when -qti	NA	NA
+sout2991	verbal	25	zone	TAME, second person -rqa,-sqa,-na, -su,-sa	NA	NA
+sout2991	verbal	26	slot	A/Sperson -ni, -yki,-nki,-n	NA	NA
+sout2991	verbal	27	slot	future:3.obj -q(a)	NA	NA
+sout2991	verbal	28	slot	person -n	NA	NA
+sout2991	verbal	29	slot	plural -chik, -yku, -ku	NA	NA
+sout2991	verbal	30	slot	limitative -lla	NA	NA
+sout2991	verbal	31	zone	NP, PP, S	NA	NA
+sout2991	verbal	32	slot	already =�a	NA	NA
+sout2991	verbal	33	slot	already =raq	NA	NA
+sout2991	verbal	34	slot	certainly =puni	NA	NA
+sout2991	verbal	35	slot	adverbial, coord. =taq	NA	NA
+sout2991	verbal	36	slot	uncertainty =sina	NA	NA
+sout2991	verbal	37	slot	also =pis	NA	NA
+sout2991	verbal	38	slot	top., neg., dub., assert. =chu, =chus, =ch�	NA	NA
+sout2991	verbal	39	slot	interrogative =ri, =r�	NA	NA
+sout2991	verbal	40	slot	topic marker =qa	NA	NA
+sout2991	verbal	41	slot	regretative karqa, kaq	NA	NA
+sout2991	verbal	42	zone	NP, PP, S	NA	NA
