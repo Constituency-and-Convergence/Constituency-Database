@@ -1,573 +1,573 @@
-Language_ID	Language_Name	Planar_ID	Planar_Type	Position_ID	Position	Position_Type	Elements	Class_Size	Notes
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_1	1	slot	Subordinators	?	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_2	2	slot	Np (A/S, O), Adv	Open	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_3	3	slot	Focus Marker (=Ēn)	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_4	4	slot	Adv Á= ‘Already’	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_5	5	slot	Clausal Negator: Kēd=	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_6	6	slot	Adverbial Enclitics Of Frequency And Manner: =Pkā, =Kā, =Zī	3	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_7	7	slot	Adverbial Enclitic Of Equality: =Zá	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_8	8	slot	Adverbial Enclitic Of Comparison: =Rú	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_9	9	slot	Indefinite, Interrogative Pronouns Tū=, Xī=, Kalī=; Plural Imperative Gūl=	4	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_10	10	slot	Tense/Aspect/Mood	?	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_11	11	slot	Motion: Andative E-, Venitive Ēd-	2	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_12	12	slot	Verb Base	Open	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_13	13	slot	Second Element In A Compound: Nominal, Adjectival Root	?	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_14	14	slot	Comitative -Næ:	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_15	15	slot	Diminutive: -Æˀny/-Iˀny	2	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_16	16	slot	Manner Adverbs: Ʒlyāˀ ‘In Vain’, ʤí: ‘Quietly’	2	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_17	17	slot	Intensifiers Tæ̰:, Da̰:n	2	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_18	18	slot	Negation: =Di	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_19	19	slot	Adverbial Enclitics Of Frequency And Manner: =Pkā, =Kā, =Zī	3	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_20	20	slot	Adverbial Enclitic Of Equality: =Zá	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_21	21	slot	Adverbial Enclitic Of Comparison: =Rú	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_22	22	slot	Reciprocal Saˀ	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_23	23	slot	Pronominal Enclitic; Np (A/S)	?	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_24	24	slot	Pronominal Enclitic; Np (P)	?	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_25	25	slot	Pronominal Enclitic; Np (R)	?	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_26	26	slot	Adverb (Lexical)	Open?	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_27	27	slot	Subordinate Clause	Open	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_28	28	slot	Discursive Enclitics	?	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_1	1	slot	Prepositions: Ʃtḛ̂:n ‘Of’; Næ:z ‘By’	2	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_2	2	zone	Quantifiers (Qr): Zyē:n ‘Various’, Tubruˀ ‘Some’, Indef Te= Etc; Relational Nouns: Lo:w ‘Face Of’, Kwæˀ ‘Side Of’ Etc.	?	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_3	3	slot	Adverbial Enclitics Of Frequency And Manner: =Pkā, =Kā, =Zī	3	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_4	4	slot	Adverbial Enclitic Of Equality: =Zá	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_5	5	slot	Adverbial Enclitics Of Frequency And Manner: =Pkā, =Kā, =Zī	3	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_6	6	slot	Plural D´=; 1pl Dū=; Dā= ‘Mr.’; Tyú= ‘Uncle’	4	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_7	7	slot	Possessive: Ʃ-	5	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_8	8	slot	Noun Base	Open	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_9	9	slot	Second Element Of A Compound	?	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_10	10	slot	Adjective(S) (Up To Three)	?	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_11	11	slot	Diminutive: -Æˀny/-Iˀny	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_12	12	slot	Intensifiers: Da̰:n; Tæ̰:	2	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_13	13	slot	Adverbial Enclitics Of Frequency And Manner: =Pkā, =Kā, =Zī	3	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_14	14	slot	Adverbial Enclitic Of Equality: =Zá	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_15	15	slot	Adverbial Enclitic Of Comparison: =Rú	1	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_16	16	slot	Demonstratives: =Kī Dem.temp; =Kán Dem.med; =Rǽˀ Dem.prox; =Rǣ Dem.dist	4	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_17	17	slot	Prepositional Phrase, Pronominal Enclitic, Np Possessor	Open	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_18	18	slot	Relative Clause	Open	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_19	19	slot	Demonstratives: =Kī Dem.temp; =Kán Dem.med; =Rǽˀ Dem.prox; =Rǣ Dem.dist	4	NA
-teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_20	20	slot	Focus Marker =Ēn	1	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_1	1	zone	Np{A,S,O,Oblique}	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_2	2	slot	Subject Proclitic {S, A} (Marginal)	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_3	3	zone	Valence: (Causative Root), Interactional ʔũh-, Reflexive/Passive Hup-, O (Simplex)	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_4	4	slot	Causative Root	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_5	5	slot	Factitive Hi-	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_6	6	zone	Verb Base (One Or More Compounded Roots)	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_7	7	slot	Telic -Yɨʔ	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_8	8	slot	Venitive -ʔay	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_9	9	slot	Applicative -ʔũh	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_10	10	slot	Completive -Cɨ̃p / -Cɨ̃w	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_11	11	slot	Emphasis -Pog	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_12	12	slot	Counterfactual -Tæ̃ʔ	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_13	13	slot	Perfective -ʔeʔ	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_14	14	slot	Clausal Negative -Nɨ́h	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_15	15	slot	Habitual -Bɨg , Distributive -Pɨd, Future -Teg	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_16	16	slot	Evidentials -Hɔ̃, -Cud, -Mah, Frustrative -Yæ̃h, Repetitive -B’ay	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_17	17	slot	Inchoative -Ay	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_18	18	slot	Inferred -Ni	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_19	19	slot	Filler -Vw	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_20	20	slot	Boundary	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_21	21	slot	Counterfactual =Tih	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_22	22	slot	Emphatic Coordinator =Nih	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_23	23	zone	Evidentials =Cud,  =Hɔ̃	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_24	24	slot	Repetitive =B’ay	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_25	25	slot	Emphasis =Pog	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_26	26	slot	Reportative =Mah	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_27	27	slot	Habitual Bɨ́g, Distributive Pɨ́d	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_28	28	slot	Frustrative Yæ̃́h	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_29	29	slot	Contrast J’ám / J’ã́h, Páh, Tán	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_30	30	zone	Intensifier Mún, Adversative Conjunction Kǎh, Persistive Tæ, Epistemic Modality ʔũh, Etc.	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_31	31	zone	Np{A,S,O,Oblique}	NA	NA
-hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_32	32	slot	Declarative -Vh	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_1	1	slot	Demonstrative	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_2	2	zone	Np{Poss}-Nɨh	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_3	3	slot	Quantifier, Numeral	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_4	4	slot	Relative Clause	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_5	5	zone	Root (Or Compounded Roots)	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_6	6	zone	Classifier	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_7	7	zone	Adjective	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_8	8	slot	‘Respect’ Markers =Wǝd (M), =Wa (F)	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_9	9	slot	Deceased Marker =Cud	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_10	10	slot	Augmentative =Pog, Diminutive =Mæh	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_11	11	slot	Plural =D’ǝh	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_12	12	zone	Case -Ǎn, -An, -V́́t	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_13	13	slot	Intensifier =Hup	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_14	14	slot	Parallel Marker =Hin	NA	NA
-hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_15	15	zone	Topic/Focus/Contrast/Evidentiality	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_1	1	zone	Conjunction Or Conjunctive Locution; Interrogative Ma?	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_2	2	zone	Topic: Dp {A,S}, Adverb, Adverbial Clause	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_3	3	zone	Focalized Adverb Or Advp	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_4	4	slot	Complementizers Ti, Ka;	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_5	5	zone	N’, N, Light Dp, Pronoun/Adverb	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_6	6	zone	N’, N, Light Dp, Pronoun/Adverb	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_7	7	slot	Mirative ‑P’an; Reportative ‑Jen	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_8	8	slot	Prospective Ja	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_9	9	slot	Incompletive ‑Ta(J)	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_10	10	slot	Negation Je	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_11	11	slot	Indirect Evidential ‑T’i; Mirative –P’an	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_12	12	slot	Interrogative ‑Mi	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_13	13	slot	Demonstrative Kyak ‘That (Way)’	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_14	14	slot	Cross Referencing Active/Nonactive Markers	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_15	15	slot	Reflexive/Reciprocal Ni(N); Antipassive Ka	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_16	16	slot	Predicate Base 	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_17	17	slot	Participle -K	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_18	18	slot	Causative; Antipassive; Verbalizer	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_19	19	slot	Concord  1	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_20	20	slot	Concord 2	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_21	21	slot	Perdurative ‑Jli	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_22	22	slot	Momentary ‑A	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_23	23	slot	Irrealis ‑A	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_24	24	slot	Reportative ‑Jen	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_25	25	slot	Indirect Evidential ‑T’i	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_26	26	slot	Mirative ‑P’an	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_27	27	slot	Incompletive ‑Ta(J)	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_28	28	slot	Interrogative ‑Mi	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_29	29	slot	Concord (3pl, A/S)‑Is	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_30	30	slot	Applicative: Orientation ‑A(J)	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_31	31	slot	Applicative: Instrumental ‑E(J)	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_32	32	slot	Applicative: Distal ‑Ey	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_33	33	slot	Applicative: Locatives ‑Jiy, ‑Jam	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_34	34	slot	Applicative: Punctual Locative ‑’E, Distributive/Comitative ‑K’i, And Possibly Others	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_35	35	slot	Oblique Marker (Only Realized If Position 36 Is Filled)	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_36	36	slot	Applicative	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_37	37	slot	Pluractional/Downwards -Jen	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_38	38	slot	Pluractional/Iterative –’Ni(J)	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_39	39	slot	Remote Past –Pe(J); Perfect –(’V…)Je(J)	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_40	40	zone?	Temporal, Aspectual And Discourse Particles	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_41	41	slot	Locatives	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_42	42	zone	N/, N’, Light Dp	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_43	43	zone	N/, N’, Light Dp	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_44	44	slot	Adpositions-Applicatives	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_45	45	zone	Heavy Dp (A, S, O, Obl, Possessor Of 43)	NA	NA
-iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_46	46	zone	Heavy Dp (A, S, O, Obl); S	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_1	1	zone	Sentence Adverbs	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_2	2	zone	Adverbial Clauses	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_3	3	slot	Interrogative Marker	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_4	4	slot	Obligation Fok	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_5	5	zone	Np, Subject Pronouns (A, S)	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_6	6	zone	Adverbial	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_7	7	slot	Copula Sé	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_8	8	slot	Negative Marker Pa (Neg), Pé (Neg), Poko (Not.yet)	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_9	9	slot	Tense Marker Té (Pst)	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_10	10	zone	Adverbial	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_11	11	slot	Tense Marker Ka (Ipfv), Ké (Fut), Key (Fut), Kay (Fut)	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_12	12	slot	Modal Pé ʻCanʼ	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_13	13	slot	Negative Marker Pa (Neg)	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_14	14	slot	Causative Fè	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_15	15	slot	Np (Causee); Causee Pronouns	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_16	16	zone	Adverbial	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_17	17	slot	Derivational Morpheme	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_18	18	slot	V Base	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_19	19	slot	Object Pronouns (Recipient)	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_20	20	slot	Object Pronouns (Patient)	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_21	21	zone	Adverbial	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_22	22	zone	Np, Complement Clauses	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_23	23	zone	Adverbial	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_24	24	slot	Pp	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_25	25	slot	Negative Marker …Ankò	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_26	26	zone	Adverbial Clauses	NA	NA
-mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_27	27	zone	Sentence Adverbs	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_1	1	zone	Nonverb (If Nominal, Any Grammatical Function/Case; Otherwise Particle) [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_2	2	slot	Verb Core: Lexemic Verb Base Or Minimal Verb Base [Oblig]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_3	3	zone	Vv Postbase [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_4	4	slot	Aspect: -Tu- ‘Always’, -Yuite- ‘Never’, -Qar- ‘Momentarily’ [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_5	5	slot	'Realization1: -Yaaqe- ‘In Vain’, -Ngate- ‘Seem’, -Ksaite- ''Not Yet'' [Opt]'	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_6	6	slot	Tense: -Llru- ‘Did’, -Ciqe- ‘Will’, -Ngaite- ‘Won’t’ [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_7	7	slot	Status: -Nrite- ‘Not’; -Yugnarqe- ‘May’; -Yugnaite- ‘Definitely Won’t’ [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_8	8	slot	Realization2: -Yaaqe- ‘In Vain’, -Ngate- ‘Seem’ [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_9	9	slot	Evidential: -Llini- ‘Evidently’; -Lli- ‘Perhaps’ [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_10	10	slot	Tense-Modal: -(G)Aqe- ‘Would Have’, -Ki- (Requires Optative) ‘Will; Did (Narrative Reading)’; -Lqe- (Requires Indicative Transitives) ‘Did’ [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_11	11	slot	Mood [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_12	12	slot	Mood [Oblig]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_13	13	slot	Person+Number [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_14	14	slot	Person+Number [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_15	15	slot	Person+Number [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_16	16	slot	Person+Number [Oblig]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_17	17	slot	Enclitic [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_18	18	slot	Enclitic [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_19	19	slot	Enclitic [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_20	20	slot	Enclitic [Opt]	NA	NA
-cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_21	21	zone	Nonverb (If Nominal, Any Gf/Case Otherwise Particle) [Opt]	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_1	1	zone	Np{A,S,P}; Pp; Adv	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_2	2	slot	Irrealis Y(I)-; Relative C(I)-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_3	3	slot	Translocative W(I)-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_4	4	slot	Partitive N(I)-/Ii- ~ Iy-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_5	5	slot	Distributive Tee-/Ti- ~ C-/Too-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_6	6	slot	Cislocative Ta(Y)-/Ti(Y)- ~ C-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_7	7	slot	Iterative Vv- ~ V́ʔ-/Ii- ~ Íʔ-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_8	8	slot	Negative Ka(Y)-/Kee-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_9	9	slot	Pronominal Prefixes	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_10	10	slot	Middle Ata(A)-/ Ali-/ At-; Reflexive Ataat-/ Ata(A)-/ At-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_11	11	slot	Incorporated Noun Root, Compounded Verb Root	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_12	12	slot	Verb Root	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_13	13	slot	Aspectual (Perfective, Only To Host The Following Derivational Suffixes In Positions 14 - 20)	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_14	14	slot	Duplicative -Iis-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_15	15	slot	Repetitive -Iiloo-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_16	16	slot	Causative (Can Be Repeated)	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_17	17	slot	Completive -O-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_18	18	zone	Dative -E(E)-; Ambulative -Iit-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_19	19	slot	Venitive -Ii-; Andative -Ee-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_20	20	slot	Inceptive -Iit-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_21	21	slot	Aspectual (Present; Imperfective; Perfective; Punctual; Infinitive)	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_22	22	slot	Modal (Indicative -A; Assertive -Vv́ʔi; Reportative -Ééʔi; Habitual -Óóʔi; Future Imperative -Vvʔi; Participial; Nominal -I)	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_23	23	zone	Clitics (Interrogative, Discursive)	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_24	24	zone	Np{A,S,P}; Pp; Adv	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_1	1	zone	Np{A,S,P}, Pp, Adv	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_2	2	slot	Partitive Ii- ~ Iy-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_3	3	slot	Distributive Ti- ~ C-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_4	4	slot	Pronominal Prefixes	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_5	5	slot	Middle Ata(A)-/ Ali-/ At-, Reflexive Ataat-/ Ata(A)-/ At-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_6	6	slot	Compounded Noun Root	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_7	7	slot	Noun Root	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_8	8	zone	-Ya ‘Real’, Diminutive -(Uu)Ca, Adjectivizer -Haaʔi	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_9	9	slot	Locative	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_10	10	zone	Clitics (Interrogative, Discursive)	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_11	11	zone	Np{A,S,P}, Pp, Adv	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_1	1	zone	Np{A,S,P}, Pp, Adv	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_2	2	slot	Translocative W(I)-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_3	3	slot	Partitive Ii- ~ Iy-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_4	4	slot	Distributive Ti- ~ C-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_5	5	slot	Pronominal Prefixes	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_6	6	slot	Middle Ata(A)-/ Ali-/ At-, Reflexive Ataat-/ Ata(A)-/ At-	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_7	7	slot	Adjective Root	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_8	8	slot	Intensifier	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_9	9	zone	Clitics (Interrogative, Discursive)	NA	NA
-cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_10	10	zone	Np{A,S,P}, Pp, Adv	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_1	1	slot	Xp (Np, Pp, S), Adverbials	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_2	2	zone	'P2'''	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_3	3	zone	Xp (Np, Pp,S), Adverbials	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_4	4	slot	'Prefix'''	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_5	5	slot	Noun	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_6	6	slot	Core Verb Root	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_7	7	zone	Motion, Time Of Day, Aspectual, Manner, Root	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_8	8	slot	Affectionate, Small	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_9	9	slot	With Difficulty, Almost	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_10	10	slot	Interactional	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_11	11	slot	Caus., Cmpl.	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_12	12	slot	3a	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_13	13	slot	Finality Marker	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_14	14	slot	Tense, Aspect, Posture, Negation, Wandering, Clause-Linkage	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_15	15	slot	Limitative, Again	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_16	16	slot	Auxiliary	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_17	17	slot	Connector	NA	NA
-arao1248	Araona	arao1248_verbal	verbal	arao1248_v_18	18	zone	Xp (Np, Pp, Adv)	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_1	1	slot	Connectors, Question Marker	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_2	2	slot	Question Words	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_3	3	slot	Focus (S/A/P, Obl, Etc.)	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_4	4	slot	Realis Negation	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_5	5	zone	Adverbials	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_6	6	slot	Additive	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_7	7	slot	Intensifier	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_8	8	slot	Intensifier/Again	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_9	9	slot	Intensifier/Again	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_10	10	slot	Additive	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_11	11	slot	Modals	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_12	12	slot	Perfective, Irrealis Negation	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_13	13	slot	Causative `Do’	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_14	14	slot	Irr/Pfv Class Markers	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_15	15	slot	Iterative	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_16	16	slot	Transitivizer `Put’	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_17	17	slot	Verb Core	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_18	18	slot	Additive	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_19	19	slot	Reciprocal	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_20	20	slot	Temporal Adv.	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_21	21	slot	Intensifier	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_22	22	slot	Intensifier/Again	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_23	23	slot	Intensifier/Again	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_24	24	slot	Additive	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_25	25	slot	Inside/Being	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_26	26	slot	S/A	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_27	27	slot	P	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_28	28	zone	Obl, Pp, Loc, Adv.	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_29	29	slot	Discourse Markers	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_1	1	slot	Left-Dislocated Rc	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_2	2	slot	Question Particles/Wh Words	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_3	3	slot	Clause Introducers	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_4	4	zone	Modal Particles	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_5	5	zone	Tense/Aspect Particles	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_6	6	slot	Adverbs (Place, Manner, Time)	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_7	7	slot	Noun-Locative Adverbials	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_8	8	zone	Modal Particles	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_9	9	zone	Tense/Aspect Particles	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_10	10	slot	Negation	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_11	11	zone	Modal Particles	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_12	12	zone	Tense/Aspect Particles	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_13	13	slot	Dp A, S Or Rc	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_14	14	slot	Noun-Locative Adverbials	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_15	15	zone	Modal Particles	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_16	16	zone	Tense/Aspect Particles	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_17	17	slot	Dp P, I.o. Or Rc	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_18	18	slot	Noun-Locative Adverbials	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_19	19	zone	Modal Particles	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_20	20	zone	Tense/Aspect Particles	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_21	21	slot	Dp D.o. Or Rc	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_22	22	slot	Noun-Locative Adverbials	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_23	23	zone	Modal Particles	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_24	24	zone	Tense/Aspect Particles	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_25	25	slot	Pronominal	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_26	26	slot	Incorp. Adverb	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_27	27	slot	Incorp. Noun	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_28	28	slot	Incorp. Verb	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_29	29	slot	Verb Stem (Root-Deriv)	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_30	30	slot	Aspect Suffix	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_31	31	slot	Negative Suffix	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_32	32	zone	Modality Suffix	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_33	33	slot	Hearsay Suffix	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_34	34	slot	Nominalizer/Relativizer Suffix	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_35	35	slot	Locative/Directional Suffix	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_36	36	slot	Subordinate Markers	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_37	37	slot	Adverbs (Place, Manner, Time)	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_38	38	slot	Noun-Locative Adverbials	NA	NA
-kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_39	39	slot	Right-Dislocated Dp Or Rc	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_1	1	slot	Polar Interrogative Particle	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_2	2	slot	Xp Fronted For Contrast	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_3	3	slot	Tense/Mood Marker	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_4	4	slot	Nominative Subject Np Or Pronoun	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_5	5	zone	Particles Of Varied Semantics	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_6	6	slot	Subject Paucal Number	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_7	7	slot	Oblique Subject Np Or Index	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_8	8	slot	Oblique Subject Marker	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_9	9	zone	Xp (Adjuncts)	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_10	10	slot	Direct Object Np Or Index	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_11	11	slot	'``Preverb'''''	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_12	12	slot	Subject Person	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_13	13	slot	Valency-Reducing Prefixes	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_14	14	slot	Transitivity Prefixes	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_15	15	slot	Gmverb Root	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_16	16	slot	Non-Finiteness Suffix	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_17	17	slot	P (Governed By Auxiliary)	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_18	18	slot	Subject Person (On Aux.)	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_19	19	slot	Auxiliary Root	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_20	20	slot	Non-Finiteness Suffix	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_21	21	zone	Non-Verbal Governing Modifier	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_22	22	slot	Light Manner Verbs	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_23	23	slot	Nominal Subordinate Clause	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_24	24	zone	Modifiers	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_25	25	slot	Complement Np	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_26	26	slot	Nominal Relator	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_27	27	slot	Noun Root	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_28	28	zone	Governing Modifier	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_29	29	slot	Dimunitive And Related	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_30	30	zone	Determiners And Related	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_31	31	slot	Adposition Or Case	NA	NA
-kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_32	32	slot	Focus-Sensitive Particles	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_1	1	slot	Clause Linkers	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_2	2	zone	S/A, Adverbs	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_3	3	slot	1st, 2nd P	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_4	4	slot	Negation	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_5	5	slot	Subject Defocusing	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_6	6	slot	Bound Person Forms	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_7	7	slot	Verb Core	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_8	8	slot	Valence Modifier I	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_9	9	slot	Causee	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_10	10	slot	Valence Modifier Ii	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_11	11	slot	'1stpl, 2nd S/A, 3rd`Pl'' P'	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_12	12	slot	Aspect	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_13	13	slot	Desiderative	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_14	14	slot	Reflexive, Reciprocal	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_15	15	zone	Transitivizer, Directionals, Locatives	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_16	16	slot	Non-Subject Plural	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_17	17	slot	Diminutives	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_18	18	slot	Temporal/ Evid?	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_19	19	slot	3rd P Or A	NA	NA
-moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_20	20	slot	Oblique Nominals	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_1	1	slot	Connectors	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_2	2	slot	Adverbial Interrogatives	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_3	3	zone	Adverbials	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_4	4	slot	Negation	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_5	5	slot	Constituent Focus/Interrogative	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_6	6	slot	Negation	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_7	7	slot	Indefinite Proforms	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_8	8	slot	S/A Np	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_9	9	slot	Person Indexes (S/A)	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_10	10	slot	Verb Core	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_11	11	slot	Valency	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_12	12	slot	Negation	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_13	13	slot	Tense	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_14	14	slot	Nominalization, Mood	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_15	15	slot	Gender/Number	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_16	16	slot	Imperative	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_17	17	slot	Middle	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_18	18	slot	Perfective	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_19	19	zone	Habitual, Frustrative	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_20	20	slot	Discourse Markers	NA	NA
-yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_21	21	zone	P, Pp, Obl, Adv, Remote Past	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_1	1	slot	Connector	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_2	2	zone	Noun Phrase {A,S,P,R,T}, Adverbial, Postpositional Phrase	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_3	3	slot	Tsi	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_4	4	slot	Evidential/Modal	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_5	5	slot	Affective	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_6	6	slot	Noun Phrase {A,S,P,R,T}, Adverbial, Postpositional Phrase	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_7	7	slot	Body Part Incorporation	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_8	8	slot	Verb Core	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_9	9	slot	Valence 1 (Transitivity)	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_10	10	slot	Valence 2 (Antipassive -Mis, Causative1 -Wa)	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_11	11	zone	Valence 3 (Passive -ʔaka, Interactional -Na), Negation =Yama	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_12	12	zone	Valence 4 (Interactional =Bɨki, Causative2 =Ma)	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_13	13	slot	Completive =Yo	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_14	14	slot	Associated Motion	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_15	15	slot	Punctual =Tapi	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_16	16	zone	Aspect, Durative =Kas	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_17	17	zone	Adverbial/Modal	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_18	18	slot	Tsi	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_19	19	slot	Evidential/Modal	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_20	20	zone	Noun Phrase (A,S), Postpositional Phrase	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_21	21	slot	Transitive (Wa)	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_22	22	slot	Third Person Plural =Kan, Aspect: Durative, Associated Motion, Adverbial	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_23	23	slot	Temporal Distance	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_24	24	slot	Clause Rank And Type	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_25	25	slot	Evidential/Modal	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_26	26	slot	Noun Phrase {A,S}	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_27	27	slot	Affective/Modal	NA	NA
-chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_28	28	slot	Noun Phrase {P}, Postpositional Phrase	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_1	1	slot	Proclitic	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_2	2	zone	Dps, Adjuncts	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_3	3	slot	Person Prefix	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_4	4	zone	Preverbs (Incl. Root)	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_5	5	slot	Medial	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_6	6	slot	Concrete Final (Incl. Root)	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_7	7	slot	Abstract Final	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_8	8	slot	Theme Suffix	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_9	9	slot	Clause-Typing Suffix	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_10	10	slot	Plural Agreement	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_11	11	slot	Complementizer	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_12	12	slot	Dp/Clitic	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_13	13	slot	Dp/Clitic	NA	NA
-siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_14	14	slot	Bare Np, Bare Plural	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_1	1	slot	Connector	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_2	2	zone	Sentence Adv., Topicalization	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_3	3	slot	Polar Gq, `Even', `Only'	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_4	4	zone	Noun Complex, Adverb	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_5	5	slot	Focus	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_6	6	slot	Anterior/Posterior	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_7	7	slot	`Almost'	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_8	8	slot	Negation + Ant/Post	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_9	9	slot	Temporal Sequence	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_10	10	slot	Modality, Evidentiality	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_11	11	slot	`A Little'	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_12	12	slot	Past Habitual, `Always'	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_13	13	slot	Negation + Ant/Post 2	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_14	14	slot	Adverb, Pronoun (P/R)	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_15	15	slot	Progressive	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_16	16	slot	Aspect/Mode	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_17	17	slot	Associated Motion	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_18	18	slot	Causative, Inchoative	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_19	19	slot	Verb Root(S)	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_20	20	slot	Comitative	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_21	21	slot	Focus	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_22	22	slot	Temporal Sequence	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_23	23	slot	Modality, Evidentiality	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_24	24	slot	`A Little'	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_25	25	slot	Past Habitual, `Always'	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_26	26	zone	Adverbial/Quantifier Clitics	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_27	27	slot	Modal Clitics	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_28	28	slot	Pronominal Clitics	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_29	29	zone	Noun Complex, Adverb	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_30	30	slot	Attitudinal Particles	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_31	31	zone	Afterthoughts, Vocative Words	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_1	1	slot	`More', `Also'	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_2	2	slot	Temporal Sequence	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_3	3	slot	Modality, Evidentiality	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_4	4	slot	`A Little'	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_5	5	slot	Additive, `Entire'	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_6	6	slot	Numeral, Quantifier	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_7	7	slot	Temporal Sequence	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_8	8	slot	Modality, Evidentiality	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_9	9	slot	`A Little'	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_10	10	slot	Noun Root(S)	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_11	11	slot	Adjective	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_12	12	slot	Possesssor	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_13	13	slot	Demonstrative	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_14	14	slot	Relative Clause	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_15	15	slot	Absolute State Marker	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_16	16	slot	Temporal Sequence	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_17	17	slot	Modality, Evidentiality	NA	NA
-ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_18	18	slot	`A Little'	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_1	1	slot	Conjunction	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_2	2	zone	Np (A, S, P)	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_3	3	zone	Adverbial	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_4	4	slot	Mood (Conditional, Interrogative)	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_5	5	zone	Mood (Negation, Hypothetical)	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_6	6	zone	Adverbial	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_7	7	slot	Aspect-Mood	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_8	8	slot	Transitivity	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_9	9	slot	Auxiliary	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_10	10	slot	Aspect-Mood	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_11	11	slot	Causative, Iterative	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_12	12	slot	Transitivity	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_13	13	slot	Verb Root	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_14	14	slot	Compound Stem, Applicative	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_15	15	zone	Adverbial	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_16	16	slot	Essence	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_17	17	zone	Subject Np (A, S)	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_18	18	zone	Np (P, T, R)	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_19	19	zone	Adverbial	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_20	20	slot	Tense	NA	NA
-zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_21	21	zone	Discourse Marker, Adverbial	NA	NA
-chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_1	1	zone	Possessor Np, Relative Clause, Quantifier, Zone Numeral, Demonstrative	NA	NA
-chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_2	2	slot	Genitive Noun Complex	NA	NA
-chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_3	3	slot	Prefix	NA	NA
-chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_4	4	slot	Noun Root	NA	NA
-chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_5	5	slot	Augmentative, Veridative, Similative	NA	NA
-chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_6	6	slot	Adjective, Xeni-Phrase	NA	NA
-chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_7	7	zone	Numeral, Relative Clause, Demonstrative	NA	NA
-chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_8	8	slot	Conjunct	NA	NA
-chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_9	9	zone	Plural, Dative	NA	NA
-chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_10	10	slot	Case	NA	NA
-chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_11	11	slot	Limitative, Interactive	NA	NA
-chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_12	12	slot	Equalative	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_1	1	slot	Prepositions	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_2	2	slot	Topicalizer	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_3	3	slot	Other	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_4	4	slot	Numerals	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_5	5	slot	Quantifiers 1	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_6	6	slot	Quantifiers 2	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_7	7	slot	Classifier	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_8	8	slot	Noun Base	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_9	9	slot	Compound (2nd Part)	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_10	10	zone	Adjectives	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_11	11	zone	Possessor	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_12	12	slot	Demonstrative	NA	NA
-dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_13	13	zone	Relative Clause	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_1	1	zone	Np, Pp, S	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_2	2	slot	Already =�A	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_3	3	slot	Already =Raq	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_4	4	slot	Certainly =Puni	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_5	5	slot	Adverbial, Coord. =Taq	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_6	6	slot	Uncertainty =Sina	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_7	7	slot	Also =Pis	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_8	8	slot	Top., Neg., Dub., Assert. =Chu, =Chus, =Ch�, =Pis	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_9	9	slot	Interrogative =Ri, , =R�	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_10	10	slot	Topic Marker =Qa	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_11	11	zone	Np, Pp, S	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_12	12	slot	Verb Root	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_13	13	slot	Derivational Suffixes And Clusters	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_14	14	slot	Inceptive -Ri	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_15	15	slot	Reciprocal -Na	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_16	16	zone	Adverbial, Assistive -Rqu,-Rpa,-Ysi	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_17	17	slot	Affective -Ri	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_18	18	slot	Causative, Passive -Chi, -Chiku	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_19	19	slot	Reflexive, Motion, Adverbial -Ku,-Mu,-Pu, -Kampu,-Kapu,-Mpu	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_20	20	slot	Proximal Future -Naya	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_21	21	slot	Progressive -Sha	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_22	22	slot	Limitative -Lla	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_23	23	slot	1.Obj -Wa	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_24	24	slot	When -Qti	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_25	25	zone	Tame, Second Person -Rqa,-Sqa,-Na, -Su,-Sa	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_26	26	slot	A/Sperson -Ni, -Yki,-Nki,-N	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_27	27	slot	Future:3.Obj -Q(A)	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_28	28	slot	Person -N	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_29	29	slot	Plural -Chik, -Yku, -Ku	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_30	30	slot	Limitative -Lla	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_31	31	zone	Np, Pp, S	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_32	32	slot	Already =�A	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_33	33	slot	Already =Raq	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_34	34	slot	Certainly =Puni	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_35	35	slot	Adverbial, Coord. =Taq	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_36	36	slot	Uncertainty =Sina	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_37	37	slot	Also =Pis	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_38	38	slot	Top., Neg., Dub., Assert. =Chu, =Chus, =Ch�	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_39	39	slot	Interrogative =Ri, =R�	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_40	40	slot	Topic Marker =Qa	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_41	41	slot	Regretative Karqa, Kaq	NA	NA
-sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_42	42	zone	Np, Pp, S	NA	NA
+Language_ID	Language_Name	Planar_ID	Planar_Type	Position_ID	Position	Position_Type	Elements
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_1	1	slot	Subordinators
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_2	2	slot	Np (A/S, O), Adv
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_3	3	slot	Focus Marker (=Ēn)
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_4	4	slot	Adv Á= ‘Already’
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_5	5	slot	Clausal Negator: Kēd=
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_6	6	slot	Adverbial Enclitics Of Frequency And Manner: =Pkā, =Kā, =Zī
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_7	7	slot	Adverbial Enclitic Of Equality: =Zá
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_8	8	slot	Adverbial Enclitic Of Comparison: =Rú
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_9	9	slot	Indefinite, Interrogative Pronouns Tū=, Xī=, Kalī=; Plural Imperative Gūl=
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_10	10	slot	Tense/Aspect/Mood
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_11	11	slot	Motion: Andative E-, Venitive Ēd-
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_12	12	slot	Verb Base
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_13	13	slot	Second Element In A Compound: Nominal, Adjectival Root
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_14	14	slot	Comitative -Næ:
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_15	15	slot	Diminutive: -Æˀny/-Iˀny
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_16	16	slot	Manner Adverbs: Ʒlyāˀ ‘In Vain’, ʤí: ‘Quietly’
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_17	17	slot	Intensifiers Tæ̰:, Da̰:n
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_18	18	slot	Negation: =Di
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_19	19	slot	Adverbial Enclitics Of Frequency And Manner: =Pkā, =Kā, =Zī
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_20	20	slot	Adverbial Enclitic Of Equality: =Zá
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_21	21	slot	Adverbial Enclitic Of Comparison: =Rú
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_22	22	slot	Reciprocal Saˀ
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_23	23	slot	Pronominal Enclitic; Np (A/S)
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_24	24	slot	Pronominal Enclitic; Np (P)
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_25	25	slot	Pronominal Enclitic; Np (R)
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_26	26	slot	Adverb (Lexical)
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_27	27	slot	Subordinate Clause
+teot1238	Teotitlán del Valle Zapotec	teot1238_verbal	verbal	teot1238_v_28	28	slot	Discursive Enclitics
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_1	1	slot	Prepositions: Ʃtḛ̂:n ‘Of’; Næ:z ‘By’
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_2	2	zone	Quantifiers (Qr): Zyē:n ‘Various’, Tubruˀ ‘Some’, Indef Te= Etc; Relational Nouns: Lo:w ‘Face Of’, Kwæˀ ‘Side Of’ Etc.
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_3	3	slot	Adverbial Enclitics Of Frequency And Manner: =Pkā, =Kā, =Zī
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_4	4	slot	Adverbial Enclitic Of Equality: =Zá
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_5	5	slot	Adverbial Enclitics Of Frequency And Manner: =Pkā, =Kā, =Zī
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_6	6	slot	Plural D´=; 1pl Dū=; Dā= ‘Mr.’; Tyú= ‘Uncle’
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_7	7	slot	Possessive: Ʃ-
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_8	8	slot	Noun Base
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_9	9	slot	Second Element Of A Compound
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_10	10	slot	Adjective(S) (Up To Three)
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_11	11	slot	Diminutive: -Æˀny/-Iˀny
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_12	12	slot	Intensifiers: Da̰:n; Tæ̰:
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_13	13	slot	Adverbial Enclitics Of Frequency And Manner: =Pkā, =Kā, =Zī
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_14	14	slot	Adverbial Enclitic Of Equality: =Zá
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_15	15	slot	Adverbial Enclitic Of Comparison: =Rú
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_16	16	slot	Demonstratives: =Kī Dem.temp; =Kán Dem.med; =Rǽˀ Dem.prox; =Rǣ Dem.dist
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_17	17	slot	Prepositional Phrase, Pronominal Enclitic, Np Possessor
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_18	18	slot	Relative Clause
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_19	19	slot	Demonstratives: =Kī Dem.temp; =Kán Dem.med; =Rǽˀ Dem.prox; =Rǣ Dem.dist
+teot1238	Teotitlán del Valle Zapotec	teot1238_nominal	nominal	teot1238_n_20	20	slot	Focus Marker =Ēn
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_1	1	zone	Np{A,S,O,Oblique}
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_2	2	slot	Subject Proclitic {S, A} (Marginal)
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_3	3	zone	Valence: (Causative Root), Interactional ʔũh-, Reflexive/Passive Hup-, O (Simplex)
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_4	4	slot	Causative Root
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_5	5	slot	Factitive Hi-
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_6	6	zone	Verb Base (One Or More Compounded Roots)
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_7	7	slot	Telic -Yɨʔ
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_8	8	slot	Venitive -ʔay
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_9	9	slot	Applicative -ʔũh
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_10	10	slot	Completive -Cɨ̃p / -Cɨ̃w
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_11	11	slot	Emphasis -Pog
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_12	12	slot	Counterfactual -Tæ̃ʔ
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_13	13	slot	Perfective -ʔeʔ
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_14	14	slot	Clausal Negative -Nɨ́h
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_15	15	slot	Habitual -Bɨg , Distributive -Pɨd, Future -Teg
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_16	16	slot	Evidentials -Hɔ̃, -Cud, -Mah, Frustrative -Yæ̃h, Repetitive -B’ay
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_17	17	slot	Inchoative -Ay
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_18	18	slot	Inferred -Ni
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_19	19	slot	Filler -Vw
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_20	20	slot	Boundary
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_21	21	slot	Counterfactual =Tih
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_22	22	slot	Emphatic Coordinator =Nih
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_23	23	zone	Evidentials =Cud,  =Hɔ̃
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_24	24	slot	Repetitive =B’ay
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_25	25	slot	Emphasis =Pog
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_26	26	slot	Reportative =Mah
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_27	27	slot	Habitual Bɨ́g, Distributive Pɨ́d
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_28	28	slot	Frustrative Yæ̃́h
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_29	29	slot	Contrast J’ám / J’ã́h, Páh, Tán
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_30	30	zone	Intensifier Mún, Adversative Conjunction Kǎh, Persistive Tæ, Epistemic Modality ʔũh, Etc.
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_31	31	zone	Np{A,S,O,Oblique}
+hupd1244	Hup	hupd1244_verbal	verbal	hupd1244_v_32	32	slot	Declarative -Vh
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_1	1	slot	Demonstrative
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_2	2	zone	Np{Poss}-Nɨh
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_3	3	slot	Quantifier, Numeral
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_4	4	slot	Relative Clause
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_5	5	zone	Root (Or Compounded Roots)
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_6	6	zone	Classifier
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_7	7	zone	Adjective
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_8	8	slot	‘Respect’ Markers =Wǝd (M), =Wa (F)
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_9	9	slot	Deceased Marker =Cud
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_10	10	slot	Augmentative =Pog, Diminutive =Mæh
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_11	11	slot	Plural =D’ǝh
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_12	12	zone	Case -Ǎn, -An, -V́́t
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_13	13	slot	Intensifier =Hup
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_14	14	slot	Parallel Marker =Hin
+hupd1244	Hup	hupd1244_nominal	nominal	hupd1244_n_15	15	zone	Topic/Focus/Contrast/Evidentiality
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_1	1	zone	Conjunction Or Conjunctive Locution; Interrogative Ma?
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_2	2	zone	Topic: Dp {A,S}, Adverb, Adverbial Clause
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_3	3	zone	Focalized Adverb Or Advp
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_4	4	slot	Complementizers Ti, Ka;
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_5	5	zone	N’, N, Light Dp, Pronoun/Adverb
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_6	6	zone	N’, N, Light Dp, Pronoun/Adverb
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_7	7	slot	Mirative ‑P’an; Reportative ‑Jen
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_8	8	slot	Prospective Ja
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_9	9	slot	Incompletive ‑Ta(J)
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_10	10	slot	Negation Je
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_11	11	slot	Indirect Evidential ‑T’i; Mirative –P’an
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_12	12	slot	Interrogative ‑Mi
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_13	13	slot	Demonstrative Kyak ‘That (Way)’
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_14	14	slot	Cross Referencing Active/Nonactive Markers
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_15	15	slot	Reflexive/Reciprocal Ni(N); Antipassive Ka
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_16	16	slot	Predicate Base 
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_17	17	slot	Participle -K
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_18	18	slot	Causative; Antipassive; Verbalizer
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_19	19	slot	Concord  1
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_20	20	slot	Concord 2
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_21	21	slot	Perdurative ‑Jli
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_22	22	slot	Momentary ‑A
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_23	23	slot	Irrealis ‑A
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_24	24	slot	Reportative ‑Jen
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_25	25	slot	Indirect Evidential ‑T’i
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_26	26	slot	Mirative ‑P’an
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_27	27	slot	Incompletive ‑Ta(J)
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_28	28	slot	Interrogative ‑Mi
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_29	29	slot	Concord (3pl, A/S)‑Is
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_30	30	slot	Applicative: Orientation ‑A(J)
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_31	31	slot	Applicative: Instrumental ‑E(J)
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_32	32	slot	Applicative: Distal ‑Ey
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_33	33	slot	Applicative: Locatives ‑Jiy, ‑Jam
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_34	34	slot	Applicative: Punctual Locative ‑’E, Distributive/Comitative ‑K’i, And Possibly Others
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_35	35	slot	Oblique Marker (Only Realized If Position 36 Is Filled)
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_36	36	slot	Applicative
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_37	37	slot	Pluractional/Downwards -Jen
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_38	38	slot	Pluractional/Iterative –’Ni(J)
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_39	39	slot	Remote Past –Pe(J); Perfect –(’V…)Je(J)
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_40	40	zone?	Temporal, Aspectual And Discourse Particles
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_41	41	slot	Locatives
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_42	42	zone	N/, N’, Light Dp
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_43	43	zone	N/, N’, Light Dp
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_44	44	slot	Adpositions-Applicatives
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_45	45	zone	Heavy Dp (A, S, O, Obl, Possessor Of 43)
+iyoj1235	Chorote	iyoj1235_verbal	verbal	iyoj1235_v_46	46	zone	Heavy Dp (A, S, O, Obl); S
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_1	1	zone	Sentence Adverbs
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_2	2	zone	Adverbial Clauses
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_3	3	slot	Interrogative Marker
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_4	4	slot	Obligation Fok
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_5	5	zone	Np, Subject Pronouns (A, S)
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_6	6	zone	Adverbial
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_7	7	slot	Copula Sé
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_8	8	slot	Negative Marker Pa (Neg), Pé (Neg), Poko (Not.yet)
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_9	9	slot	Tense Marker Té (Pst)
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_10	10	zone	Adverbial
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_11	11	slot	Tense Marker Ka (Ipfv), Ké (Fut), Key (Fut), Kay (Fut)
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_12	12	slot	Modal Pé ʻCanʼ
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_13	13	slot	Negative Marker Pa (Neg)
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_14	14	slot	Causative Fè
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_15	15	slot	Np (Causee); Causee Pronouns
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_16	16	zone	Adverbial
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_17	17	slot	Derivational Morpheme
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_18	18	slot	V Base
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_19	19	slot	Object Pronouns (Recipient)
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_20	20	slot	Object Pronouns (Patient)
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_21	21	zone	Adverbial
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_22	22	zone	Np, Complement Clauses
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_23	23	zone	Adverbial
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_24	24	slot	Pp
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_25	25	slot	Negative Marker …Ankò
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_26	26	zone	Adverbial Clauses
+mart1259	Martinican	mart1259_verbal	verbal	mart1259_v_27	27	zone	Sentence Adverbs
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_1	1	zone	Nonverb (If Nominal, Any Grammatical Function/Case; Otherwise Particle) [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_2	2	slot	Verb Core: Lexemic Verb Base Or Minimal Verb Base [Oblig]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_3	3	zone	Vv Postbase [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_4	4	slot	Aspect: -Tu- ‘Always’, -Yuite- ‘Never’, -Qar- ‘Momentarily’ [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_5	5	slot	'Realization1: -Yaaqe- ‘In Vain’, -Ngate- ‘Seem’, -Ksaite- ''Not Yet'' [Opt]'
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_6	6	slot	Tense: -Llru- ‘Did’, -Ciqe- ‘Will’, -Ngaite- ‘Won’t’ [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_7	7	slot	Status: -Nrite- ‘Not’; -Yugnarqe- ‘May’; -Yugnaite- ‘Definitely Won’t’ [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_8	8	slot	Realization2: -Yaaqe- ‘In Vain’, -Ngate- ‘Seem’ [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_9	9	slot	Evidential: -Llini- ‘Evidently’; -Lli- ‘Perhaps’ [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_10	10	slot	Tense-Modal: -(G)Aqe- ‘Would Have’, -Ki- (Requires Optative) ‘Will; Did (Narrative Reading)’; -Lqe- (Requires Indicative Transitives) ‘Did’ [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_11	11	slot	Mood [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_12	12	slot	Mood [Oblig]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_13	13	slot	Person+Number [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_14	14	slot	Person+Number [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_15	15	slot	Person+Number [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_16	16	slot	Person+Number [Oblig]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_17	17	slot	Enclitic [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_18	18	slot	Enclitic [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_19	19	slot	Enclitic [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_20	20	slot	Enclitic [Opt]
+cent2127	Central Alaskan Yupik	cent2127_verbal	verbal	cent2127_v_21	21	zone	Nonverb (If Nominal, Any Gf/Case Otherwise Particle) [Opt]
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_1	1	zone	Np{A,S,P}; Pp; Adv
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_2	2	slot	Irrealis Y(I)-; Relative C(I)-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_3	3	slot	Translocative W(I)-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_4	4	slot	Partitive N(I)-/Ii- ~ Iy-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_5	5	slot	Distributive Tee-/Ti- ~ C-/Too-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_6	6	slot	Cislocative Ta(Y)-/Ti(Y)- ~ C-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_7	7	slot	Iterative Vv- ~ V́ʔ-/Ii- ~ Íʔ-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_8	8	slot	Negative Ka(Y)-/Kee-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_9	9	slot	Pronominal Prefixes
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_10	10	slot	Middle Ata(A)-/ Ali-/ At-; Reflexive Ataat-/ Ata(A)-/ At-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_11	11	slot	Incorporated Noun Root, Compounded Verb Root
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_12	12	slot	Verb Root
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_13	13	slot	Aspectual (Perfective, Only To Host The Following Derivational Suffixes In Positions 14 - 20)
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_14	14	slot	Duplicative -Iis-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_15	15	slot	Repetitive -Iiloo-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_16	16	slot	Causative (Can Be Repeated)
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_17	17	slot	Completive -O-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_18	18	zone	Dative -E(E)-; Ambulative -Iit-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_19	19	slot	Venitive -Ii-; Andative -Ee-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_20	20	slot	Inceptive -Iit-
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_21	21	slot	Aspectual (Present; Imperfective; Perfective; Punctual; Infinitive)
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_22	22	slot	Modal (Indicative -A; Assertive -Vv́ʔi; Reportative -Ééʔi; Habitual -Óóʔi; Future Imperative -Vvʔi; Participial; Nominal -I)
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_23	23	zone	Clitics (Interrogative, Discursive)
+cher1273	Oklahoma Cherokee	cher1273_verbal	verbal	cher1273_v_24	24	zone	Np{A,S,P}; Pp; Adv
+cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_1	1	zone	Np{A,S,P}, Pp, Adv
+cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_2	2	slot	Partitive Ii- ~ Iy-
+cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_3	3	slot	Distributive Ti- ~ C-
+cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_4	4	slot	Pronominal Prefixes
+cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_5	5	slot	Middle Ata(A)-/ Ali-/ At-, Reflexive Ataat-/ Ata(A)-/ At-
+cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_6	6	slot	Compounded Noun Root
+cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_7	7	slot	Noun Root
+cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_8	8	zone	-Ya ‘Real’, Diminutive -(Uu)Ca, Adjectivizer -Haaʔi
+cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_9	9	slot	Locative
+cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_10	10	zone	Clitics (Interrogative, Discursive)
+cher1273	Oklahoma Cherokee	cher1273_nominal	nominal	cher1273_n_11	11	zone	Np{A,S,P}, Pp, Adv
+cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_1	1	zone	Np{A,S,P}, Pp, Adv
+cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_2	2	slot	Translocative W(I)-
+cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_3	3	slot	Partitive Ii- ~ Iy-
+cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_4	4	slot	Distributive Ti- ~ C-
+cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_5	5	slot	Pronominal Prefixes
+cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_6	6	slot	Middle Ata(A)-/ Ali-/ At-, Reflexive Ataat-/ Ata(A)-/ At-
+cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_7	7	slot	Adjective Root
+cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_8	8	slot	Intensifier
+cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_9	9	zone	Clitics (Interrogative, Discursive)
+cher1273	Oklahoma Cherokee	cher1273_adjective	adjective	cher1273_a_10	10	zone	Np{A,S,P}, Pp, Adv
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_1	1	slot	Xp (Np, Pp, S), Adverbials
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_2	2	zone	'P2'''
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_3	3	zone	Xp (Np, Pp,S), Adverbials
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_4	4	slot	'Prefix'''
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_5	5	slot	Noun
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_6	6	slot	Core Verb Root
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_7	7	zone	Motion, Time Of Day, Aspectual, Manner, Root
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_8	8	slot	Affectionate, Small
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_9	9	slot	With Difficulty, Almost
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_10	10	slot	Interactional
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_11	11	slot	Caus., Cmpl.
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_12	12	slot	3a
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_13	13	slot	Finality Marker
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_14	14	slot	Tense, Aspect, Posture, Negation, Wandering, Clause-Linkage
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_15	15	slot	Limitative, Again
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_16	16	slot	Auxiliary
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_17	17	slot	Connector
+arao1248	Araona	arao1248_verbal	verbal	arao1248_v_18	18	zone	Xp (Np, Pp, Adv)
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_1	1	slot	Connectors, Question Marker
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_2	2	slot	Question Words
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_3	3	slot	Focus (S/A/P, Obl, Etc.)
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_4	4	slot	Realis Negation
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_5	5	zone	Adverbials
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_6	6	slot	Additive
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_7	7	slot	Intensifier
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_8	8	slot	Intensifier/Again
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_9	9	slot	Intensifier/Again
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_10	10	slot	Additive
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_11	11	slot	Modals
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_12	12	slot	Perfective, Irrealis Negation
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_13	13	slot	Causative `Do’
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_14	14	slot	Irr/Pfv Class Markers
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_15	15	slot	Iterative
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_16	16	slot	Transitivizer `Put’
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_17	17	slot	Verb Core
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_18	18	slot	Additive
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_19	19	slot	Reciprocal
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_20	20	slot	Temporal Adv.
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_21	21	slot	Intensifier
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_22	22	slot	Intensifier/Again
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_23	23	slot	Intensifier/Again
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_24	24	slot	Additive
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_25	25	slot	Inside/Being
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_26	26	slot	S/A
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_27	27	slot	P
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_28	28	zone	Obl, Pp, Loc, Adv.
+dura0000	San Martín Duraznos Mixtec	dura0000_verbal	verbal	dura0000_v_29	29	slot	Discourse Markers
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_1	1	slot	Left-Dislocated Rc
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_2	2	slot	Question Particles/Wh Words
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_3	3	slot	Clause Introducers
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_4	4	zone	Modal Particles
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_5	5	zone	Tense/Aspect Particles
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_6	6	slot	Adverbs (Place, Manner, Time)
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_7	7	slot	Noun-Locative Adverbials
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_8	8	zone	Modal Particles
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_9	9	zone	Tense/Aspect Particles
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_10	10	slot	Negation
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_11	11	zone	Modal Particles
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_12	12	zone	Tense/Aspect Particles
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_13	13	slot	Dp A, S Or Rc
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_14	14	slot	Noun-Locative Adverbials
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_15	15	zone	Modal Particles
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_16	16	zone	Tense/Aspect Particles
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_17	17	slot	Dp P, I.o. Or Rc
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_18	18	slot	Noun-Locative Adverbials
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_19	19	zone	Modal Particles
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_20	20	zone	Tense/Aspect Particles
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_21	21	slot	Dp D.o. Or Rc
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_22	22	slot	Noun-Locative Adverbials
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_23	23	zone	Modal Particles
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_24	24	zone	Tense/Aspect Particles
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_25	25	slot	Pronominal
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_26	26	slot	Incorp. Adverb
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_27	27	slot	Incorp. Noun
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_28	28	slot	Incorp. Verb
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_29	29	slot	Verb Stem (Root-Deriv)
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_30	30	slot	Aspect Suffix
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_31	31	slot	Negative Suffix
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_32	32	zone	Modality Suffix
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_33	33	slot	Hearsay Suffix
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_34	34	slot	Nominalizer/Relativizer Suffix
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_35	35	slot	Locative/Directional Suffix
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_36	36	slot	Subordinate Markers
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_37	37	slot	Adverbs (Place, Manner, Time)
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_38	38	slot	Noun-Locative Adverbials
+kiow1266	Kiowa	kiow1266_verbal	verbal	kiow1266_v_39	39	slot	Right-Dislocated Dp Or Rc
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_1	1	slot	Polar Interrogative Particle
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_2	2	slot	Xp Fronted For Contrast
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_3	3	slot	Tense/Mood Marker
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_4	4	slot	Nominative Subject Np Or Pronoun
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_5	5	zone	Particles Of Varied Semantics
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_6	6	slot	Subject Paucal Number
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_7	7	slot	Oblique Subject Np Or Index
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_8	8	slot	Oblique Subject Marker
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_9	9	zone	Xp (Adjuncts)
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_10	10	slot	Direct Object Np Or Index
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_11	11	slot	'``Preverb'''''
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_12	12	slot	Subject Person
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_13	13	slot	Valency-Reducing Prefixes
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_14	14	slot	Transitivity Prefixes
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_15	15	slot	Gmverb Root
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_16	16	slot	Non-Finiteness Suffix
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_17	17	slot	P (Governed By Auxiliary)
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_18	18	slot	Subject Person (On Aux.)
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_19	19	slot	Auxiliary Root
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_20	20	slot	Non-Finiteness Suffix
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_21	21	zone	Non-Verbal Governing Modifier
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_22	22	slot	Light Manner Verbs
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_23	23	slot	Nominal Subordinate Clause
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_24	24	zone	Modifiers
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_25	25	slot	Complement Np
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_26	26	slot	Nominal Relator
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_27	27	slot	Noun Root
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_28	28	zone	Governing Modifier
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_29	29	slot	Dimunitive And Related
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_30	30	zone	Determiners And Related
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_31	31	slot	Adposition Or Case
+kaya1330	Mebengokre	kaya1330_verbal	verbal	kaya1330_v_32	32	slot	Focus-Sensitive Particles
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_1	1	slot	Clause Linkers
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_2	2	zone	S/A, Adverbs
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_3	3	slot	1st, 2nd P
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_4	4	slot	Negation
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_5	5	slot	Subject Defocusing
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_6	6	slot	Bound Person Forms
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_7	7	slot	Verb Core
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_8	8	slot	Valence Modifier I
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_9	9	slot	Causee
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_10	10	slot	Valence Modifier Ii
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_11	11	slot	'1stpl, 2nd S/A, 3rd`Pl'' P'
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_12	12	slot	Aspect
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_13	13	slot	Desiderative
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_14	14	slot	Reflexive, Reciprocal
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_15	15	zone	Transitivizer, Directionals, Locatives
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_16	16	slot	Non-Subject Plural
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_17	17	slot	Diminutives
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_18	18	slot	Temporal/ Evid?
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_19	19	slot	3rd P Or A
+moco1246	Mocoví	moco1246_verbal	verbal	moco1246_v_20	20	slot	Oblique Nominals
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_1	1	slot	Connectors
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_2	2	slot	Adverbial Interrogatives
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_3	3	zone	Adverbials
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_4	4	slot	Negation
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_5	5	slot	Constituent Focus/Interrogative
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_6	6	slot	Negation
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_7	7	slot	Indefinite Proforms
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_8	8	slot	S/A Np
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_9	9	slot	Person Indexes (S/A)
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_10	10	slot	Verb Core
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_11	11	slot	Valency
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_12	12	slot	Negation
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_13	13	slot	Tense
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_14	14	slot	Nominalization, Mood
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_15	15	slot	Gender/Number
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_16	16	slot	Imperative
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_17	17	slot	Middle
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_18	18	slot	Perfective
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_19	19	zone	Habitual, Frustrative
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_20	20	slot	Discourse Markers
+yucu1253	Yukuna	yucu1253_verbal	verbal	yucu1253_v_21	21	zone	P, Pp, Obl, Adv, Remote Past
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_1	1	slot	Connector
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_2	2	zone	Noun Phrase {A,S,P,R,T}, Adverbial, Postpositional Phrase
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_3	3	slot	Tsi
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_4	4	slot	Evidential/Modal
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_5	5	slot	Affective
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_6	6	slot	Noun Phrase {A,S,P,R,T}, Adverbial, Postpositional Phrase
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_7	7	slot	Body Part Incorporation
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_8	8	slot	Verb Core
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_9	9	slot	Valence 1 (Transitivity)
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_10	10	slot	Valence 2 (Antipassive -Mis, Causative1 -Wa)
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_11	11	zone	Valence 3 (Passive -ʔaka, Interactional -Na), Negation =Yama
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_12	12	zone	Valence 4 (Interactional =Bɨki, Causative2 =Ma)
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_13	13	slot	Completive =Yo
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_14	14	slot	Associated Motion
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_15	15	slot	Punctual =Tapi
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_16	16	zone	Aspect, Durative =Kas
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_17	17	zone	Adverbial/Modal
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_18	18	slot	Tsi
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_19	19	slot	Evidential/Modal
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_20	20	zone	Noun Phrase (A,S), Postpositional Phrase
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_21	21	slot	Transitive (Wa)
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_22	22	slot	Third Person Plural =Kan, Aspect: Durative, Associated Motion, Adverbial
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_23	23	slot	Temporal Distance
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_24	24	slot	Clause Rank And Type
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_25	25	slot	Evidential/Modal
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_26	26	slot	Noun Phrase {A,S}
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_27	27	slot	Affective/Modal
+chac1251	Chácobo	chac1251_verbal	verbal	chac1251_v_28	28	slot	Noun Phrase {P}, Postpositional Phrase
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_1	1	slot	Proclitic
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_2	2	zone	Dps, Adjuncts
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_3	3	slot	Person Prefix
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_4	4	zone	Preverbs (Incl. Root)
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_5	5	slot	Medial
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_6	6	slot	Concrete Final (Incl. Root)
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_7	7	slot	Abstract Final
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_8	8	slot	Theme Suffix
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_9	9	slot	Clause-Typing Suffix
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_10	10	slot	Plural Agreement
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_11	11	slot	Complementizer
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_12	12	slot	Dp/Clitic
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_13	13	slot	Dp/Clitic
+siks1238	Blackfoot	siks1238_verbal	verbal	siks1238_v_14	14	slot	Bare Np, Bare Plural
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_1	1	slot	Connector
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_2	2	zone	Sentence Adv., Topicalization
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_3	3	slot	Polar Gq, `Even', `Only'
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_4	4	zone	Noun Complex, Adverb
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_5	5	slot	Focus
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_6	6	slot	Anterior/Posterior
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_7	7	slot	`Almost'
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_8	8	slot	Negation + Ant/Post
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_9	9	slot	Temporal Sequence
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_10	10	slot	Modality, Evidentiality
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_11	11	slot	`A Little'
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_12	12	slot	Past Habitual, `Always'
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_13	13	slot	Negation + Ant/Post 2
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_14	14	slot	Adverb, Pronoun (P/R)
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_15	15	slot	Progressive
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_16	16	slot	Aspect/Mode
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_17	17	slot	Associated Motion
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_18	18	slot	Causative, Inchoative
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_19	19	slot	Verb Root(S)
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_20	20	slot	Comitative
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_21	21	slot	Focus
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_22	22	slot	Temporal Sequence
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_23	23	slot	Modality, Evidentiality
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_24	24	slot	`A Little'
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_25	25	slot	Past Habitual, `Always'
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_26	26	zone	Adverbial/Quantifier Clitics
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_27	27	slot	Modal Clitics
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_28	28	slot	Pronominal Clitics
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_29	29	zone	Noun Complex, Adverb
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_30	30	slot	Attitudinal Particles
+ayau1235	Ayautla Mazatec	ayau1235_verbal	verbal	ayau1235_v_31	31	zone	Afterthoughts, Vocative Words
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_1	1	slot	`More', `Also'
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_2	2	slot	Temporal Sequence
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_3	3	slot	Modality, Evidentiality
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_4	4	slot	`A Little'
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_5	5	slot	Additive, `Entire'
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_6	6	slot	Numeral, Quantifier
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_7	7	slot	Temporal Sequence
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_8	8	slot	Modality, Evidentiality
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_9	9	slot	`A Little'
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_10	10	slot	Noun Root(S)
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_11	11	slot	Adjective
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_12	12	slot	Possesssor
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_13	13	slot	Demonstrative
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_14	14	slot	Relative Clause
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_15	15	slot	Absolute State Marker
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_16	16	slot	Temporal Sequence
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_17	17	slot	Modality, Evidentiality
+ayau1235	Ayautla Mazatec	ayau1235_nominal	nominal	ayau1235_n_18	18	slot	`A Little'
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_1	1	slot	Conjunction
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_2	2	zone	Np (A, S, P)
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_3	3	zone	Adverbial
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_4	4	slot	Mood (Conditional, Interrogative)
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_5	5	zone	Mood (Negation, Hypothetical)
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_6	6	zone	Adverbial
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_7	7	slot	Aspect-Mood
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_8	8	slot	Transitivity
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_9	9	slot	Auxiliary
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_10	10	slot	Aspect-Mood
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_11	11	slot	Causative, Iterative
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_12	12	slot	Transitivity
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_13	13	slot	Verb Root
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_14	14	slot	Compound Stem, Applicative
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_15	15	zone	Adverbial
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_16	16	slot	Essence
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_17	17	zone	Subject Np (A, S)
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_18	18	zone	Np (P, T, R)
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_19	19	zone	Adverbial
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_20	20	slot	Tense
+zenz1235	Zenzontepec Chatino	zenz1235_verbal	verbal	zenz1235_v_21	21	zone	Discourse Marker, Adverbial
+chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_1	1	zone	Possessor Np, Relative Clause, Quantifier, Zone Numeral, Demonstrative
+chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_2	2	slot	Genitive Noun Complex
+chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_3	3	slot	Prefix
+chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_4	4	slot	Noun Root
+chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_5	5	slot	Augmentative, Veridative, Similative
+chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_6	6	slot	Adjective, Xeni-Phrase
+chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_7	7	zone	Numeral, Relative Clause, Demonstrative
+chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_8	8	slot	Conjunct
+chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_9	9	zone	Plural, Dative
+chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_10	10	slot	Case
+chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_11	11	slot	Limitative, Interactive
+chac1251	Chácobo	chac1251_nominal	nominal	chac1251_n_12	12	slot	Equalative
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_1	1	slot	Prepositions
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_2	2	slot	Topicalizer
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_3	3	slot	Other
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_4	4	slot	Numerals
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_5	5	slot	Quantifiers 1
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_6	6	slot	Quantifiers 2
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_7	7	slot	Classifier
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_8	8	slot	Noun Base
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_9	9	slot	Compound (2nd Part)
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_10	10	zone	Adjectives
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_11	11	zone	Possessor
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_12	12	slot	Demonstrative
+dura0000	San Martín Duraznos Mixtec	dura0000_nominal	nominal	dura0000_n_13	13	zone	Relative Clause
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_1	1	zone	Np, Pp, S
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_2	2	slot	Already =�A
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_3	3	slot	Already =Raq
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_4	4	slot	Certainly =Puni
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_5	5	slot	Adverbial, Coord. =Taq
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_6	6	slot	Uncertainty =Sina
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_7	7	slot	Also =Pis
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_8	8	slot	Top., Neg., Dub., Assert. =Chu, =Chus, =Ch�, =Pis
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_9	9	slot	Interrogative =Ri, , =R�
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_10	10	slot	Topic Marker =Qa
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_11	11	zone	Np, Pp, S
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_12	12	slot	Verb Root
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_13	13	slot	Derivational Suffixes And Clusters
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_14	14	slot	Inceptive -Ri
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_15	15	slot	Reciprocal -Na
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_16	16	zone	Adverbial, Assistive -Rqu,-Rpa,-Ysi
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_17	17	slot	Affective -Ri
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_18	18	slot	Causative, Passive -Chi, -Chiku
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_19	19	slot	Reflexive, Motion, Adverbial -Ku,-Mu,-Pu, -Kampu,-Kapu,-Mpu
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_20	20	slot	Proximal Future -Naya
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_21	21	slot	Progressive -Sha
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_22	22	slot	Limitative -Lla
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_23	23	slot	1.Obj -Wa
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_24	24	slot	When -Qti
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_25	25	zone	Tame, Second Person -Rqa,-Sqa,-Na, -Su,-Sa
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_26	26	slot	A/Sperson -Ni, -Yki,-Nki,-N
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_27	27	slot	Future:3.Obj -Q(A)
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_28	28	slot	Person -N
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_29	29	slot	Plural -Chik, -Yku, -Ku
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_30	30	slot	Limitative -Lla
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_31	31	zone	Np, Pp, S
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_32	32	slot	Already =�A
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_33	33	slot	Already =Raq
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_34	34	slot	Certainly =Puni
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_35	35	slot	Adverbial, Coord. =Taq
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_36	36	slot	Uncertainty =Sina
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_37	37	slot	Also =Pis
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_38	38	slot	Top., Neg., Dub., Assert. =Chu, =Chus, =Ch�
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_39	39	slot	Interrogative =Ri, =R�
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_40	40	slot	Topic Marker =Qa
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_41	41	slot	Regretative Karqa, Kaq
+sout2991	South Bolivian Quechua	sout2991_verbal	verbal	sout2991_v_42	42	zone	Np, Pp, S
