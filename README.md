@@ -48,7 +48,7 @@ The database consists of the following files:
      - Overlap_Verbal: position of the verb base in the planar structure
      - Overlap_Verbal_Extended: ?
      - Overlap_Nominal: position of the noun base in the planar structure
-* input/sources = bib-file with the sources
+* sources = bib-file with the sources
 
 The **input** folder contains the raw files in which the data is initially entered and updated. The **scripts** folder contains R scripts that produce the output version of the database.
 
