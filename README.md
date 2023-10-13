@@ -10,12 +10,6 @@ The methodology and creation of the database is explained in:
 * Sandra Auderset et al. in press: Discussion. In: Adam J.R. Tallman, Sandra Auderset, Hiroto Uchihara (eds.). *Constituency and Convergence in the Americas*. Language Science Press. https://langsci-press.org/catalog/book/291
 
 The database consists of the following files:
-* metadata = 
-     - Language_Name, Alternative_Name, Short_Name (for plotting)
-     - Language_ID (this is the Glottocode, if there is one, and a four-letter+four-digits code otherwise)
-     - Latitude and Longitude
-     - Contribution: publication where a description of the data can be found
-     - Contributors
 * planar = planar structures for each language and type
      - Language_ID and Language_Name
      - Planar_ID: a unique identifier for each planar structure
@@ -43,7 +37,13 @@ The database consists of the following files:
      - Tests_Total: total number of tests applied in language/planar structure
      - Planar_ID: which planar structur the test results are applied to
      - Test_Labels: short labels for plotting
-* overlaps = codes the position of the verb/noun base for each planar structure
+* input/metadata = 
+     - Language_Name, Alternative_Name, Short_Name (for plotting)
+     - Language_ID (this is the Glottocode, if there is one, and a four-letter+four-digits code otherwise)
+     - Latitude and Longitude
+     - Contribution: publication where a description of the data can be found
+     - Contributors
+* input/overlaps = codes the position of the verb/noun base for each planar structure
      - Language_ID
      - Overlap_Verbal: position of the verb base in the planar structure
      - Overlap_Verbal_Extended: ?
