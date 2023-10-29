@@ -14,6 +14,7 @@ p_load(ggmap,
 domains <- read_tsv(here("domains.tsv")) %>%
   modify_if(is.character, as.factor)
 
+
 # list all abstract types
 levels(domains$Abstract_Type)
 
@@ -150,3 +151,61 @@ minmax_sizes
 # export plot
 ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_minmax_per_lang.png", minmax_sizes, height = 27, width = 20, device = "png", units = "cm", dpi = 600)
 
+
+# density plot of edge span convergences
+# calculate right and left edge convergences
+domains_verbal <- domains_verbal %>%
+  group_by(Language_ID, Left_Edge) %>%
+  mutate(Convergence_Left = n()) %>%
+  group_by(Language_ID, Right_Edge) %>%
+  mutate(Convergence_Right = n()) %>%
+  group_by(Language_ID, Size) %>%
+  mutate(Convergence_Span = n()) %>%
+  ungroup() %>%
+  mutate(Relative_Convergence_Left = round(Convergence_Left/Tests_Total, 2), Relative_Convergence_Right = round(Convergence_Right/Tests_Total, 2))
+glimpse(domains_verbal)
+# data set for plotting density
+domains_verbal_density <- domains_verbal %>%
+  distinct(Language_ID, Convergence_Left, Convergence_Right, Convergence_Span) %>%
+  pivot_longer(-Language_ID, names_to = "Convergence_Type", values_to = "Convergence_Ratio")
+
+# density plot all
+density_all <- ggplot(data = domains_verbal_density, aes(x = Convergence_Ratio, group = Convergence_Type)) +
+  geom_density()
+density_all
+
+# density plot left/right
+density_lr <- ggplot(data = domains_verbal_d, aes(x = Relative_Convergence, group = MinMax_Fracture, col = MinMax_Fracture)) +
+  geom_density() +
+  scale_fill_startrek(name = "Fracture") +
+  #guides(fill = guide_legend(override.aes = list(alpha = 1, linewidth = 0))) +
+  labs(x = "Relative convergence", y = "Density", ) +
+  scale_x_continuous(expand = c(0.005, 0.005), breaks = seq(0, 1, 0.2)) +
+  theme_bw() +
+  theme(legend.position = c(0.85,0.05),
+        #legend.key.size = unit(1, "lines"),
+        legend.text = element_text(size = 11),
+        axis.text = element_text(size = 12),
+        axis.title = element_text(size = 13),
+        strip.text.x = element_text(size = 11),
+        panel.spacing = unit(1.2, "lines"))
+density_min_max
+
+
+
+
+# recode variables to binary presence/absence and shorten them for plotting
+# create sub-variables with fractures
+domains_verbal_binary <- domains_verbal %>%
+  mutate(Abstract_Type = str_to_title(Abstract_Type)) %>%
+  unite("Abstract_Type_Sub", c(Abstract_Type, CrossL_Fracture, MinMax_Fracture), sep = ":", remove = FALSE, na.rm = TRUE) %>%
+  mutate(Abstract_Type_Sub = if_else(!str_detect(Abstract_Type_Sub, ":"), paste0(Abstract_Type_Sub, "_X"), Abstract_Type_Sub)) %>%
+  pivot_wider(id_cols = everything(), names_from = Abstract_Type, values_from = Abstract_Type) %>%
+  pivot_wider(id_cols = everything(), names_from = Abstract_Type_Sub, values_from = Abstract_Type_Sub) %>%
+  select(-contains("_X")) %>%
+  mutate(across(Nonpermutability:Repair, ~if_else(is.na(.), 0, 1))) %>%
+  mutate(across(contains(":"), ~if_else(is.na(.), 0, 1))) %>%
+  rename(Nonpermut. = Nonpermutability, Free_occur. = Free.occurrence, Recursion = Recursion.based, Supraseg. = Suprasegmental, Selection = Ciscategorial.selection, Noninterrupt. = Noninterruption)
+glimpse(domains_verbal_binary)
+
+ggsave(("07_figures/reliability/fig_density_convergence_all.png"), density_convergence_all, device = "png", dpi = 300, units = "cm", width=30, height=15)
