@@ -152,27 +152,66 @@ minmax_sizes
 ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_minmax_per_lang.png", minmax_sizes, height = 27, width = 20, device = "png", units = "cm", dpi = 600)
 
 
-# density plot of edge span convergences
+# density plot of edge and span convergences
 # calculate right and left edge convergences
 domains_verbal <- domains_verbal %>%
   group_by(Language_ID, Left_Edge) %>%
   mutate(Convergence_Left = n()) %>%
   group_by(Language_ID, Right_Edge) %>%
   mutate(Convergence_Right = n()) %>%
-  group_by(Language_ID, Size) %>%
-  mutate(Convergence_Span = n()) %>%
   ungroup() %>%
   mutate(Relative_Convergence_Left = round(Convergence_Left/Tests_Total, 2), Relative_Convergence_Right = round(Convergence_Right/Tests_Total, 2))
 glimpse(domains_verbal)
 # data set for plotting density
 domains_verbal_density <- domains_verbal %>%
-  distinct(Language_ID, Convergence_Left, Convergence_Right, Convergence_Span) %>%
-  pivot_longer(-Language_ID, names_to = "Convergence_Type", values_to = "Convergence_Ratio")
+  rename(Span = Relative_Convergence,
+         Left = Relative_Convergence_Left,
+         Right = Relative_Convergence_Right) %>%
+  distinct(Language_ID, Span, Right, Left) %>%
+  pivot_longer(-Language_ID, names_to = "Convergence_Type", values_to = "Relative_Convergence") %>%
+  mutate(Convergence_Type = factor(Convergence_Type, levels = c("Span", "Left", "Right")))
+glimpse(domains_verbal_density)
 
 # density plot all
-density_all <- ggplot(data = domains_verbal_density, aes(x = Convergence_Ratio, group = Convergence_Type)) +
-  geom_density()
+density_all <- ggplot(data = domains_verbal_density, aes(x = Relative_Convergence, group = Convergence_Type, fill = Convergence_Type)) +
+  geom_density(alpha = 0.6) +
+  scale_fill_d3(name = "Type of Convergence") +
+  #guides(fill = guide_legend(override.aes = list(alpha = 1, linewidth = 0))) +
+  labs(x = "Relative convergence", y = "Density", ) +
+  scale_x_continuous(expand = c(0.005, 0.005), breaks = seq(0, 1, 0.2)) +
+  theme_bw() +
+  theme(legend.position = c(0.85,0.85),
+        #legend.key.size = unit(1, "lines"),
+        legend.text = element_text(size = 11),
+        axis.text = element_text(size = 12),
+        axis.title = element_text(size = 13),
+        strip.text.x = element_text(size = 11))
 density_all
+# export plot
+ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_verbal_all.png", density_all, height = 15, width = 20, device = "png", units = "cm", dpi = 600)
+
+
+# facet density plot of relative convergence per abstract type
+plot_dens_conv_atype <- ggplot(aes(x = Relative_Convergence, group = Abstract_Type), data = domains_verbal_sub) +
+  geom_density(aes(fill = Abstract_Type)) +
+  scale_fill_d3(guide = "none") +
+  facet_wrap(~Abstract_Type, scales = "free_x") +
+  labs(x = "Relative convergence", y = "Density", ) +
+  scale_x_continuous(expand = c(0.008, 0), breaks = seq(0, 5, 0.1), limits = c(0, 0.5)) +
+  scale_y_continuous(breaks = seq(0, 14, 2), limits = c(0, 14)) +
+  theme_bw() +
+  theme(legend.position = "bottom",
+        legend.key.size = unit(1, "lines"),
+        legend.text = element_text(size = 11),
+        axis.text = element_text(size = 12),
+        axis.title = element_text(size = 13),
+        strip.text.x = element_text(size = 11),
+        panel.spacing = unit(1.3, "lines"),
+        strip.clip = "off",
+        plot.margin = margin(5, 10, 5, 10))
+plot_dens_conv_atype
+# export plot
+ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_abstract.png", plot_dens_conv_atype, height = 17, width = 20, device = "png", units = "cm", dpi = 600)
 
 # density plot left/right
 density_lr <- ggplot(data = domains_verbal_d, aes(x = Relative_Convergence, group = MinMax_Fracture, col = MinMax_Fracture)) +
