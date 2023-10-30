@@ -1,18 +1,196 @@
 Language_ID	Flag	Planar_Type	Analysis_Type	Abstract_Type	Domain_Type	CrossL_Fracture	MinMax_Fracture	Lspecific_Fracture	Left_Edge	Right_Edge	Test_Labels	PW_Pattern	Notes
-ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Neutralization	Maximal	obligatory tone neutralization	15	21	*3.24 Neutral. Max.	tone	NA
-ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Neutralization	Minimal	obligatory tone neutralization	19	19	*3.24 Neutral. Min.	tone	NA
+zenz1235	NA	verbal	constituency	Suprasegmental	Phonological	Tone template	NA	paradigmatic lexical tone melodies	10	13	Paradigm. Tone	allomorphy	NA
+kaya1330	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	suppletion for number	13	15		allomorphy	NA
+chac1251	NA	verbal	lexphon	Deviations	Indeterminate	Suppletion	NA	intransitive vowel allomorphy	8	9		allomorphy	NA
+cent2127	NA	verbal	constituency	Segmental	Phonological	Consonant coalescence	NA	Uvular-velar consonant coalescence	2	16	Cons. Coal.	assimilation	NA
+moco1246	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	NA	second.person	7	11	Harmony Affix	assimilation	NA
+moco1246	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	NA	regressive	6	11	Harmony Type1	assimilation	NA
+moco1246	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	NA	verb.conditioned.variability	4	7	Harmony Verb	assimilation	NA
+zenz1235	NA	verbal	constituency	Suprasegmental	Phonological	Nasalization	NA	nasality spreading	13	17	Nasal. Spread.	assimilation	NA
+moco1246	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Maximal	palatalization	6	15	Palatal. Max.	assimilation	NA
+zenz1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Maximal	palatalization	7	13	Palatal. Max.	assimilation	NA
+moco1246	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Minimal	palatalization	7	11	Palatal. Min.	assimilation	NA
+zenz1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Minimal	palatalization	10	13	Palatal. Min.	assimilation	NA
+yucu1253	NA	verbal	constituency	Segmental	Phonological	Vowel assimilation	NA	vowel assimilation	9	10	V-Assim.	assimilation	NA
+cent2127	NA	verbal	constituency	Segmental	Phonological	Consonant deletion	NA	VVV.clusteravoidance	2	16	V-Clust. Avoid.	assimilation	NA
+yucu1253	NA	verbal	constituency	Segmental	Phonological	Vowel assimilation	Maximal	vowel coalescence ai>e	9	17	V-Coalesc. Max.	assimilation	NA
+yucu1253	NA	verbal	constituency	Segmental	Phonological	Vowel coalescence	Minimal	vowel coalescence ua>o	9	10	V-Coalesc. Min.	assimilation	NA
+hupd1244	NA	verbal	constituency	Segmental	Phonological	Vowel assimilation	Maximal	vowel.copying	2	32	Vowel Copy Max.	assimilation	NA
+hupd1244	NA	nominal	constituency	Segmental	Phonological	Vowel assimilation	Maximal	vowel.copying	5	12	Vowel Copy Max.	assimilation	NA
+hupd1244	NA	verbal	constituency	Segmental	Phonological	Vowel assimilation	Minimal	vowel.copying	6	20	Vowel Copy Min.	assimilation	NA
+hupd1244	NA	nominal	constituency	Segmental	Phonological	Vowel assimilation	Minimal	vowel.copying	5	5	Vowel Copy Min.	assimilation	NA
+zenz1235	NA	verbal	constituency	Segmental	Phonological	Vowel coalescence	NA	vowel fusion	13	17	Vowel Fusion	assimilation	NA
+sout2991		verbal	constituency	Segmental	Phonological	NA	Minimal	NA	12	13	Vowel lowering	assimilation	
+sout2991		verbal	constituency	Segmental	Phonological	NA	Maximal	NA	12	38	Vowel lowering	assimilation	
+chac1251	NA	nominal	constituency	Segmental	Phonological	Consonant assimilation	NA	alveolarization	3	4		assimilation	NA
+chac1251	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	NA	alveolarization	7	8		assimilation	NA
+kiow1266	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Maximal	cluster.devoicing	29	33		assimilation	NA
+kiow1266	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Minimal	cluster.devoicing	29	31		assimilation	NA
+iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Maximal	Palatalization coronals.only	14	46		assimilation	NA
+iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Maximal	Palatalization with.k(‘)y	14	40		assimilation	NA
+iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Maximal	Palatalization without.k(‘)y	14	40		assimilation	NA
+iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Minimal	Palatalization coronals.only	14	16		assimilation	NA
+iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Minimal	Palatalization with.k(‘)y	14	16		assimilation	NA
+iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Minimal	Palatalization without.k(‘)y	14	18		assimilation	Possibly right edge is 25
+kiow1266	NA	verbal	constituency	Segmental	Phonological	Consonant change	Maximal	dental-velar switch	26	36		assimilation	NA
+kiow1266	NA	verbal	constituency	Segmental	Phonological	Consonant change	Minimal	Dental-Velar Switch	30	33		assimilation	NA
+zenz1235	not.test	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	Maximal	glottal stop	7	13	Culm. Glottal Stop Max.	constraint	NA
+zenz1235	not.test	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	Minimal	glottal stop	10	13	Culm. Glottal Stop Min.	constraint	NA
+zenz1235	not.test	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	NA	H tone constraint	10	13	Culm. H-Tone	constraint	NA
+zenz1235	not.test	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	Maximal	vowel length	4	13	Culm. V-Length Max.	constraint	NA
+zenz1235	not.test	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	Minimal	vowel length	7	13	Culm. V-Length Min.	constraint	NA
+zenz1235	overfracture	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	Maximal	vowel nasality	4	13	Culm. V-Nasal. Max.	constraint	NA
+zenz1235	not.test	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	Minimal	vowel nasality	7	13	Culm. V-Nasal. Min.	constraint	NA
+hupd1244	NA	verbal	constituency	Segmental	Phonological	Consonant deletion	NA	consonant.deletion	6	20	Consonant Del.	deletion	NA
+arao1248	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	NA	e.deletion	4	6	E-Deletion	deletion	NA
+cher1273	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	NA	Final Apocope	2	23	Final Apocope	deletion	NA
+sout2991		verbal	constituency	Segmental	Phonological	Vowel-consonant deletion	NA	suffix deletion	1	29	Final Syllable/suffix deletion	deletion	
+cher1273	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	NA	H-metathesis.vowel.deletion, h-Metathesis+Vowel Deletion	2	23	H-Metathesis/V-Del.	deletion	NA
+yucu1253	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	NA	vowel elision	10	16	V-Elision	deletion	NA
+arao1248	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	Maximal	vowel.deletion	6	14	V-Syncope Max.	deletion	NA
+arao1248	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	Minimal	vowel.deletion	6	6	V-Syncope Min.	deletion	NA
+dura0000	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	Maximal	vowel overwriting after glottal stop	6	29	Vowel Del.	deletion	NA
+zenz1235	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	Maximal	vowel elision	3	16	Vowel Elision Max.	deletion	NA
+zenz1235	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	Minimal	vowel elision	7	13	Vowel Elision Min.	deletion	NA
+dura0000	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	minimal	vowel overwriting after glottal stop	17	26	Vowel Overwrit.	deletion	NA
+kaya1330	NA	verbal	constituency	Segmental	Phonological	Consonant deletion	NA	consonant.deletion	12	15		deletion	NA
+chac1251	NA	nominal	constituency	Segmental	Phonological	Vowel deletion	NA	apocope	4	12		deletion	NA
+chac1251	NA	verbal	constituency	Segmental	Phonological	Consonant deletion	NA	Latent.stop.deletion	8	24		deletion	NA
+dura0000	NA	verbal	lexphon	Segmental	Phonological	Vowel-consonant deletion	NA	fast speech reduction	1	28		deletion	
+dura0000	NA	nominal	lexphon	Segmental	Phonological	Vowel-consonant deletion	NA	fast speech reduction	1	13		deletion	
+chac1251	NA	verbal	lexphon	Segmental	Phonological	Vowel-consonant deletion	NA	transitive marker deletion	7	9		deletion	
+dura0000	NA	nominal	constituency	Segmental	Phonological	Vowel deletion	NA	vowel overwriting	8	11		deletion	NA
+kaya1330	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	NA	vowel.deletion	12	15		deletion	NA
+kiow1266	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	NA	vowel.deletion	29	30		deletion	NA
+chac1251	NA	verbal	constituency	Suprasegmental	Phonological	Tone deletion	Minimal	H.deletion	6	27		deletion	NA
 ayau1235	NA	verbal	constituency	Segmental	Phonological	Vowel-consonant dissimilation	Maximal	*ɛ.j Constraint negative evidence	13	25	*ɛ.j Constraint Max.	dissimilation	NA
 ayau1235	NA	verbal	constituency	Segmental	Phonological	Vowel-consonant dissimilation	Minimal	*ɛ.j Constraint positive evidence	19	19	*ɛ.j Constraint Min.	dissimilation	NA
-teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	8	11	Accent Max.	stress	NA
-teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	3	15	Accent Max.	stress	NA
-teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Accent	Minimal	NA	8	9	Accent Min.	stress	NA
-teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	NA	10	15	Accent Min.	stress	NA
+zenz1235	NA	verbal	constituency	Suprasegmental	Phonological	Declination/Downstep	NA	downstep	1	21	Downstep	dissimilation	NA
+teot1238	NA	verbal	constituency	Segmental	Phonological	Consonant dissimilation	NA	glottal dissimilation	3	15	Glottal Diss.	dissimilation	No fracture
+teot1238	NA	nominal	constituency	Segmental	Phonological	Consonant dissimilation	Maximal	glottal.dissimilation	3	15	Glottal Diss. Max.	dissimilation	NA
+teot1238	NA	nominal	constituency	Segmental	Phonological	Consonant dissimilation	Minimal	glottal.dissimilation	8	9	Glottal Diss. Min.	dissimilation	NA
 yucu1253	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	past.tense	10	13	Allomorph. PST	indeterminate	NA
 yucu1253	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	valency	10	13	Allomorph. Val.	indeterminate	NA
-dura0000	NA	verbal	constituency	Segmental	Phonological	Minimality	Maximal	bimoraic	1	28	Bimoraic. Bim. Max.	size-related	NA
-dura0000	NA	verbal	constituency	Segmental	Phonological	Minimality	Minimal	bimoraic	17	17	Bimoraic. Bim. Min.	size-related	NA
-dura0000	NA	verbal	constituency	Segmental	Phonological	Minimality	Maximal	monomoraic apart from verb base	1	27	Bimoraic. Mono. Max.	Size-related	NA
-dura0000	NA	verbal	constituency	Segmental	Phonological	Minimality	Minimal	monomoraic apart from verb base	12	18	Bimoraic. Mono. Min.	size-related	NA
+moco1246	NA	verbal	constituency	Recursion.based	Indeterminate	Asyndetic	Minimal	NA	6	7	Clause Comb. Asynd. Min.	indeterminate	NA
+moco1246	NA	verbal	constituency	Recursion.based	Indeterminate	Syndetic	Minimal	nakoʔ.linker	6	14	Clause Comb. Synd. Min.	indeterminate	NA
+cent2127	NA	verbal	constituency	Deviations	Indeterminate	Cumulative.exponence	NA	Cumulative exponence and suppletion involving negation	4	12	Cumul. Exp.	indeterminate	NA
+teot1238	noncomparable	nominal	constituency	Deviations	Indeterminate	Suppletion	NA	NA	8	8	Dev. Biunique. 	indeterminate	NA
+teot1238	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	NA	10	13	Dev. Biunique. 	indeterminate	NA
+zenz1235	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	2SG	10	13	Dev. Biunique. 2SG	indeterminate	NA
+cher1273	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	Maximal	NA	4	22	Dev. Biunique. Max.	indeterminate	NA
+ayau1235	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	Maximal	NA	15	28	Dev. Biunique. Max.	indeterminate	NA
+cher1273	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	Minimal	NA	4	13	Dev. Biunique. Min.	indeterminate	NA
+ayau1235	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	Minimal	NA	15	19	Dev. Biunique. Min.	indeterminate	NA
+dura0000	NA	verbal	constituency	Deviations	Indeterminate	Cumulative.exponence	Maximal	many-to-one	12	23	Dev. Biunique. MTO Max.	indeterminate	NA
+dura0000	NA	verbal	constituency	Deviations	Indeterminate	Cumulative.exponence	Minimal	many-to-one	17	17	Dev. Biunique. MTO Min.	indeterminate	NA
+dura0000	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	Maximal	one-to-many	13	17	Dev. Biunique. OTM Max.	indeterminate	NA
+dura0000	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	Minimal	one-to-many	17	17	Dev. Biunique. OTM Min.	indeterminate	NA
+moco1246	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	person.marking	6	7	Dev. Biunique. Pers.	indeterminate	NA
+moco1246	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	progressive.marking	6	18	Dev. Biunique. Prog.	indeterminate	NA
+zenz1235	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	TAM	10	13	Dev. Biunique. TAM	indeterminate	NA
+cent2127	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	NA	Nonbiunique marking of Mood and person/number of S/A/O	11	16	Extend. Exp.	indeterminate	NA
+yucu1253	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	Maximal	negation	4	12	Extend. Exp. Max.	indeterminate	NA
+yucu1253	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	NA	middle	10	17	Extend. Exp. Middle	indeterminate	NA
+yucu1253	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	Minimal	negation	6	12	Extend. Exp. Min.	indeterminate	NA
+arao1248	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	4	17	Free Ocurr. Max.	indeterminate	NA
+cent2127	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	2	20	Free Ocurr. Max.	indeterminate	NA
+hupd1244	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	5	15	Free Ocurr. Max.	indeterminate	NA
+hupd1244	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	2	30	Free Ocurr. Max.	indeterminate	NA
+moco1246	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	4	18	Free Ocurr. Max.	indeterminate	NA
+yucu1253	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	8	10	Free Ocurr. Max.	indeterminate	NA
+zenz1235	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	7	17	Free Ocurr. Max. (sa- 	indeterminate	NA
+dura0000	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	causative as bound form	11	27	Free Ocurr. Max. (sa- bound)	indeterminate	NA
+dura0000	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	causative as free form	14	27	Free Ocurr. Max. (sa- free)	indeterminate	NA
+arao1248	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	6	6	Free Ocurr. Min.	indeterminate	NA
+cent2127	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	2	16	Free Ocurr. Min.	indeterminate	NA
+dura0000	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	17	17	Free Ocurr. Min.	indeterminate	NA
+hupd1244	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	5	5	Free Ocurr. Min.	indeterminate	NA
+hupd1244	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	6	20	Free Ocurr. Min.	indeterminate	NA
+moco1246	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	6	7	Free Ocurr. Min.	indeterminate	NA
+yucu1253	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	9	10	Free Ocurr. Min.	indeterminate	NA
+zenz1235	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	10	13	Free Ocurr. Min.	indeterminate	NA
+sout2991		verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	12	40	Min Free Form Max.	indeterminate	
+teot1238	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	6	9	Min Free Form Max.	indeterminate	NA
+teot1238	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	4	22	Min Free Form Max.	indeterminate	NA
+cher1273	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	2	23	Min Free Form Max.	indeterminate	NA
+ayau1235	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	15	28	Min Free Form Max.	indeterminate	NA
+sout2991		verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	12	26	Min Free Form Min.	indeterminate	
+teot1238	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	8	8	Min Free Form Min.	indeterminate	NA
+teot1238	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	10	12	Min Free Form Min.	indeterminate	NA
+cher1273	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	9	22	Min Free Form Min.	indeterminate	NA
+ayau1235	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	19	19	Min Free Form Min.	indeterminate	NA
+cher1273	NA	verbal	constituency	Recursion.based	Indeterminate	Nominalization	Minimal	NA	2	20	Nominaliz. Min.	indeterminate	NA
+zenz1235	noncomparable	verbal	constituency	Play.language	Indeterminate	Play language	NA	NA	10	13	Play Lang.	indeterminate	NA
+cher1273	NA	verbal	constituency	Recursion.based	Indeterminate	Asyndetic	Minimal	NA	2	23	Rep. Subspan Min.	indeterminate	NA
+cent2127	NA	verbal	constituency	Repair	Indeterminate	NA	Maximal	NA	2	20	Repair Max.	indeterminate	NA
+cent2127	NA	verbal	constituency	Repair	Indeterminate	NA	Minimal	NA	2	16	Repair Min.	indeterminate	NA
+arao1248	NA	verbal	constituency	Recursion.based	Indeterminate	NA	Minimal	NA	6	6	Subspan Rep. Min.	indeterminate	NA
+kaya1330	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	finiteness	13	15		indeterminate	NA
+chac1251	NA	verbal	constituency	Deviations	Indeterminate	Cumulative.exponence	NA	optional	7	9		indeterminate	NA
+iyoj1235	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	NA	NA	14	29		indeterminate	NA
+iyoj1235	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	Inflectional.class	16	18		indeterminate	NA
+siks1238	preliminary	verbal	constituency	Deviations	Indeterminate	Allomorphy	Maximal	inseperable.root.nasal.deletion.vowel.coalescence	6	11		indeterminate	NA
+siks1238	preliminary	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	k-assibilation	3	8		indeterminate	NA
+kiow1266	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	NA	29	34		indeterminate	NA
+mart1259	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	patient.pronouns	18	20		indeterminate	NA
+iyoj1235	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	Realis.Irrealis	14	18		indeterminate	NA
+mart1259	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	recipient.pronouns	18	19		indeterminate	NA
+siks1238	preliminary	verbal	constituency	Deviations	Indeterminate	Allomorphy	Minimal	seperable.root.nasal.deletion.vowel.coalescence	4	11		indeterminate	NA
+kaya1330	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	NA	13	15		indeterminate	NA
+chac1251	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	3	12		indeterminate	NA
+chac1251	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	4	4		indeterminate	NA
+kaya1330	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	declarative	4	15		indeterminate	NA
+dura0000	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	6	8		indeterminate	NA
+dura0000	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	8	8		indeterminate	NA
+kaya1330	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	imperative	10	15		indeterminate	NA
+siks1238	preliminary	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	conjunct	4	13		indeterminate	NA
+siks1238	preliminary	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	independent	3	13		indeterminate	NA
+chac1251	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	7	25		indeterminate	NA
+iyoj1235	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	4	40		indeterminate	NA
+kaya1330	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	3	21		indeterminate	NA
+kiow1266	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	25	36		indeterminate	NA
+mart1259	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	17	20		indeterminate	NA
+siks1238	preliminary	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	conjunct	4	11		indeterminate	NA
+siks1238	preliminary	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	independent	3	9		indeterminate	NA
+chac1251	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	8	24		indeterminate	NA
+iyoj1235	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	16	16		indeterminate	NA
+kiow1266	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	25	30		indeterminate	NA
+mart1259	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	18	18		indeterminate	NA
+kaya1330	NA	verbal	constituency	Idiom	Indeterminate	NA	NA	NA	9	21		indeterminate	NA
+kiow1266	noncomparable	verbal	constituency	Pausing	Indeterminate	NA	NA	NA	1	39		indeterminate	NA
+kaya1330	noncomparable	verbal	constituency	Pausing	Indeterminate	Pause	NA	NA	11	16		indeterminate	NA
+chac1251	NA	verbal	constituency	Recursion.based	Indeterminate	Asyndetic	Minimal	Asyndetic	7	13		indeterminate	NA
+siks1238	preliminary	verbal	constituency	Recursion.based	Indeterminate	Asyndetic	Minimal	coordination.conjunct	4	11		indeterminate	NA
+siks1238	preliminary	verbal	constituency	Recursion.based	Indeterminate	Asyndetic	Minimal	coordination.independent	3	9		indeterminate	NA
+kaya1330	misinterpretation	verbal	constituency	Recursion.based	Indeterminate	NA	Minimal	Coordination	10	15		indeterminate	Flagged: not clear if this test was applied correctly
+iyoj1235	NA	verbal	constituency	Recursion.based	Indeterminate	NA	Minimal	NA	8	38		indeterminate	NA
+chac1251	NA	verbal	constituency	Recursion.based	Indeterminate	Nominalization	Minimal	Agentive.nominalization	7	24		indeterminate	NA
+chac1251	NA	verbal	constituency	Recursion.based	Indeterminate	Nominalization	Minimal	Instrumental.nominalization	6	24		indeterminate	NA
+chac1251	NA	verbal	constituency	Recursion.based	Indeterminate	Reduplication	Minimal	NA	7	10		indeterminate	NA
+dura0000	NA	nominal	constituency	Recursion.based	Indeterminate	NA	Minimal	coordination	8	8		indeterminate	NA
+dura0000	NA	nominal	constituency	Recursion.based	Indeterminate	Possession	Minimal	NA	8	8		indeterminate	NA
+chac1251	NA	verbal	constituency	Recursion.based	Indeterminate	Syndetic	Minimal	Different.subject	7	22		indeterminate	NA
+chac1251	NA	verbal	constituency	Recursion.based	Indeterminate	Syndetic	Minimal	Same.subject	7	11		indeterminate	NA
+chac1251	Need to check	nominal	constituency	Recursion.based	Indeterminate	Possession	Minimal	Genitive	4	4		indeterminate	NA
+chac1251	NA	nominal	constituency	Recursion.based	Indeterminate	NA	Minimal	tihi conjunction	3	6		indeterminate	NA
+arao1248	NA	verbal	constituency	Segmental	Phonological	Vowel insertion	NA	e.insert	4	15	E-Insertion	insertion	NA
+teot1238	NA	verbal	constituency	Segmental	Phonological	Consonant insertion	NA	final glottalization	1	28	Final Glottal.	insertion	NA
+moco1246	NA	verbal	constituency	Segmental	Phonological	Vowel assimilation	Maximal	vocalic epenthesis	6	15	V-Epenthesis Max.	insertion	NA
+moco1246	NA	verbal	constituency	Segmental	Phonological	Vowel insertion	Minimal	vocalic epenthesis	6	7	V-Epenthesis Min.	insertion	NA
+yucu1253	NA	verbal	constituency	Segmental	Phonological	Vowel insertion	NA	vowel insertion	10	16	V-Insert.	insertion	NA
+iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant insertion	Maximal	insertion of /y/	16	44		insertion	NA
+iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant insertion	Minimal	insertion of /y/	16	32		insertion	NA
+iyoj1235	newdomain	verbal	constituency	Segmental	Phonological	Consonant insertion	Minimal	insertion of /y/, fractured according to analysis “maximal”	16	34		insertion	Looks like overfracturing to  me
+siks1238	preliminary	verbal	constituency	Segmental	Phonological	Consonant insertion	Maximal	glottal.insertion.vowel.coalescence.construction 1	1	13		insertion	NA
+siks1238	preliminary	verbal	constituency	Segmental	Phonological	Consonant insertion	Minimal	glottal.insertion.vowel.coalescence.construction 1	1	11		insertion	NA
+chac1251	NA	verbal	constituency	Segmental	Phonological	Consonant insertion	Maximal	glottal.insertion	6	28		insertion	NA
+siks1238	preliminary	verbal	constituency	Segmental	Phonological	Consonant insertion	Maximal	glottal.insertion.vowel.coalescence.construction 2	3	13		insertion	NA
+chac1251	NA	verbal	constituency	Segmental	Phonological	Vowel insertion	Maximal	NA	7	24		insertion	NA
+chac1251	NA	verbal	constituency	Segmental	Phonological	Consonant insertion	Minimal	glottal.insertion	7	8		insertion	NA
+siks1238	preliminary	verbal	constituency	Segmental	Phonological	Consonant insertion	Minimal	glottal.insertion.vowel.coalescence.construction 2	3	11		insertion	NA
+chac1251	NA	verbal	constituency	Segmental	Phonological	Consonant insertion	Minimal	glottal stop insertion	7	10		insertion	NA
+chac1251	NA	nominal	constituency	Segmental	Phonological	Consonant insertion	NA	glottal stop insertion	3	4		insertion	NA
+chac1251	NA	verbal	constituency	Suprasegmental	Phonological	Tone insertion	Minimal	H.insertion	7	17		insertion	NA
 moco1246	NA	verbal	constituency	Ciscategorial.selection	Morphosyntactic	NA	NA	NA	7	11	Ciscat. Sel.	morphosyntactic	NA
 teot1238	NA	nominal	constituency	Ciscategorial.selection	Morphosyntactic	NA	NA	NA	7	8	Ciscat. Sel.	morphosyntactic	NA
 cher1273	NA	verbal	constituency	Ciscategorial.selection	Morphosyntactic	NA	Maximal	NA	2	22	Ciscat. Sel. Max.	morphosyntactic	NA
@@ -41,100 +219,16 @@ yucu1253	NA	verbal	constituency	Ciscategorial.selection	Morphosyntactic	NA	Minim
 sout2991		verbal	constituency	Ciscategorial.selection	Morphosyntactic	NA	Minimal	NA	12	25	Ciscat. Sel. Min.	morphosyntactic	
 moco1246	NA	verbal	constituency	Recursion.based	Morphosyntactic	Asyndetic	Maximal	first.second.person.P	3	18	Clause Comb. Asynd. Max. 1/2P	morphosyntactic	NA
 moco1246	NA	verbal	constituency	Recursion.based	Morphosyntactic	Asyndetic	Maximal	third.person.P	6	19	Clause Comb. Asynd. Max. 3P	morphosyntactic	NA
-moco1246	NA	verbal	constituency	Recursion.based	Indeterminate	Asyndetic	Minimal	NA	6	7	Clause Comb. Asynd. Min.	indeterminate	NA
 moco1246	NA	verbal	constituency	Recursion.based	Morphosyntactic	Syndetic	Maximal	kan.and.then	6	19	Clause Comb. Synd. Max.	morphosyntactic	NA
-moco1246	NA	verbal	constituency	Recursion.based	Indeterminate	Syndetic	Minimal	nakoʔ.linker	6	14	Clause Comb. Synd. Min.	indeterminate	NA
-cent2127	NA	verbal	constituency	Segmental	Phonological	Consonant coalescence	NA	Uvular-velar consonant coalescence	2	16	Cons. Coal.	assimilation	NA
-hupd1244	NA	verbal	constituency	Segmental	Phonological	Consonant deletion	NA	consonant.deletion	6	20	Consonant Del.	deletion	NA
 ayau1235	NA	verbal	constituency	Recursion.based	Morphosyntactic	NA	Maximal	Coordination	2	29	Coordination Max.	morphosyntactic	NA
 ayau1235	NA	verbal	constituency	Recursion.based	Indeterminate	NA	Minimal	Coordination	6	28	Coordination Min.	morphosyntactic	NA
-zenz1235	not.test	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	Maximal	glottal stop	7	13	Culm. Glottal Stop Max.	constraint	NA
-zenz1235	not.test	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	Minimal	glottal stop	10	13	Culm. Glottal Stop Min.	constraint	NA
-zenz1235	not.test	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	NA	H tone constraint	10	13	Culm. H-Tone	constraint	NA
-zenz1235	not.test	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	Maximal	vowel length	4	13	Culm. V-Length Max.	constraint	NA
-zenz1235	not.test	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	Minimal	vowel length	7	13	Culm. V-Length Min.	constraint	NA
-zenz1235	overfracture	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	Maximal	vowel nasality	4	13	Culm. V-Nasal. Max.	constraint	NA
-zenz1235	not.test	verbal	constituency	Suprasegmental	Phonological	Feature culminativity	Minimal	vowel nasality	7	13	Culm. V-Nasal. Min.	constraint	NA
-cent2127	NA	verbal	constituency	Deviations	Indeterminate	Cumulative.exponence	NA	Cumulative exponence and suppletion involving negation	4	12	Cumul. Exp.	indeterminate	NA
-zenz1235	NA	verbal	constituency	Suprasegmental	Phonological	Declination/Downstep	NA	declination and pitch reset	1	21	Declination/Reset	other process	NA
-teot1238	noncomparable	nominal	constituency	Deviations	Indeterminate	Suppletion	NA	NA	8	8	Dev. Biunique. 	indeterminate	NA
-teot1238	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	NA	10	13	Dev. Biunique. 	indeterminate	NA
-zenz1235	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	2SG	10	13	Dev. Biunique. 2SG	indeterminate	NA
-cher1273	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	Maximal	NA	4	22	Dev. Biunique. Max.	indeterminate	NA
-ayau1235	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	Maximal	NA	15	28	Dev. Biunique. Max.	indeterminate	NA
-cher1273	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	Minimal	NA	4	13	Dev. Biunique. Min.	indeterminate	NA
-ayau1235	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	Minimal	NA	15	19	Dev. Biunique. Min.	indeterminate	NA
-dura0000	NA	verbal	constituency	Deviations	Indeterminate	Cumulative.exponence	Maximal	many-to-one	12	23	Dev. Biunique. MTO Max.	indeterminate	NA
-dura0000	NA	verbal	constituency	Deviations	Indeterminate	Cumulative.exponence	Minimal	many-to-one	17	17	Dev. Biunique. MTO Min.	indeterminate	NA
-dura0000	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	Maximal	one-to-many	13	17	Dev. Biunique. OTM Max.	indeterminate	NA
-dura0000	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	Minimal	one-to-many	17	17	Dev. Biunique. OTM Min.	indeterminate	NA
-moco1246	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	person.marking	6	7	Dev. Biunique. Pers.	indeterminate	NA
-moco1246	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	progressive.marking	6	18	Dev. Biunique. Prog.	indeterminate	NA
-zenz1235	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	TAM	10	13	Dev. Biunique. TAM	indeterminate	NA
-zenz1235	NA	verbal	constituency	Suprasegmental	Phonological	Declination/Downstep	NA	downstep	1	21	Downstep	dissimilation	NA
-arao1248	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	NA	e.deletion	4	6	E-Deletion	deletion	NA
-arao1248	NA	verbal	constituency	Segmental	Phonological	Vowel insertion	NA	e.insert	4	15	E-Insertion	insertion	NA
-cent2127	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	NA	Nonbiunique marking of Mood and person/number of S/A/O	11	16	Extend. Exp.	indeterminate	NA
-yucu1253	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	Maximal	negation	4	12	Extend. Exp. Max.	indeterminate	NA
-yucu1253	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	NA	middle	10	17	Extend. Exp. Middle	indeterminate	NA
-yucu1253	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	Minimal	negation	6	12	Extend. Exp. Min.	indeterminate	NA
-cher1273	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	NA	Final Apocope	2	23	Final Apocope	deletion	NA
-teot1238	NA	verbal	constituency	Segmental	Phonological	Consonant insertion	NA	final glottalization	1	28	Final Glottal.	insertion	NA
-sout2991		verbal	constituency	Segmental	Phonological	Vowel-consonant deletion	NA	suffix deletion	1	29	Final Syllable/suffix deletion	deletion	
 cher1273	NA	verbal	constituency	Nonpermutability	Morphosyntactic	Rigid	Maximal	NA	2	22	Nonpermutability Max.	morphosyntactic	NA
 cher1273	NA	verbal	constituency	Nonpermutability	Morphosyntactic	Rigid	Minimal	NA	2	17	Nonpermutability Min.	morphosyntactic	NA
-yucu1253	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	Maximal	floating tone	9	16	Float. Tone Max.	tone	NA
-yucu1253	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	Minimal	floating.tone	10	16	Float. Tone Min.	tone	NA
-arao1248	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	4	17	Free Ocurr. Max.	indeterminate	NA
-cent2127	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	2	20	Free Ocurr. Max.	indeterminate	NA
-hupd1244	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	5	15	Free Ocurr. Max.	indeterminate	NA
-hupd1244	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	2	30	Free Ocurr. Max.	indeterminate	NA
-moco1246	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	4	18	Free Ocurr. Max.	indeterminate	NA
-yucu1253	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	8	10	Free Ocurr. Max.	indeterminate	NA
-zenz1235	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	7	17	Free Ocurr. Max. (sa- 	indeterminate	NA
-dura0000	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	causative as bound form	11	27	Free Ocurr. Max. (sa- bound)	indeterminate	NA
-dura0000	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	causative as free form	14	27	Free Ocurr. Max. (sa- free)	indeterminate	NA
-arao1248	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	6	6	Free Ocurr. Min.	indeterminate	NA
-cent2127	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	2	16	Free Ocurr. Min.	indeterminate	NA
-dura0000	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	17	17	Free Ocurr. Min.	indeterminate	NA
-hupd1244	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	5	5	Free Ocurr. Min.	indeterminate	NA
-hupd1244	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	6	20	Free Ocurr. Min.	indeterminate	NA
-moco1246	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	6	7	Free Ocurr. Min.	indeterminate	NA
-yucu1253	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	9	10	Free Ocurr. Min.	indeterminate	NA
-zenz1235	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	10	13	Free Ocurr. Min.	indeterminate	NA
-teot1238	NA	verbal	constituency	Segmental	Phonological	Consonant dissimilation	NA	glottal dissimilation	3	15	Glottal Diss.	dissimilation	No fracture
-teot1238	NA	nominal	constituency	Segmental	Phonological	Consonant dissimilation	Maximal	glottal.dissimilation	3	15	Glottal Diss. Max.	dissimilation	NA
-teot1238	NA	nominal	constituency	Segmental	Phonological	Consonant dissimilation	Minimal	glottal.dissimilation	8	9	Glottal Diss. Min.	dissimilation	NA
-cher1273	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	NA	H-metathesis.vowel.deletion, h-Metathesis+Vowel Deletion	2	23	H-Metathesis/V-Del.	deletion	NA
-zenz1235	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	NA	H tone spreading	1	21	H-Tone Spread.	tone	NA
-cher1273	NA	verbal	constituency	Suprasegmental	Phonological	Accent	NA	Domain of H1 Spreading	11	21	H1 Spreading	tone	NA
-cher1273	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	Domain of H3 Assignment	5	21	H3 Assign. Max.	tone	NA
-cher1273	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	Domain of H3 Assignment	7	21	H3 Assign. Min.	tone	NA
-moco1246	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	NA	second.person	7	11	Harmony Affix	assimilation	NA
-moco1246	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	NA	regressive	6	11	Harmony Type1	assimilation	NA
-moco1246	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	NA	verb.conditioned.variability	4	7	Harmony Verb	assimilation	NA
 sout2991		verbal	constituency	Noninterruption	Morphosyntactic	NA	NA	limitative lla	12	21	lla Non-interruptability	morphosyntactic	
-zenz1235	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	NA	mid tone replacement	10	17	M-Tone Replace.	tone	NA
-teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Tone spreading	Maximal	mid tone spreading	1	20	Mid Tone Spread. Max.	tone	NA
-teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	Maximal	mid tone spreading	1	28	Mid Tone Spread. Max.	tone	NA
-teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Tone spreading	Minimal	mid tone spreading	8	9	Mid Tone Spread. Min.	tone	NA
-teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	Minimal	mid tone spreading	11	14	Mid Tone Spread. Min.	tone	NA
-sout2991		verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	12	40	Min Free Form Max.	indeterminate	
-teot1238	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	6	9	Min Free Form Max.	indeterminate	NA
-teot1238	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	4	22	Min Free Form Max.	indeterminate	NA
-cher1273	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	2	23	Min Free Form Max.	indeterminate	NA
-ayau1235	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	15	28	Min Free Form Max.	indeterminate	NA
-sout2991		verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	12	26	Min Free Form Min.	indeterminate	
-teot1238	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	8	8	Min Free Form Min.	indeterminate	NA
-teot1238	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	10	12	Min Free Form Min.	indeterminate	NA
-cher1273	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	9	22	Min Free Form Min.	indeterminate	NA
-ayau1235	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	19	19	Min Free Form Min.	indeterminate	NA
-zenz1235	NA	verbal	constituency	Suprasegmental	Phonological	Nasalization	NA	nasality spreading	13	17	Nasal. Spread.	assimilation	NA
 ayau1235	NA	verbal	constituency	Noninterruption	Morphosyntactic	Complex	NA	NA	6	28	No-interrupt. Compl.	morphosyntactic	NA
 ayau1235	NA	verbal	constituency	Noninterruption	Morphosyntactic	Simplex	NA	NA	15	28	No-interrupt. Simpl.	morphosyntactic	NA
 cher1273	NA	verbal	constituency	Recursion.based	Morphosyntactic	Nominalization	Maximal	NA	1	21	Nominaliz. Max.	morphosyntactic	NA
 ayau1235	NA	verbal	constituency	Recursion.based	Morphosyntactic	Nominalization	Maximal	NA	3	29	Nominaliz. Max.	morphosyntactic	with postverbal NP, absolute state marker ambiguous
-cher1273	NA	verbal	constituency	Recursion.based	Indeterminate	Nominalization	Minimal	NA	2	20	Nominaliz. Min.	indeterminate	NA
 ayau1235	NA	verbal	constituency	Recursion.based	Indeterminate	Nominalization	Minimal	NA	3	20	Nominaliz. Min.	morphosyntactic	ends at absolute state marker
 sout2991		verbal	constituency	Noninterruption	Morphosyntactic	Complex	NA	NA	12	21	Non-interrupt.	morphosyntactic	
 cher1273	NA	verbal	constituency	Noninterruption	Morphosyntactic	NA	NA	NA	2	22	Non-interrupt.	morphosyntactic	NA
@@ -175,20 +269,6 @@ cent2127	NA	verbal	constituency	Nonpermutability	Morphosyntactic	Scopal	NA	NA	2	
 hupd1244	NA	nominal	constituency	Nonpermutability	Morphosyntactic	Scopal	NA	NA	1	15	Non-permut. Scope	morphosyntactic	NA
 hupd1244	NA	verbal	constituency	Nonpermutability	Morphosyntactic	Scopal	NA	NA	7	10	Non-permut. Scope	morphosyntactic	NA
 zenz1235	NA	verbal	constituency	Nonpermutability	Morphosyntactic	Scopal	NA	NA	7	17	Non-permut. Scope	morphosyntactic	NA
-ayau1235	overfracture	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	NA	obligatory sandhi	15	28	Oblig. Sandhi	tone	NA
-moco1246	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Maximal	palatalization	6	15	Palatal. Max.	assimilation	NA
-zenz1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Maximal	palatalization	7	13	Palatal. Max.	assimilation	NA
-moco1246	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Minimal	palatalization	7	11	Palatal. Min.	assimilation	NA
-zenz1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Minimal	palatalization	10	13	Palatal. Min.	assimilation	NA
-zenz1235	NA	verbal	constituency	Suprasegmental	Phonological	Tone template	NA	paradigmatic lexical tone melodies	10	13	Paradigm. Tone	allomorphy	NA
-ayau1235	noncomparable	verbal	constituency	Pausing	Phonological	NA	NA	pause	15	28	Pause	pause	NA
-arao1248	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	4	17	Pitch Accent Max.	stress	NA
-sout2991		verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	stress	12	41	Pitch Accent Max.	stress	
-arao1248	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	NA	6	11	Pitch Accent Min.	stress	NA
-sout2991		verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	stress	12	29	Pitch Accent Min.	stress	
-zenz1235	noncomparable	verbal	constituency	Play.language	Indeterminate	Play language	NA	NA	10	13	Play Lang.	indeterminate	NA
-ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Maximal	no prosodic restrictions	2	31	Poss. Sandhi Max.	tone	NA
-ayau1235	overfracture	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Minimal	optional tone sandhi	15	28	Poss. Sandhi Min.	tone	NA
 dura0000	NA	verbal	constituency	Recursion.based	Morphosyntactic	Asyndetic	Maximal	NA	12	26	Rec. Asynd. Max.	morphosyntactic	NA
 dura0000	NA	verbal	constituency	Recursion.based	Indeterminate	Asyndetic	minimal	NA	12	25	Rec. Asynd. Min.	morphosyntactic	NA
 cent2127	NA	verbal	constituency	Recursion.based	Morphosyntactic	Complementation	NA	complement1	2	3	Rec. Compl. 1	morphosyntactic	NA
@@ -201,34 +281,15 @@ dura0000	NA	verbal	constituency	Recursion.based	Indeterminate	Syndetic	Minimal	N
 dura0000	NA	verbal	constituency	Recursion.based	Morphosyntactic	Syndetic	Maximal	ña-linkage	4	28	Rec. Synd. Ña Max.	morphosyntactic	NA
 cher1273	NA	verbal	constituency	Recursion.based	Morphosyntactic	Asyndetic	Maximal	NA	1	24	Rep. Subspan Max.	morphosyntactic	NA
 zenz1235	NA	verbal	constituency	Recursion.based	Morphosyntactic	NA	Maximal	Coordination	2	20	Rep. Subspan Max.	morphosyntactic	NA
-cher1273	NA	verbal	constituency	Recursion.based	Indeterminate	Asyndetic	Minimal	NA	2	23	Rep. Subspan Min.	indeterminate	NA
 zenz1235	NA	verbal	constituency	Recursion.based	Indeterminate	NA	Minimal	Coordination	5	16	Rep. Subspan Min.	morphosyntactic	NA
-cent2127	NA	verbal	constituency	Repair	Indeterminate	NA	Maximal	NA	2	20	Repair Max.	indeterminate	NA
-cent2127	NA	verbal	constituency	Repair	Indeterminate	NA	Minimal	NA	2	16	Repair Min.	indeterminate	NA
-teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Tone spreading	NA	rising tone levelling	8	20	Rising Tone Level.	tone	NA
-teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	NA	Rising Tone Levelling	10	24	Rising Tone Level.	tone	NA
-ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Maximal	sandhi blocking	15	21	Sandhi Blocking Max.	tone	NA
-ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Minimal	sandhi blocking	15	19	Sandhi Blocking Min.	tone	NA
-ayau1235	noncomparable	verbal	constituency	Segmental	Phonological	Syllabification	NA	negative evidence	16	28	Segm. Syllab. Negative	syllable	NA
-ayau1235	noncomparable	verbal	constituency	Segmental	Phonological	Syllabification	NA	positive evidence	16	19	Segm. Syllab. Positive	syllable	NA
 teot1238	NA	verbal	constituency	Recursion.based	Morphosyntactic	NA	Maximal	serial verb	10	23	Serial Verb Max.	morphosyntactic	NA
 teot1238	NA	verbal	constituency	Recursion.based	Indeterminate	NA	Minimal	serial verb	10	12	Serial Verb Min.	morphosyntactic	NA
-hupd1244	NA	nominal	constituency	Suprasegmental	Phonological	Accent	NA	stress	5	15	Stress	stress	NA
-ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	15	20	Stress Max.	stress	NA
-cent2127	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	2	20	Stress Max.	stress	NA
-moco1246	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	4	18	Stress Max.	stress	NA
-hupd1244	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	stress	3	26	Stress Max.	stress	NA
-cent2127	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	NA	2	16	Stress Min.	stress	NA
-moco1246	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	NA	6	7	Stress Min.	stress	NA
-ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	positive evidence	19	20	Stress Min.	stress	NA
-hupd1244	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	stress	2	26	Stress Min.	stress	NA
 hupd1244	NA	nominal	constituency	Recursion.based	Morphosyntactic	NA	NA	NA	1	15	Subspan Rep. 	morphosyntactic	NA
 yucu1253	NA	verbal	constituency	Recursion.based	Morphosyntactic	NA	Maximal	Adverbial.clause	8	21	Subspan Rep. Adv.	morphosyntactic	NA
 hupd1244	NA	verbal	constituency	Recursion.based	Morphosyntactic	NA	NA	base	6	6	Subspan Rep. Base	morphosyntactic	NA
 hupd1244	NA	verbal	constituency	Recursion.based	Morphosyntactic	NA	NA	sentence	1	32	Subspan Rep. Clause	morphosyntactic	NA
 yucu1253	NA	verbal	constituency	Recursion.based	Morphosyntactic	Complementation	Maximal	NA	8	21	Subspan Rep. Compl.	morphosyntactic	NA
 arao1248	NA	verbal	constituency	Recursion.based	Morphosyntactic	NA	Maximal	NA	4	15	Subspan Rep. Max.	morphosyntactic	NA
-arao1248	NA	verbal	constituency	Recursion.based	Indeterminate	NA	Minimal	NA	6	6	Subspan Rep. Min.	indeterminate	NA
 yucu1253	NA	verbal	constituency	Recursion.based	Morphosyntactic	Same.subject	Maximal	NA	10	21	Subspan Rep. SS	morphosyntactic	NA
 arao1248	NA	verbal	constituency	Recursion.based	Morphosyntactic	NA	Maximal	tso.marked	1	17	Subspan Rep. Tso Max.	morphosyntactic	NA
 arao1248	NA	verbal	constituency	Recursion.based	Indeterminate	NA	Minimal	tso.marked	4	14	Subspan Rep. Tso Min.	morphosyntactic	NA
@@ -237,44 +298,8 @@ sout2991	NA	verbal	constituency	Recursion.based	Morphosyntactic	Nominalization	M
 sout2991	NA	verbal	constituency	Recursion.based	Morphosyntactic	Asyndetic	Minimal	clause juxtaposition – strict	12	18	Subspan Repetition	morphosyntactic	
 sout2991	NA	verbal	constituency	Recursion.based	Morphosyntactic	Asyndetic	Minimal	clausal juxtaposition – lax 	12	18	Subspan Repetition	morphosyntactic	
 sout2991	NA	verbal	constituency	Recursion.based	Morphosyntactic	Nominalization	Maximal	clausal nominalization	1	22	Subspan Repetition	morphosyntactic	
-cher1273	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	Domain of Superhigh Assignment	5	22	Superhigh Assign. Max.	tone	NA
-cher1273	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	Domain of Superhigh Assignment	7	22	Superhigh Assign. Min.	tone	NA
-teot1238	noncomparable	nominal	constituency	Segmental	Phonological	Syllabification	Maximal	syllabification	1	20	Syllab. Max.	syllable	NA
-teot1238	noncomparable	verbal	constituency	Segmental	Phonological	Syllabification	Maximal	syllabification	1	28	Syllab. Max.	syllable	NA
-teot1238	noncomparable	nominal	constituency	Segmental	Phonological	Syllabification	Minimal	syllabification	6	8	Syllab. Min.	syllable	NA
-teot1238	noncomparable	verbal	constituency	Segmental	Phonological	Syllabification	Minimal	syllabification	10	12	Syllab. Min.	syllable	NA
-cher1273	noncomparable	verbal	constituency	Segmental	Phonological	Syllabification	NA	syllabification	2	23	Syllabification	syllable	NA
-yucu1253	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Maximal	dissimilation	1	21	Tone Diss. Max.	tone	NA
-yucu1253	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Minimal	dissimilation	10	19	Tone Diss. Max.	tone	NA
-dura0000	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	NA	dependent pronouns	17	27	Tone Sandhi	tone	NA
-teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Tone sandhi	Maximal	tone sandhi	1	20	Tone Sandhi Max.	tone	NA
-teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Maximal	tone sandhi	1	28	Tone Sandhi Max.	tone	NA
-teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Tone sandhi	Minimal	tone sandhi	8	11	Tone Sandhi Min.	tone	NA
-teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Minimal	tone sandhi	11	19	Tone Sandhi Min.	tone	NA
-yucu1253	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	NA	spreading	10	18	Tone Spread.	tone	NA
 ayau1235	misinterpretation	verbal	constituency	Recursion.based	Indeterminate	Reduplication	NA	total reduplication	15	19	Total Redupl.	morphosyntactic	NA
-yucu1253	NA	verbal	constituency	Segmental	Phonological	Vowel assimilation	NA	vowel assimilation	9	10	V-Assim.	assimilation	NA
-cent2127	NA	verbal	constituency	Segmental	Phonological	Consonant deletion	NA	VVV.clusteravoidance	2	16	V-Clust. Avoid.	assimilation	NA
-yucu1253	NA	verbal	constituency	Segmental	Phonological	Vowel assimilation	Maximal	vowel coalescence ai>e	9	17	V-Coalesc. Max.	assimilation	NA
-yucu1253	NA	verbal	constituency	Segmental	Phonological	Vowel coalescence	Minimal	vowel coalescence ua>o	9	10	V-Coalesc. Min.	assimilation	NA
-yucu1253	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	NA	vowel elision	10	16	V-Elision	deletion	NA
-moco1246	NA	verbal	constituency	Segmental	Phonological	Vowel assimilation	Maximal	vocalic epenthesis	6	15	V-Epenthesis Max.	insertion	NA
-moco1246	NA	verbal	constituency	Segmental	Phonological	Vowel insertion	Minimal	vocalic epenthesis	6	7	V-Epenthesis Min.	insertion	NA
-yucu1253	NA	verbal	constituency	Segmental	Phonological	Vowel insertion	NA	vowel insertion	10	16	V-Insert.	insertion	NA
-arao1248	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	Maximal	vowel.deletion	6	14	V-Syncope Max.	deletion	NA
-arao1248	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	Minimal	vowel.deletion	6	6	V-Syncope Min.	deletion	NA
 ayau1235	overfracture	verbal	constituency	Recursion.based	Indeterminate	Asyndetic	NA	verbal parallelism	15	19	Verbal Parallel.	morphosyntactic	
-hupd1244	NA	verbal	constituency	Segmental	Phonological	Vowel assimilation	Maximal	vowel.copying	2	32	Vowel Copy Max.	assimilation	NA
-hupd1244	NA	nominal	constituency	Segmental	Phonological	Vowel assimilation	Maximal	vowel.copying	5	12	Vowel Copy Max.	assimilation	NA
-hupd1244	NA	verbal	constituency	Segmental	Phonological	Vowel assimilation	Minimal	vowel.copying	6	20	Vowel Copy Min.	assimilation	NA
-hupd1244	NA	nominal	constituency	Segmental	Phonological	Vowel assimilation	Minimal	vowel.copying	5	5	Vowel Copy Min.	assimilation	NA
-dura0000	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	Maximal	vowel overwriting after glottal stop	6	29	Vowel Del.	deletion	NA
-zenz1235	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	Maximal	vowel elision	3	16	Vowel Elision Max.	deletion	NA
-zenz1235	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	Minimal	vowel elision	7	13	Vowel Elision Min.	deletion	NA
-zenz1235	NA	verbal	constituency	Segmental	Phonological	Vowel coalescence	NA	vowel fusion	13	17	Vowel Fusion	assimilation	NA
-sout2991		verbal	constituency	Segmental	Phonological	NA	Minimal	NA	12	13	Vowel lowering	assimilation	
-sout2991		verbal	constituency	Segmental	Phonological	NA	Maximal	NA	12	38	Vowel lowering	assimilation	
-dura0000	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	minimal	vowel overwriting after glottal stop	17	26	Vowel Overwrit.	deletion	NA
 chac1251	NA	nominal	constituency	Ciscategorial.selection	Morphosyntactic	NA	Maximal	NA	4	12		morphosyntactic	NA
 chac1251	NA	nominal	constituency	Ciscategorial.selection	Morphosyntactic	NA	Minimal	NA	4	4		morphosyntactic	NA
 iyoj1235	NA	verbal	constituency	Ciscategorial.selection	Morphosyntactic	Broad	Maximal	NA	8	40		morphosyntactic	NA
@@ -291,40 +316,6 @@ chac1251	NA	verbal	constituency	Ciscategorial.selection	Morphosyntactic	Narrow	M
 iyoj1235	NA	verbal	constituency	Ciscategorial.selection	Morphosyntactic	Narrow	Maximal	NA	14	37		morphosyntactic	NA
 chac1251	NA	verbal	constituency	Ciscategorial.selection	Morphosyntactic	Narrow	Minimal	NA	8	16		morphosyntactic	NA
 iyoj1235	NA	verbal	constituency	Ciscategorial.selection	Morphosyntactic	Narrow	Minimal	NA	14	20		morphosyntactic	NA
-kaya1330	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	finiteness	13	15		indeterminate	NA
-chac1251	NA	verbal	constituency	Deviations	Indeterminate	Cumulative.exponence	NA	optional	7	9		indeterminate	NA
-iyoj1235	NA	verbal	constituency	Deviations	Indeterminate	Extended.exponence	NA	NA	14	29		indeterminate	NA
-iyoj1235	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	Inflectional.class	16	18		indeterminate	NA
-siks1238	preliminary	verbal	constituency	Deviations	Indeterminate	Allomorphy	Maximal	inseperable.root.nasal.deletion.vowel.coalescence	6	11		indeterminate	NA
-siks1238	preliminary	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	k-assibilation	3	8		indeterminate	NA
-kiow1266	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	NA	29	34		indeterminate	NA
-mart1259	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	patient.pronouns	18	20		indeterminate	NA
-iyoj1235	NA	verbal	constituency	Deviations	Indeterminate	Allomorphy	NA	Realis.Irrealis	14	18		indeterminate	NA
-mart1259	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	recipient.pronouns	18	19		indeterminate	NA
-siks1238	preliminary	verbal	constituency	Deviations	Indeterminate	Allomorphy	Minimal	seperable.root.nasal.deletion.vowel.coalescence	4	11		indeterminate	NA
-kaya1330	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	NA	13	15		indeterminate	NA
-chac1251	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	3	12		indeterminate	NA
-chac1251	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	4	4		indeterminate	NA
-kaya1330	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	declarative	4	15		indeterminate	NA
-dura0000	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	6	8		indeterminate	NA
-dura0000	NA	nominal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	8	8		indeterminate	NA
-kaya1330	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	imperative	10	15		indeterminate	NA
-siks1238	preliminary	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	conjunct	4	13		indeterminate	NA
-siks1238	preliminary	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	independent	3	13		indeterminate	NA
-chac1251	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	7	25		indeterminate	NA
-iyoj1235	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	4	40		indeterminate	NA
-kaya1330	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	3	21		indeterminate	NA
-kiow1266	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	25	36		indeterminate	NA
-mart1259	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Maximal	NA	17	20		indeterminate	NA
-siks1238	preliminary	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	conjunct	4	11		indeterminate	NA
-siks1238	preliminary	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	independent	3	9		indeterminate	NA
-chac1251	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	8	24		indeterminate	NA
-iyoj1235	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	16	16		indeterminate	NA
-kiow1266	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	25	30		indeterminate	NA
-mart1259	NA	verbal	constituency	Free.occurrence	Indeterminate	NA	Minimal	NA	18	18		indeterminate	NA
-chac1251	NA	nominal	constituency	Segmental	Phonological	Consonant assimilation	NA	alveolarization	3	4		assimilation	NA
-chac1251	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	NA	alveolarization	7	8		assimilation	NA
-kaya1330	NA	verbal	constituency	Idiom	Indeterminate	NA	NA	NA	9	21		indeterminate	NA
 chac1251	NA	verbal	constituency	Noninterruption	Morphosyntactic	Complex	NA	NA	7	20		morphosyntactic	NA
 iyoj1235	NA	verbal	constituency	Noninterruption	Morphosyntactic	Complex	NA	NA	7	41		morphosyntactic	NA
 kiow1266	NA	verbal	constituency	Noninterruption	Morphosyntactic	Complex	NA	NA	23	36		morphosyntactic	NA
@@ -357,17 +348,10 @@ chac1251	NA	nominal	constituency	Noninterruption	Morphosyntactic	Simplex	NA	NA	3
 chac1251	NA	nominal	constituency	Nonpermutability	Morphosyntactic	Scopal	Minimal	NA	2	6		morphosyntactic	NA
 chac1251	NA	nominal	constituency	Nonpermutability	Morphosyntactic	NA	Maximal	NA	2	12		morphosyntactic	NA
 chac1251	NA	nominal	constituency	Nonpermutability	Morphosyntactic	Rigid	Minimal	NA	2	2		morphosyntactic	NA
-kiow1266	noncomparable	verbal	constituency	Pausing	Indeterminate	NA	NA	NA	1	39		indeterminate	NA
-kaya1330	noncomparable	verbal	constituency	Pausing	Indeterminate	Pause	NA	NA	11	16		indeterminate	NA
 chac1251	NA	nominal	constituency	Proform	Morphosyntactic	NA	NA	NA	1	12		morphosyntactic	NA
-chac1251	NA	verbal	constituency	Recursion.based	Indeterminate	Asyndetic	Minimal	Asyndetic	7	13		indeterminate	NA
-siks1238	preliminary	verbal	constituency	Recursion.based	Indeterminate	Asyndetic	Minimal	coordination.conjunct	4	11		indeterminate	NA
-siks1238	preliminary	verbal	constituency	Recursion.based	Indeterminate	Asyndetic	Minimal	coordination.independent	3	9		indeterminate	NA
 chac1251	NA	verbal	constituency	Recursion.based	Morphosyntactic	Asyndetic	Maximal	Asyndetic	6	17		morphosyntactic	NA
 siks1238	preliminary	verbal	constituency	Recursion.based	Morphosyntactic	Asyndetic	Maximal	coordination.conjunct	4	13		morphosyntactic	NA
 siks1238	preliminary	verbal	constituency	Recursion.based	Morphosyntactic	Asyndetic	Maximal	coordination.independent	3	13		morphosyntactic	NA
-kaya1330	misinterpretation	verbal	constituency	Recursion.based	Indeterminate	NA	Minimal	Coordination	10	15		indeterminate	Flagged: not clear if this test was applied correctly
-iyoj1235	NA	verbal	constituency	Recursion.based	Indeterminate	NA	Minimal	NA	8	38		indeterminate	NA
 kaya1330	NA	verbal	constituency	Recursion.based	Morphosyntactic	NA	Maximal	Coordination	4	22		morphosyntactic	NA
 iyoj1235	NA	verbal	constituency	Recursion.based	Morphosyntactic	NA	Maximal	NA	8	39		morphosyntactic	NA
 kiow1266	NA	verbal	constituency	Recursion.based	Morphosyntactic	NA	Maximal	NA	1	39		morphosyntactic	NA
@@ -378,68 +362,47 @@ siks1238	preliminary	verbal	constituency	Recursion.based	Morphosyntactic	NA	NA	i
 siks1238	preliminary	verbal	constituency	Recursion.based	Morphosyntactic	NA	NA	secondary.derivation	6	7		morphosyntactic	NA
 siks1238	preliminary	verbal	constituency	Recursion.based	Morphosyntactic	NA	NA	seperable.roots	4	7		morphosyntactic	NA
 siks1238	preliminary	verbal	constituency	Recursion.based	Morphosyntactic	NA	NA	seperable.roots.complex.preverbs	4	6		morphosyntactic	NA
-chac1251	NA	verbal	constituency	Recursion.based	Indeterminate	Nominalization	Minimal	Agentive.nominalization	7	24		indeterminate	NA
-chac1251	NA	verbal	constituency	Recursion.based	Indeterminate	Nominalization	Minimal	Instrumental.nominalization	6	24		indeterminate	NA
 chac1251	NA	verbal	constituency	Recursion.based	Morphosyntactic	Nominalization	Maximal	Agentive.nominalization	7	24		morphosyntactic	NA
 chac1251	NA	verbal	constituency	Recursion.based	Morphosyntactic	Nominalization	Maximal	Instrumental.nominalization	6	24		morphosyntactic	NA
-chac1251	NA	verbal	constituency	Recursion.based	Indeterminate	Reduplication	Minimal	NA	7	10		indeterminate	NA
 chac1251	NA	verbal	constituency	Recursion.based	Morphosyntactic	Reduplication	Maximal	NA	7	22		morphosyntactic	NA
 chac1251	NA	verbal	constituency	Recursion.based	Morphosyntactic	Same.subject	Maximal	Same.subject	6	17		morphosyntactic	NA
-dura0000	NA	nominal	constituency	Recursion.based	Indeterminate	NA	Minimal	coordination	8	8		indeterminate	NA
-dura0000	NA	nominal	constituency	Recursion.based	Indeterminate	Possession	Minimal	NA	8	8		indeterminate	NA
 dura0000	NA	nominal	constituency	Recursion.based	Morphosyntactic	NA	Maximal	coordination	1	13		morphosyntactic	NA
 dura0000	NA	nominal	constituency	Recursion.based	Morphosyntactic	Possession	Maximal	NA	7	12		morphosyntactic	NA
-chac1251	NA	verbal	constituency	Recursion.based	Indeterminate	Syndetic	Minimal	Different.subject	7	22		indeterminate	NA
-chac1251	NA	verbal	constituency	Recursion.based	Indeterminate	Syndetic	Minimal	Same.subject	7	11		indeterminate	NA
 chac1251	NA	verbal	constituency	Recursion.based	Morphosyntactic	Syndetic	Maximal	Different.subject	6	24		morphosyntactic	NA
-kiow1266	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Maximal	cluster.devoicing	29	33		assimilation	NA
-kiow1266	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Minimal	cluster.devoicing	29	31		assimilation	NA
-dura0000	NA	nominal	constituency	Segmental	Phonological	Minimality	Maximal	bimoraic	1	13		size-related	NA
-dura0000	NA	nominal	constituency	Segmental	Phonological	Minimality	Minimal	bimoraic	8	8		size-related	NA
-dura0000	NA	nominal	constituency	Segmental	Phonological	Minimality	NA	monomoraic	7	8		size-related	NA
-iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Maximal	Palatalization coronals.only	14	46		assimilation	NA
-iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Maximal	Palatalization with.k(‘)y	14	40		assimilation	NA
-iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Maximal	Palatalization without.k(‘)y	14	40		assimilation	NA
-iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Minimal	Palatalization coronals.only	14	16		assimilation	NA
-iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Minimal	Palatalization with.k(‘)y	14	16		assimilation	NA
-iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant assimilation	Minimal	Palatalization without.k(‘)y	14	18		assimilation	Possibly right edge is 25
-kaya1330	NA	verbal	constituency	Segmental	Phonological	Consonant deletion	NA	consonant.deletion	12	15		deletion	NA
-chac1251	NA	nominal	constituency	Segmental	Phonological	Vowel deletion	NA	apocope	4	12		deletion	NA
-chac1251	NA	verbal	constituency	Segmental	Phonological	Consonant deletion	NA	Latent.stop.deletion	8	24		deletion	NA
-dura0000	NA	verbal	lexphon	Segmental	Phonological	Vowel-consonant deletion	NA	fast speech reduction	1	28		deletion	
-dura0000	NA	nominal	lexphon	Segmental	Phonological	Vowel-consonant deletion	NA	fast speech reduction	1	13		deletion	
-chac1251	NA	verbal	lexphon	Segmental	Phonological	Vowel-consonant deletion	NA	transitive marker deletion	7	9		deletion	
-iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant insertion	Maximal	insertion of /y/	16	44		insertion	NA
-iyoj1235	NA	verbal	constituency	Segmental	Phonological	Consonant insertion	Minimal	insertion of /y/	16	32		insertion	NA
-iyoj1235	newdomain	verbal	constituency	Segmental	Phonological	Consonant insertion	Minimal	insertion of /y/, fractured according to analysis “maximal”	16	34		insertion	Looks like overfracturing to  me
-siks1238	preliminary	verbal	constituency	Segmental	Phonological	Consonant insertion	Maximal	glottal.insertion.vowel.coalescence.construction 1	1	13		insertion	NA
-siks1238	preliminary	verbal	constituency	Segmental	Phonological	Consonant insertion	Minimal	glottal.insertion.vowel.coalescence.construction 1	1	11		insertion	NA
-chac1251	NA	verbal	constituency	Segmental	Phonological	Consonant insertion	Maximal	glottal.insertion	6	28		insertion	NA
-siks1238	preliminary	verbal	constituency	Segmental	Phonological	Consonant insertion	Maximal	glottal.insertion.vowel.coalescence.construction 2	3	13		insertion	NA
-chac1251	NA	verbal	constituency	Segmental	Phonological	Vowel insertion	Maximal	NA	7	24		insertion	NA
-chac1251	NA	verbal	constituency	Segmental	Phonological	Consonant insertion	Minimal	glottal.insertion	7	8		insertion	NA
-siks1238	preliminary	verbal	constituency	Segmental	Phonological	Consonant insertion	Minimal	glottal.insertion.vowel.coalescence.construction 2	3	11		insertion	NA
-chac1251	NA	verbal	constituency	Segmental	Phonological	Consonant insertion	Minimal	glottal stop insertion	7	10		insertion	NA
-chac1251	NA	nominal	constituency	Segmental	Phonological	Consonant insertion	NA	glottal stop insertion	3	4		insertion	NA
-kiow1266	NA	verbal	constituency	Segmental	Phonological	Consonant change	Maximal	dental-velar switch	26	36		assimilation	NA
-siks1238	preliminary	verbal	constituency	Segmental	Phonological	Minimality	Maximal	size	6	9		size-related	NA
-kiow1266	NA	verbal	constituency	Segmental	Phonological	Consonant change	Minimal	Dental-Velar Switch	30	33		assimilation	NA
-siks1238	preliminary	verbal	constituency	Segmental	Phonological	Minimality	Minimal	size	6	7		size-related	NA
-kaya1330	NA	verbal	constituency	Deviations	Indeterminate	Suppletion	NA	suppletion for number	13	15		allomorphy	NA
-chac1251	NA	verbal	lexphon	Deviations	Indeterminate	Suppletion	NA	intransitive vowel allomorphy	8	9		allomorphy	NA
-kiow1266	NA	verbal	constituency	Segmental	Phonological	Syllabification	Maximal	syllabification sensitive processes	26	36		syllable	NA
-kiow1266	NA	verbal	constituency	Segmental	Phonological	Syllabification	Minimal	syllabification sensitive processes	29	36		syllable	NA
-dura0000	NA	nominal	constituency	Segmental	Phonological	Vowel deletion	NA	vowel overwriting	8	11		deletion	NA
-kaya1330	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	NA	vowel.deletion	12	15		deletion	NA
-kiow1266	NA	verbal	constituency	Segmental	Phonological	Vowel deletion	NA	vowel.deletion	29	30		deletion	NA
-chac1251	NA	verbal	constituency	Segmental	Phonological	Vowel insertion	Maximal	same vowel insertion	7	24		size-related	NA
-chac1251	NA	verbal	constituency	Segmental	Phonological	Vowel insertion	Minimal	same vowel insertion	7	10		size-related	NA
-chac1251	Need to check	nominal	constituency	Recursion.based	Indeterminate	Possession	Minimal	Genitive	4	4		indeterminate	NA
-chac1251	NA	nominal	constituency	Recursion.based	Indeterminate	NA	Minimal	tihi conjunction	3	6		indeterminate	NA
 chac1251	Need to check	nominal	constituency	Recursion.based	Morphosyntactic	Possession	Maximal	Genitive	2	10		morphosyntactic	NA
 chac1251	Need to check	nominal	constituency	Recursion.based	Morphosyntactic	NA	Maximal	tihi conjunction	2	8		morphosyntactic	NA
 chac1251	NA	nominal	constituency	Recursion.based	Morphosyntactic	NA	NA	Compound	3	4		morphosyntactic	NA
 chac1251	NA	nominal	constituency	Recursion.based	Morphosyntactic	NA	NA	naxeni	3	4		morphosyntactic	NA
+zenz1235	NA	verbal	constituency	Suprasegmental	Phonological	Declination/Downstep	NA	declination and pitch reset	1	21	Declination/Reset	other process	NA
+ayau1235	noncomparable	verbal	constituency	Pausing	Phonological	NA	NA	pause	15	28	Pause	pause	NA
+dura0000	NA	verbal	constituency	Segmental	Phonological	Minimality	Maximal	bimoraic	1	28	Bimoraic. Bim. Max.	size-related	NA
+dura0000	NA	verbal	constituency	Segmental	Phonological	Minimality	Minimal	bimoraic	17	17	Bimoraic. Bim. Min.	size-related	NA
+dura0000	NA	verbal	constituency	Segmental	Phonological	Minimality	Maximal	monomoraic apart from verb base	1	27	Bimoraic. Mono. Max.	size-related	NA
+dura0000	NA	verbal	constituency	Segmental	Phonological	Minimality	Minimal	monomoraic apart from verb base	12	18	Bimoraic. Mono. Min.	size-related	NA
+dura0000	NA	nominal	constituency	Segmental	Phonological	Minimality	Maximal	bimoraic	1	13		size-related	NA
+dura0000	NA	nominal	constituency	Segmental	Phonological	Minimality	Minimal	bimoraic	8	8		size-related	NA
+dura0000	NA	nominal	constituency	Segmental	Phonological	Minimality	NA	monomoraic	7	8		size-related	NA
+siks1238	preliminary	verbal	constituency	Segmental	Phonological	Minimality	Maximal	size	6	9		size-related	NA
+siks1238	preliminary	verbal	constituency	Segmental	Phonological	Minimality	Minimal	size	6	7		size-related	NA
+chac1251	NA	verbal	constituency	Segmental	Phonological	Vowel insertion	Maximal	same vowel insertion	7	24		size-related	NA
+chac1251	NA	verbal	constituency	Segmental	Phonological	Vowel insertion	Minimal	same vowel insertion	7	10		size-related	NA
+teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	8	11	Accent Max.	stress	NA
+teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	3	15	Accent Max.	stress	NA
+teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Accent	Minimal	NA	8	9	Accent Min.	stress	NA
+teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	NA	10	15	Accent Min.	stress	NA
+arao1248	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	4	17	Pitch Accent Max.	stress	NA
+sout2991		verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	stress	12	41	Pitch Accent Max.	stress	
+arao1248	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	NA	6	11	Pitch Accent Min.	stress	NA
+sout2991		verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	stress	12	29	Pitch Accent Min.	stress	
+hupd1244	NA	nominal	constituency	Suprasegmental	Phonological	Accent	NA	stress	5	15	Stress	stress	NA
+ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	15	20	Stress Max.	stress	NA
+cent2127	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	2	20	Stress Max.	stress	NA
+moco1246	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	4	18	Stress Max.	stress	NA
+hupd1244	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	stress	3	26	Stress Max.	stress	NA
+cent2127	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	NA	2	16	Stress Min.	stress	NA
+moco1246	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	NA	6	7	Stress Min.	stress	NA
+ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	positive evidence	19	20	Stress Min.	stress	NA
+hupd1244	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	stress	2	26	Stress Min.	stress	NA
 chac1251	NA	nominal	constituency	Suprasegmental	Phonological	Accent	Maximal	intensity	3	12		stress	NA
 chac1251	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	intensity	7	25		stress	NA
 iyoj1235	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	NA	4	40		stress	NA
@@ -452,8 +415,45 @@ iyoj1235	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	Const
 siks1238	preliminary	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	Construction 1	3	11		stress	NA
 siks1238	preliminary	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	Construction 2	3	13		stress	NA
 mart1259	NA	verbal	constituency	Suprasegmental	Phonological	Accent	NA	NA	17	20		stress	NA
-chac1251	NA	verbal	constituency	Suprasegmental	Phonological	Tone deletion	Minimal	H.deletion	6	27		deletion	NA
-chac1251	NA	verbal	constituency	Suprasegmental	Phonological	Tone insertion	Minimal	H.insertion	7	17		insertion	NA
+ayau1235	noncomparable	verbal	constituency	Segmental	Phonological	Syllabification	NA	negative evidence	16	28	Segm. Syllab. Negative	syllable	NA
+ayau1235	noncomparable	verbal	constituency	Segmental	Phonological	Syllabification	NA	positive evidence	16	19	Segm. Syllab. Positive	syllable	NA
+teot1238	noncomparable	nominal	constituency	Segmental	Phonological	Syllabification	Maximal	syllabification	1	20	Syllab. Max.	syllable	NA
+teot1238	noncomparable	verbal	constituency	Segmental	Phonological	Syllabification	Maximal	syllabification	1	28	Syllab. Max.	syllable	NA
+teot1238	noncomparable	nominal	constituency	Segmental	Phonological	Syllabification	Minimal	syllabification	6	8	Syllab. Min.	syllable	NA
+teot1238	noncomparable	verbal	constituency	Segmental	Phonological	Syllabification	Minimal	syllabification	10	12	Syllab. Min.	syllable	NA
+cher1273	noncomparable	verbal	constituency	Segmental	Phonological	Syllabification	NA	syllabification	2	23	Syllabification	syllable	NA
+kiow1266	NA	verbal	constituency	Segmental	Phonological	Syllabification	Maximal	syllabification sensitive processes	26	36		syllable	NA
+kiow1266	NA	verbal	constituency	Segmental	Phonological	Syllabification	Minimal	syllabification sensitive processes	29	36		syllable	NA
+ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Neutralization	Maximal	obligatory tone neutralization	15	21	*3.24 Neutral. Max.	tone	NA
+ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Neutralization	Minimal	obligatory tone neutralization	19	19	*3.24 Neutral. Min.	tone	NA
+yucu1253	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	Maximal	floating tone	9	16	Float. Tone Max.	tone	NA
+yucu1253	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	Minimal	floating.tone	10	16	Float. Tone Min.	tone	NA
+zenz1235	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	NA	H tone spreading	1	21	H-Tone Spread.	tone	NA
+cher1273	NA	verbal	constituency	Suprasegmental	Phonological	Accent	NA	Domain of H1 Spreading	11	21	H1 Spreading	tone	NA
+cher1273	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	Domain of H3 Assignment	5	21	H3 Assign. Max.	tone	NA
+cher1273	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	Domain of H3 Assignment	7	21	H3 Assign. Min.	tone	NA
+zenz1235	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	NA	mid tone replacement	10	17	M-Tone Replace.	tone	NA
+teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Tone spreading	Maximal	mid tone spreading	1	20	Mid Tone Spread. Max.	tone	NA
+teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	Maximal	mid tone spreading	1	28	Mid Tone Spread. Max.	tone	NA
+teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Tone spreading	Minimal	mid tone spreading	8	9	Mid Tone Spread. Min.	tone	NA
+teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	Minimal	mid tone spreading	11	14	Mid Tone Spread. Min.	tone	NA
+ayau1235	overfracture	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	NA	obligatory sandhi	15	28	Oblig. Sandhi	tone	NA
+ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Maximal	no prosodic restrictions	2	31	Poss. Sandhi Max.	tone	NA
+ayau1235	overfracture	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Minimal	optional tone sandhi	15	28	Poss. Sandhi Min.	tone	NA
+teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Tone spreading	NA	rising tone levelling	8	20	Rising Tone Level.	tone	NA
+teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	NA	Rising Tone Levelling	10	24	Rising Tone Level.	tone	NA
+ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Maximal	sandhi blocking	15	21	Sandhi Blocking Max.	tone	NA
+ayau1235	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Minimal	sandhi blocking	15	19	Sandhi Blocking Min.	tone	NA
+cher1273	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Maximal	Domain of Superhigh Assignment	5	22	Superhigh Assign. Max.	tone	NA
+cher1273	NA	verbal	constituency	Suprasegmental	Phonological	Accent	Minimal	Domain of Superhigh Assignment	7	22	Superhigh Assign. Min.	tone	NA
+yucu1253	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Maximal	dissimilation	1	21	Tone Diss. Max.	tone	NA
+yucu1253	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Minimal	dissimilation	10	19	Tone Diss. Max.	tone	NA
+dura0000	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	NA	dependent pronouns	17	27	Tone Sandhi	tone	NA
+teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Tone sandhi	Maximal	tone sandhi	1	20	Tone Sandhi Max.	tone	NA
+teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Maximal	tone sandhi	1	28	Tone Sandhi Max.	tone	NA
+teot1238	NA	nominal	constituency	Suprasegmental	Phonological	Tone sandhi	Minimal	tone sandhi	8	11	Tone Sandhi Min.	tone	NA
+teot1238	NA	verbal	constituency	Suprasegmental	Phonological	Tone sandhi	Minimal	tone sandhi	11	19	Tone Sandhi Min.	tone	NA
+yucu1253	NA	verbal	constituency	Suprasegmental	Phonological	Tone spreading	NA	spreading	10	18	Tone Spread.	tone	NA
 chac1251	NA	nominal	constituency	Suprasegmental	Phonological	Tone insertion	Maximal	H tone insertion	3	6		tone	NA
 chac1251	NA	nominal	constituency	Suprasegmental	Phonological	Tone insertion	Minimal	H tone insertion	3	4		tone	NA
 chac1251	NA	nominal	constituency	Suprasegmental	Phonological	Tone deletion	Minimal	H.deletion	3	12		tone	NA

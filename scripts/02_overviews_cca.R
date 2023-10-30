@@ -100,7 +100,7 @@ ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_convergences
 include_at <- domains_verbal %>%
   count(Abstract_Type) %>%
   arrange(desc(n)) %>%
-  filter(n>10) %>%
+  filter(n>5) %>%
   droplevels() %>%
   pull(Abstract_Type)
 domains_verbal_sub <- domains_verbal %>%
@@ -212,6 +212,77 @@ plot_dens_conv_atype <- ggplot(aes(x = Relative_Convergence, group = Abstract_Ty
 plot_dens_conv_atype
 # export plot
 ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_abstract.png", plot_dens_conv_atype, height = 17, width = 20, device = "png", units = "cm", dpi = 600)
+
+
+# facet density plot of relative convergence per prosodic word pattern
+# exclude categories with few data points
+keep_pw <- domains_verbal_sub %>%
+  count(PW_Pattern) %>%
+  filter(n>5) %>%
+  droplevels() %>%
+  pull(PW_Pattern)
+
+domains_verbal_sub_pw <- domains_verbal_sub %>%
+  filter(PW_Pattern %in% keep_pw) %>%
+  droplevels()
+
+# make plot
+plot_dens_conv_pw <- ggplot(aes(x = Relative_Convergence, group = PW_Pattern), data = domains_verbal_sub_pw) +
+  geom_density(aes(fill = PW_Pattern)) +
+  scale_fill_d3(guide = "none") +
+  facet_wrap(~PW_Pattern, scales = "free_x", ncol = 3) +
+  labs(x = "Relative convergence", y = "Density", ) +
+  scale_x_continuous(expand = c(0.008, 0), breaks = seq(0, 5, 0.1), limits = c(0, 0.5)) +
+  scale_y_continuous(breaks = seq(0, 11, 2), limits = c(0, 11)) +
+  theme_bw() +
+  theme(legend.position = "bottom",
+        legend.key.size = unit(1, "lines"),
+        legend.text = element_text(size = 11),
+        axis.text = element_text(size = 12),
+        axis.title = element_text(size = 13),
+        strip.text.x = element_text(size = 11),
+        panel.spacing = unit(1.3, "lines"),
+        strip.clip = "off",
+        plot.margin = margin(5, 10, 5, 10))
+plot_dens_conv_pw
+# export plot
+ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_pw.png", plot_dens_conv_pw, height = 20, width = 20, device = "png", units = "cm", dpi = 600)
+
+
+# density plots of cross-linguistic fractures with more than 10 token
+# take subset with fractures that have more than 10 tokens; exclude NA
+keep_clf <- domains_verbal %>%
+  filter(!is.na(CrossL_Fracture)) %>%
+  count(CrossL_Fracture) %>%
+  filter(n>10) %>%
+  droplevels() %>%
+  pull(CrossL_Fracture)
+domains_verbal_clf <- domains_verbal %>%
+  filter(CrossL_Fracture %in% keep_clf) %>%
+  droplevels()
+
+plot_dens_conv_clf <- ggplot(aes(x = Relative_Convergence, group = CrossL_Fracture), data = domains_verbal_clf) +
+  geom_density(aes(fill = CrossL_Fracture)) +
+  scale_fill_d3(guide = "none") +
+  facet_wrap(~CrossL_Fracture, scales = "free_x", ncol = 3) +
+  labs(x = "Relative convergence", y = "Density", ) +
+  scale_x_continuous(expand = c(0.008, 0), breaks = seq(0, 5, 0.1), limits = c(0, 0.5)) +
+  scale_y_continuous(breaks = seq(0, 11, 2), limits = c(0, 11)) +
+  theme_bw() +
+  theme(legend.position = "bottom",
+        legend.key.size = unit(1, "lines"),
+        legend.text = element_text(size = 11),
+        axis.text = element_text(size = 12),
+        axis.title = element_text(size = 13),
+        strip.text.x = element_text(size = 11),
+        panel.spacing = unit(1.3, "lines"),
+        strip.clip = "off",
+        plot.margin = margin(5, 10, 5, 10))
+plot_dens_conv_clf
+# export plot
+ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_clf.png", plot_dens_conv_clf, height = 17, width = 20, device = "png", units = "cm", dpi = 600)
+
+
 
 # density plot left/right
 density_lr <- ggplot(data = domains_verbal_d, aes(x = Relative_Convergence, group = MinMax_Fracture, col = MinMax_Fracture)) +
