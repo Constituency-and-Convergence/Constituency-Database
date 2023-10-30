@@ -37,7 +37,7 @@ planar_output <- planar_input %>%
 glimpse(planar_output)
 
 # write output file
-write_tsv(planar_output, here("cc_planar_output.tsv"))
+write_tsv(planar_output, here("planar.tsv"))
 
 
 # generate full domains file
@@ -70,7 +70,7 @@ domains_out <- domains_input %>%
   arrange(Planar_ID, Domain_ID) %>%
   mutate(Serial_Order = seq(1:nrow(.))) %>%
   filter(!Analysis_Type=="lexphon") %>%
-  select(Serial_Order, Language_Name, Language_ID, Domain_ID, Domain_Type, Abstract_Type, CrossL_Fracture, MinMax_Fracture, Lspecific_Fracture, Left_Edge, Right_Edge, Size, Relative_Size, Largest, Position_Total, Planar_ID, Test_Labels)
+  select(Serial_Order, Language_Name, Language_ID, Domain_ID, Domain_Type, Abstract_Type, CrossL_Fracture, MinMax_Fracture, Lspecific_Fracture, Left_Edge, Right_Edge, Size, Relative_Size, Largest, Position_Total, Planar_ID, PW_Patterns, Test_Labels)
 glimpse(domains_out)
 
 # there should not be any duplicates in the Domain_ID! please fix in the input file if there are any
@@ -102,4 +102,4 @@ domains_out_conv <- domains_out %>%
   relocate(Tests_Total, .after = Position_Total)
 glimpse(domains_out_conv)
 
-write_tsv(domains_out_conv, here("cc_domains_output.tsv"))
+write_tsv(domains_out_conv, here("domains.tsv"))

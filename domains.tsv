@@ -1,464 +1,464 @@
-Serial_Order	Language_Name	Language_ID	Domain_ID	Domain_Type	Abstract_Type	CrossL_Fracture	MinMax_Fracture	Lspecific_Fracture	Left_Edge	Right_Edge	Convergence	Relative_Convergence	Size	Relative_Size	Largest	Position_Total	Tests_Total	Planar_ID	Test_Labels
-1	Araona	arao1248	arao1248_v_ciscategorial.selection_maximal_broad	morphosyntactic	ciscategorial.selection	NA	maximal	broad	1	17	2	0.11	17	1	17	18	19	arao1248_verbal	Ciscat. Sel. Max. broad
-2	Araona	arao1248	arao1248_v_ciscategorial.selection_maximal_narrow	morphosyntactic	ciscategorial.selection	NA	maximal	narrow	4	15	3	0.16	12	0.71	17	18	19	arao1248_verbal	Ciscat. Sel. Max. narrow
-3	Araona	arao1248	arao1248_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	6	13	1	0.05	8	0.47	17	18	19	arao1248_verbal	Ciscat. Sel. Min.
-4	Araona	arao1248	arao1248_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	4	17	2	0.11	14	0.82	17	18	19	arao1248_verbal	Free Ocurr. Max.
-5	Araona	arao1248	arao1248_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	6	6	5	0.26	1	0.06	17	18	19	arao1248_verbal	Free Ocurr. Min.
-6	Araona	arao1248	arao1248_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	4	16	1	0.05	13	0.76	17	18	19	arao1248_verbal	Non-interrupt. Compl.
-7	Araona	arao1248	arao1248_v_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	6	6	5	0.26	1	0.06	17	18	19	arao1248_verbal	Non-interrupt. Simpl.
-8	Araona	arao1248	arao1248_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	6	6	5	0.26	1	0.06	17	18	19	arao1248_verbal	Non-permut.
-9	Araona	arao1248	arao1248_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	4	6	2	0.11	3	0.18	17	18	19	arao1248_verbal	Non-permut. Scope
-10	Araona	arao1248	arao1248_v_recursion.based_maximal	morphosyntactic	recursion.based	NA	maximal	NA	4	15	3	0.16	12	0.71	17	18	19	arao1248_verbal	Subspan Rep. Max.
-11	Araona	arao1248	arao1248_v_recursion.based_maximal_tso.marked	morphosyntactic	recursion.based	NA	maximal	tso.marked	1	17	2	0.11	17	1	17	18	19	arao1248_verbal	Subspan Rep. Tso Max.
-12	Araona	arao1248	arao1248_v_recursion.based_minimal	indeterminate	recursion.based	NA	minimal	NA	6	6	5	0.26	1	0.06	17	18	19	arao1248_verbal	Subspan Rep. Min.
-13	Araona	arao1248	arao1248_v_recursion.based_minimal_tso.marked	indeterminate	recursion.based	NA	minimal	tso.marked	4	14	1	0.05	11	0.65	17	18	19	arao1248_verbal	Subspan Rep. Tso Min.
-14	Araona	arao1248	arao1248_v_segmental_vowel.deletion_e.deletion	phonological	segmental	vowel.deletion	NA	e.deletion	4	6	2	0.11	3	0.18	17	18	19	arao1248_verbal	E-Deletion
-15	Araona	arao1248	arao1248_v_segmental_vowel.deletion_maximal_vowel.deletion	phonological	segmental	vowel.deletion	maximal	vowel.deletion	6	14	1	0.05	9	0.53	17	18	19	arao1248_verbal	V-Syncope Max.
-16	Araona	arao1248	arao1248_v_segmental_vowel.deletion_minimal_vowel.deletion	phonological	segmental	vowel.deletion	minimal	vowel.deletion	6	6	5	0.26	1	0.06	17	18	19	arao1248_verbal	V-Syncope Min.
-17	Araona	arao1248	arao1248_v_segmental_vowel.insertion_e.insert	phonological	segmental	vowel.insertion	NA	e.insert	4	15	3	0.16	12	0.71	17	18	19	arao1248_verbal	E-Insertion
-18	Araona	arao1248	arao1248_v_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	4	17	2	0.11	14	0.82	17	18	19	arao1248_verbal	Pitch Accent Max.
-19	Araona	arao1248	arao1248_v_suprasegmental_accent_minimal	phonological	suprasegmental	accent	minimal	NA	6	11	1	0.05	6	0.35	17	18	19	arao1248_verbal	Pitch Accent Min.
-20	Ayautla Mazatec	ayau1235	ayau1235_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	Ciscat. Sel. Max.
-21	Ayautla Mazatec	ayau1235	ayau1235_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	15	19	5	0.17	5	0.17	30	31	30	ayau1235_verbal	Ciscat. Sel. Min.
-22	Ayautla Mazatec	ayau1235	ayau1235_v_deviations_allomorphy_maximal	indeterminate	deviations	allomorphy	maximal	NA	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	Dev. Biunique. Max.
-23	Ayautla Mazatec	ayau1235	ayau1235_v_deviations_allomorphy_minimal	indeterminate	deviations	allomorphy	minimal	NA	15	19	5	0.17	5	0.17	30	31	30	ayau1235_verbal	Dev. Biunique. Min.
-24	Ayautla Mazatec	ayau1235	ayau1235_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	Min Free Form Max.
-25	Ayautla Mazatec	ayau1235	ayau1235_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	19	19	3	0.1	1	0.03	30	31	30	ayau1235_verbal	Min Free Form Min.
-26	Ayautla Mazatec	ayau1235	ayau1235_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	6	28	2	0.07	23	0.77	30	31	30	ayau1235_verbal	No-interrupt. Compl.
-27	Ayautla Mazatec	ayau1235	ayau1235_v_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	No-interrupt. Simpl.
-28	Ayautla Mazatec	ayau1235	ayau1235_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	15	20	2	0.07	6	0.2	30	31	30	ayau1235_verbal	Non-permut. Min.
-29	Ayautla Mazatec	ayau1235	ayau1235_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	13	21	1	0.03	9	0.3	30	31	30	ayau1235_verbal	Non-permut. Max.
-30	Ayautla Mazatec	ayau1235	ayau1235_v_pausing_pause	phonological	pausing	NA	NA	pause	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	Pause
-31	Ayautla Mazatec	ayau1235	ayau1235_v_recursion.based_asyndetic_verbal.parallelism	indeterminate	recursion.based	asyndetic	NA	verbal.parallelism	15	19	5	0.17	5	0.17	30	31	30	ayau1235_verbal	Verbal Parallel.
-32	Ayautla Mazatec	ayau1235	ayau1235_v_recursion.based_maximal_coordination	morphosyntactic	recursion.based	NA	maximal	coordination	2	29	1	0.03	28	0.93	30	31	30	ayau1235_verbal	Coordination Max.
-33	Ayautla Mazatec	ayau1235	ayau1235_v_recursion.based_minimal_coordination	indeterminate	recursion.based	NA	minimal	coordination	6	28	2	0.07	23	0.77	30	31	30	ayau1235_verbal	Coordination Min.
-34	Ayautla Mazatec	ayau1235	ayau1235_v_recursion.based_nominalization_maximal	morphosyntactic	recursion.based	nominalization	maximal	NA	3	29	1	0.03	27	0.9	30	31	30	ayau1235_verbal	Nominaliz. Max.
-35	Ayautla Mazatec	ayau1235	ayau1235_v_recursion.based_nominalization_minimal	indeterminate	recursion.based	nominalization	minimal	NA	3	20	1	0.03	18	0.6	30	31	30	ayau1235_verbal	Nominaliz. Min.
-36	Ayautla Mazatec	ayau1235	ayau1235_v_recursion.based_reduplication_total.reduplication	indeterminate	recursion.based	reduplication	NA	total.reduplication	15	19	5	0.17	5	0.17	30	31	30	ayau1235_verbal	Total Redupl.
-37	Ayautla Mazatec	ayau1235	ayau1235_v_segmental_syllabification_negative.evidence	phonological	segmental	syllabification	NA	negative.evidence	16	28	1	0.03	13	0.43	30	31	30	ayau1235_verbal	Segm. Syllab. Negative
-38	Ayautla Mazatec	ayau1235	ayau1235_v_segmental_syllabification_positive.evidence	phonological	segmental	syllabification	NA	positive.evidence	16	19	1	0.03	4	0.13	30	31	30	ayau1235_verbal	Segm. Syllab. Positive
-39	Ayautla Mazatec	ayau1235	ayau1235_v_segmental_vowel-consonant.dissimilation_maximal_*ɛ.j.constraint.negative.evidence	phonological	segmental	vowel-consonant.dissimilation	maximal	*ɛ.j.constraint.negative.evidence	13	25	1	0.03	13	0.43	30	31	30	ayau1235_verbal	*ɛ.j Constraint Max.
-40	Ayautla Mazatec	ayau1235	ayau1235_v_segmental_vowel-consonant.dissimilation_minimal_*ɛ.j.constraint.positive.evidence	phonological	segmental	vowel-consonant.dissimilation	minimal	*ɛ.j.constraint.positive.evidence	19	19	3	0.1	1	0.03	30	31	30	ayau1235_verbal	*ɛ.j Constraint Min.
-41	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	15	20	2	0.07	6	0.2	30	31	30	ayau1235_verbal	Stress Max.
-42	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_accent_minimal_positive.evidence	phonological	suprasegmental	accent	minimal	positive.evidence	19	20	1	0.03	2	0.07	30	31	30	ayau1235_verbal	Stress Min.
-43	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_neutralization_maximal_obligatory.tone.neutralization	phonological	suprasegmental	neutralization	maximal	obligatory.tone.neutralization	15	21	2	0.07	7	0.23	30	31	30	ayau1235_verbal	*3.24 Neutral. Max.
-44	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_neutralization_minimal_obligatory.tone.neutralization	phonological	suprasegmental	neutralization	minimal	obligatory.tone.neutralization	19	19	3	0.1	1	0.03	30	31	30	ayau1235_verbal	*3.24 Neutral. Min.
-45	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_tone.sandhi_maximal_no.prosodic.restrictions	phonological	suprasegmental	tone.sandhi	maximal	no.prosodic.restrictions	2	31	1	0.03	30	1	30	31	30	ayau1235_verbal	Poss. Sandhi Max.
-46	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_tone.sandhi_maximal_sandhi.blocking	phonological	suprasegmental	tone.sandhi	maximal	sandhi.blocking	15	21	2	0.07	7	0.23	30	31	30	ayau1235_verbal	Sandhi Blocking Max.
-47	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_tone.sandhi_minimal_optional.tone.sandhi	phonological	suprasegmental	tone.sandhi	minimal	optional.tone.sandhi	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	Poss. Sandhi Min.
-48	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_tone.sandhi_minimal_sandhi.blocking	phonological	suprasegmental	tone.sandhi	minimal	sandhi.blocking	15	19	5	0.17	5	0.17	30	31	30	ayau1235_verbal	Sandhi Blocking Min.
-49	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_tone.sandhi_obligatory.sandhi	phonological	suprasegmental	tone.sandhi	NA	obligatory.sandhi	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	Oblig. Sandhi
-50	Central Alaskan Yupik	cent2127	cent2127_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	4	16	1	0.05	13	0.68	19	21	19	cent2127_verbal	Ciscat. Sel. Max.
-51	Central Alaskan Yupik	cent2127	cent2127_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	Ciscat. Sel. Min.
-52	Central Alaskan Yupik	cent2127	cent2127_v_deviations_cumulative.exponence_cumulative.exponence.and.suppletion.involving.negation	indeterminate	deviations	cumulative.exponence	NA	cumulative.exponence.and.suppletion.involving.negation	4	12	1	0.05	9	0.47	19	21	19	cent2127_verbal	Cumul. Exp.
-53	Central Alaskan Yupik	cent2127	cent2127_v_deviations_extended.exponence_nonbiunique.marking.of.mood.and.person/number.of.s/a/o	indeterminate	deviations	extended.exponence	NA	nonbiunique.marking.of.mood.and.person/number.of.s/a/o	11	16	1	0.05	6	0.32	19	21	19	cent2127_verbal	Extend. Exp.
-54	Central Alaskan Yupik	cent2127	cent2127_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	2	20	4	0.21	19	1	19	21	19	cent2127_verbal	Free Ocurr. Max.
-55	Central Alaskan Yupik	cent2127	cent2127_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	Free Ocurr. Min.
-56	Central Alaskan Yupik	cent2127	cent2127_v_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	Non-interrupt.
-57	Central Alaskan Yupik	cent2127	cent2127_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	Non-permut. Rigid
-58	Central Alaskan Yupik	cent2127	cent2127_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	2	20	4	0.21	19	1	19	21	19	cent2127_verbal	Non-permut. Scope
-59	Central Alaskan Yupik	cent2127	cent2127_v_recursion.based_complementation_complement.say	morphosyntactic	recursion.based	complementation	NA	complement.say	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	Rec. Compl. Say
-60	Central Alaskan Yupik	cent2127	cent2127_v_recursion.based_complementation_complement1	morphosyntactic	recursion.based	complementation	NA	complement1	2	3	1	0.05	2	0.11	19	21	19	cent2127_verbal	Rec. Compl. 1
-61	Central Alaskan Yupik	cent2127	cent2127_v_recursion.based_complementation_complement2	morphosyntactic	recursion.based	complementation	NA	complement2	2	4	1	0.05	3	0.16	19	21	19	cent2127_verbal	Rec. Compl. 2
-62	Central Alaskan Yupik	cent2127	cent2127_v_recursion.based_complementation_complement3	morphosyntactic	recursion.based	complementation	NA	complement3	2	7	1	0.05	6	0.32	19	21	19	cent2127_verbal	Rec. Compl. 3
-63	Central Alaskan Yupik	cent2127	cent2127_v_repair_maximal	indeterminate	repair	NA	maximal	NA	2	20	4	0.21	19	1	19	21	19	cent2127_verbal	Repair Max.
-64	Central Alaskan Yupik	cent2127	cent2127_v_repair_minimal	indeterminate	repair	NA	minimal	NA	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	Repair Min.
-65	Central Alaskan Yupik	cent2127	cent2127_v_segmental_consonant.coalescence_uvular-velar.consonant.coalescence	phonological	segmental	consonant.coalescence	NA	uvular-velar.consonant.coalescence	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	Cons. Coal.
-66	Central Alaskan Yupik	cent2127	cent2127_v_segmental_consonant.deletion_vvv.clusteravoidance	phonological	segmental	consonant.deletion	NA	vvv.clusteravoidance	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	V-Clust. Avoid.
-67	Central Alaskan Yupik	cent2127	cent2127_v_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	2	20	4	0.21	19	1	19	21	19	cent2127_verbal	Stress Max.
-68	Central Alaskan Yupik	cent2127	cent2127_v_suprasegmental_accent_minimal	phonological	suprasegmental	accent	minimal	NA	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	Stress Min.
-69	Chácobo	chac1251	chac1251_n_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	4	12	2	0.08	9	0.75	12	12	26	chac1251_nominal	NA
-70	Chácobo	chac1251	chac1251_n_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	4	4	3	0.12	1	0.08	12	12	26	chac1251_nominal	NA
-71	Chácobo	chac1251	chac1251_n_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	3	12	3	0.12	10	0.83	12	12	26	chac1251_nominal	NA
-72	Chácobo	chac1251	chac1251_n_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	4	4	3	0.12	1	0.08	12	12	26	chac1251_nominal	NA
-73	Chácobo	chac1251	chac1251_n_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	3	6	3	0.12	4	0.33	12	12	26	chac1251_nominal	NA
-74	Chácobo	chac1251	chac1251_n_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	3	5	1	0.04	3	0.25	12	12	26	chac1251_nominal	NA
-75	Chácobo	chac1251	chac1251_n_nonpermutability_maximal	morphosyntactic	nonpermutability	NA	maximal	NA	2	12	1	0.04	11	0.92	12	12	26	chac1251_nominal	NA
-76	Chácobo	chac1251	chac1251_n_nonpermutability_rigid_minimal	morphosyntactic	nonpermutability	rigid	minimal	NA	2	2	1	0.04	1	0.08	12	12	26	chac1251_nominal	NA
-77	Chácobo	chac1251	chac1251_n_nonpermutability_scopal_minimal	morphosyntactic	nonpermutability	scopal	minimal	NA	2	6	1	0.04	5	0.42	12	12	26	chac1251_nominal	NA
-78	Chácobo	chac1251	chac1251_n_proform	morphosyntactic	proform	NA	NA	NA	1	12	2	0.08	12	1	12	12	26	chac1251_nominal	NA
-79	Chácobo	chac1251	chac1251_n_recursion.based_compound	morphosyntactic	recursion.based	NA	NA	compound	3	4	6	0.23	2	0.17	12	12	26	chac1251_nominal	NA
-80	Chácobo	chac1251	chac1251_n_recursion.based_maximal_tihi.conjunction	morphosyntactic	recursion.based	NA	maximal	tihi.conjunction	2	8	1	0.04	7	0.58	12	12	26	chac1251_nominal	NA
-81	Chácobo	chac1251	chac1251_n_recursion.based_minimal_tihi.conjunction	indeterminate	recursion.based	NA	minimal	tihi.conjunction	3	6	3	0.12	4	0.33	12	12	26	chac1251_nominal	NA
-82	Chácobo	chac1251	chac1251_n_recursion.based_naxeni	morphosyntactic	recursion.based	NA	NA	naxeni	3	4	6	0.23	2	0.17	12	12	26	chac1251_nominal	NA
-83	Chácobo	chac1251	chac1251_n_recursion.based_possession_maximal_genitive	morphosyntactic	recursion.based	possession	maximal	genitive	2	10	1	0.04	9	0.75	12	12	26	chac1251_nominal	NA
-84	Chácobo	chac1251	chac1251_n_recursion.based_possession_minimal_genitive	indeterminate	recursion.based	possession	minimal	genitive	4	4	3	0.12	1	0.08	12	12	26	chac1251_nominal	NA
-85	Chácobo	chac1251	chac1251_n_segmental_consonant.assimilation_alveolarization	phonological	segmental	consonant.assimilation	NA	alveolarization	3	4	6	0.23	2	0.17	12	12	26	chac1251_nominal	NA
-86	Chácobo	chac1251	chac1251_n_segmental_consonant.insertion_glottal.stop.insertion	phonological	segmental	consonant.insertion	NA	glottal.stop.insertion	3	4	6	0.23	2	0.17	12	12	26	chac1251_nominal	NA
-87	Chácobo	chac1251	chac1251_n_segmental_vowel.deletion_apocope	phonological	segmental	vowel.deletion	NA	apocope	4	12	2	0.08	9	0.75	12	12	26	chac1251_nominal	NA
-88	Chácobo	chac1251	chac1251_n_suprasegmental_accent_maximal_intensity	phonological	suprasegmental	accent	maximal	intensity	3	12	3	0.12	10	0.83	12	12	26	chac1251_nominal	NA
-89	Chácobo	chac1251	chac1251_n_suprasegmental_accent_minimal_intensity	phonological	suprasegmental	accent	minimal	intensity	3	4	6	0.23	2	0.17	12	12	26	chac1251_nominal	NA
-90	Chácobo	chac1251	chac1251_n_suprasegmental_tone.deletion_long.distance.tone.reduction.h...h>l...h	phonological	suprasegmental	tone.deletion	NA	long.distance.tone.reduction.h...h>l...h	4	10	1	0.04	7	0.58	12	12	26	chac1251_nominal	NA
-91	Chácobo	chac1251	chac1251_n_suprasegmental_tone.deletion_maximal_h.deletion	phonological	suprasegmental	tone.deletion	maximal	h.deletion	1	12	2	0.08	12	1	12	12	26	chac1251_nominal	NA
-92	Chácobo	chac1251	chac1251_n_suprasegmental_tone.deletion_minimal_h.deletion	phonological	suprasegmental	tone.deletion	minimal	h.deletion	3	12	3	0.12	10	0.83	12	12	26	chac1251_nominal	NA
-93	Chácobo	chac1251	chac1251_n_suprasegmental_tone.insertion_maximal_h.tone.insertion	phonological	suprasegmental	tone.insertion	maximal	h.tone.insertion	3	6	3	0.12	4	0.33	12	12	26	chac1251_nominal	NA
-94	Chácobo	chac1251	chac1251_n_suprasegmental_tone.insertion_minimal_h.tone.insertion	phonological	suprasegmental	tone.insertion	minimal	h.tone.insertion	3	4	6	0.23	2	0.17	12	12	26	chac1251_nominal	NA
-95	Chácobo	chac1251	chac1251_v_ciscategorial.selection_broad	morphosyntactic	ciscategorial.selection	broad	NA	NA	1	28	1	0.03	28	1	28	28	38	chac1251_verbal	NA
-96	Chácobo	chac1251	chac1251_v_ciscategorial.selection_narrow_maximal	morphosyntactic	ciscategorial.selection	narrow	maximal	NA	8	24	3	0.08	17	0.61	28	28	38	chac1251_verbal	NA
-97	Chácobo	chac1251	chac1251_v_ciscategorial.selection_narrow_minimal	morphosyntactic	ciscategorial.selection	narrow	minimal	NA	8	16	1	0.03	9	0.32	28	28	38	chac1251_verbal	NA
-98	Chácobo	chac1251	chac1251_v_deviations_cumulative.exponence_optional	indeterminate	deviations	cumulative.exponence	NA	optional	7	9	1	0.03	3	0.11	28	28	38	chac1251_verbal	NA
-100	Chácobo	chac1251	chac1251_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	7	25	2	0.05	19	0.68	28	28	38	chac1251_verbal	NA
-101	Chácobo	chac1251	chac1251_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	8	24	3	0.08	17	0.61	28	28	38	chac1251_verbal	NA
-102	Chácobo	chac1251	chac1251_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	7	20	1	0.03	14	0.5	28	28	38	chac1251_verbal	NA
-103	Chácobo	chac1251	chac1251_v_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	7	11	2	0.05	5	0.18	28	28	38	chac1251_verbal	NA
-104	Chácobo	chac1251	chac1251_v_nonpermutability_rigid_maximal	morphosyntactic	nonpermutability	rigid	maximal	NA	7	26	1	0.03	20	0.71	28	28	38	chac1251_verbal	NA
-105	Chácobo	chac1251	chac1251_v_nonpermutability_rigid_minimal	morphosyntactic	nonpermutability	rigid	minimal	NA	7	10	4	0.11	4	0.14	28	28	38	chac1251_verbal	NA
-106	Chácobo	chac1251	chac1251_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	7	12	1	0.03	6	0.21	28	28	38	chac1251_verbal	NA
-107	Chácobo	chac1251	chac1251_v_recursion.based_asyndetic_maximal_asyndetic	morphosyntactic	recursion.based	asyndetic	maximal	asyndetic	6	17	2	0.05	12	0.43	28	28	38	chac1251_verbal	NA
-108	Chácobo	chac1251	chac1251_v_recursion.based_asyndetic_minimal_asyndetic	indeterminate	recursion.based	asyndetic	minimal	asyndetic	7	13	1	0.03	7	0.25	28	28	38	chac1251_verbal	NA
-109	Chácobo	chac1251	chac1251_v_recursion.based_nominalization_maximal_agentive.nominalization	morphosyntactic	recursion.based	nominalization	maximal	agentive.nominalization	7	24	4	0.11	18	0.64	28	28	38	chac1251_verbal	NA
-110	Chácobo	chac1251	chac1251_v_recursion.based_nominalization_maximal_instrumental.nominalization	morphosyntactic	recursion.based	nominalization	maximal	instrumental.nominalization	6	24	3	0.08	19	0.68	28	28	38	chac1251_verbal	NA
-111	Chácobo	chac1251	chac1251_v_recursion.based_nominalization_minimal_agentive.nominalization	indeterminate	recursion.based	nominalization	minimal	agentive.nominalization	7	24	4	0.11	18	0.64	28	28	38	chac1251_verbal	NA
-112	Chácobo	chac1251	chac1251_v_recursion.based_nominalization_minimal_instrumental.nominalization	indeterminate	recursion.based	nominalization	minimal	instrumental.nominalization	6	24	3	0.08	19	0.68	28	28	38	chac1251_verbal	NA
-113	Chácobo	chac1251	chac1251_v_recursion.based_reduplication_maximal	morphosyntactic	recursion.based	reduplication	maximal	NA	7	22	2	0.05	16	0.57	28	28	38	chac1251_verbal	NA
-114	Chácobo	chac1251	chac1251_v_recursion.based_reduplication_minimal	indeterminate	recursion.based	reduplication	minimal	NA	7	10	4	0.11	4	0.14	28	28	38	chac1251_verbal	NA
-115	Chácobo	chac1251	chac1251_v_recursion.based_same.subject_maximal_same.subject	morphosyntactic	recursion.based	same.subject	maximal	same.subject	6	17	2	0.05	12	0.43	28	28	38	chac1251_verbal	NA
-116	Chácobo	chac1251	chac1251_v_recursion.based_syndetic_maximal_different.subject	morphosyntactic	recursion.based	syndetic	maximal	different.subject	6	24	3	0.08	19	0.68	28	28	38	chac1251_verbal	NA
-117	Chácobo	chac1251	chac1251_v_recursion.based_syndetic_minimal_different.subject	indeterminate	recursion.based	syndetic	minimal	different.subject	7	22	2	0.05	16	0.57	28	28	38	chac1251_verbal	NA
-118	Chácobo	chac1251	chac1251_v_recursion.based_syndetic_minimal_same.subject	indeterminate	recursion.based	syndetic	minimal	same.subject	7	11	2	0.05	5	0.18	28	28	38	chac1251_verbal	NA
-119	Chácobo	chac1251	chac1251_v_segmental_consonant.assimilation_alveolarization	phonological	segmental	consonant.assimilation	NA	alveolarization	7	8	3	0.08	2	0.07	28	28	38	chac1251_verbal	NA
-120	Chácobo	chac1251	chac1251_v_segmental_consonant.deletion_latent.stop.deletion	phonological	segmental	consonant.deletion	NA	latent.stop.deletion	8	24	3	0.08	17	0.61	28	28	38	chac1251_verbal	NA
-121	Chácobo	chac1251	chac1251_v_segmental_consonant.insertion_maximal_glottal.insertion	phonological	segmental	consonant.insertion	maximal	glottal.insertion	6	28	1	0.03	23	0.82	28	28	38	chac1251_verbal	NA
-122	Chácobo	chac1251	chac1251_v_segmental_consonant.insertion_minimal_glottal.insertion	phonological	segmental	consonant.insertion	minimal	glottal.insertion	7	8	3	0.08	2	0.07	28	28	38	chac1251_verbal	NA
-123	Chácobo	chac1251	chac1251_v_segmental_consonant.insertion_minimal_glottal.stop.insertion	phonological	segmental	consonant.insertion	minimal	glottal.stop.insertion	7	10	4	0.11	4	0.14	28	28	38	chac1251_verbal	NA
-125	Chácobo	chac1251	chac1251_v_segmental_vowel.insertion_maximal	phonological	segmental	vowel.insertion	maximal	NA	7	24	4	0.11	18	0.64	28	28	38	chac1251_verbal	NA
-126	Chácobo	chac1251	chac1251_v_segmental_vowel.insertion_maximal_same.vowel.insertion	phonological	segmental	vowel.insertion	maximal	same.vowel.insertion	7	24	4	0.11	18	0.64	28	28	38	chac1251_verbal	NA
-127	Chácobo	chac1251	chac1251_v_segmental_vowel.insertion_minimal_same.vowel.insertion	phonological	segmental	vowel.insertion	minimal	same.vowel.insertion	7	10	4	0.11	4	0.14	28	28	38	chac1251_verbal	NA
-128	Chácobo	chac1251	chac1251_v_suprasegmental_accent_maximal_intensity	phonological	suprasegmental	accent	maximal	intensity	7	25	2	0.05	19	0.68	28	28	38	chac1251_verbal	NA
-129	Chácobo	chac1251	chac1251_v_suprasegmental_accent_minimal_intensity	phonological	suprasegmental	accent	minimal	intensity	7	8	3	0.08	2	0.07	28	28	38	chac1251_verbal	NA
-130	Chácobo	chac1251	chac1251_v_suprasegmental_tone.deletion_long.distance.tone.reduction.h...h>l...h	phonological	suprasegmental	tone.deletion	NA	long.distance.tone.reduction.h...h>l...h	8	12	1	0.03	5	0.18	28	28	38	chac1251_verbal	NA
-131	Chácobo	chac1251	chac1251_v_suprasegmental_tone.deletion_maximal_h.deletion	phonological	suprasegmental	tone.deletion	maximal	h.deletion	1	27	1	0.03	27	0.96	28	28	38	chac1251_verbal	NA
-132	Chácobo	chac1251	chac1251_v_suprasegmental_tone.deletion_minimal_h.deletion	phonological	suprasegmental	tone.deletion	minimal	h.deletion	6	27	1	0.03	22	0.79	28	28	38	chac1251_verbal	NA
-133	Chácobo	chac1251	chac1251_v_suprasegmental_tone.insertion_maximal_h.insertion	phonological	suprasegmental	tone.insertion	maximal	h.insertion	1	24	1	0.03	24	0.86	28	28	38	chac1251_verbal	NA
-134	Chácobo	chac1251	chac1251_v_suprasegmental_tone.insertion_minimal_h.insertion	phonological	suprasegmental	tone.insertion	minimal	h.insertion	7	17	1	0.03	11	0.39	28	28	38	chac1251_verbal	NA
-135	Oklahoma Cherokee	cher1273	cher1273_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	2	22	3	0.14	21	0.88	24	24	21	cher1273_verbal	Ciscat. Sel. Max.
-136	Oklahoma Cherokee	cher1273	cher1273_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	12	22	1	0.05	11	0.46	24	24	21	cher1273_verbal	Ciscat. Sel. Min.
-137	Oklahoma Cherokee	cher1273	cher1273_v_deviations_allomorphy_maximal	indeterminate	deviations	allomorphy	maximal	NA	4	22	1	0.05	19	0.79	24	24	21	cher1273_verbal	Dev. Biunique. Max.
-138	Oklahoma Cherokee	cher1273	cher1273_v_deviations_allomorphy_minimal	indeterminate	deviations	allomorphy	minimal	NA	4	13	1	0.05	10	0.42	24	24	21	cher1273_verbal	Dev. Biunique. Min.
-139	Oklahoma Cherokee	cher1273	cher1273_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	2	23	5	0.24	22	0.92	24	24	21	cher1273_verbal	Min Free Form Max.
-140	Oklahoma Cherokee	cher1273	cher1273_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	9	22	1	0.05	14	0.58	24	24	21	cher1273_verbal	Min Free Form Min.
-141	Oklahoma Cherokee	cher1273	cher1273_v_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	2	22	3	0.14	21	0.88	24	24	21	cher1273_verbal	Non-interrupt.
-142	Oklahoma Cherokee	cher1273	cher1273_v_nonpermutability_rigid_maximal	morphosyntactic	nonpermutability	rigid	maximal	NA	2	22	3	0.14	21	0.88	24	24	21	cher1273_verbal	Nonpermutability Max.
-143	Oklahoma Cherokee	cher1273	cher1273_v_nonpermutability_rigid_minimal	morphosyntactic	nonpermutability	rigid	minimal	NA	2	17	1	0.05	16	0.67	24	24	21	cher1273_verbal	Nonpermutability Min.
-144	Oklahoma Cherokee	cher1273	cher1273_v_recursion.based_asyndetic_maximal	morphosyntactic	recursion.based	asyndetic	maximal	NA	1	24	1	0.05	24	1	24	24	21	cher1273_verbal	Rep. Subspan Max.
-145	Oklahoma Cherokee	cher1273	cher1273_v_recursion.based_asyndetic_minimal	indeterminate	recursion.based	asyndetic	minimal	NA	2	23	5	0.24	22	0.92	24	24	21	cher1273_verbal	Rep. Subspan Min.
-146	Oklahoma Cherokee	cher1273	cher1273_v_recursion.based_nominalization_maximal	morphosyntactic	recursion.based	nominalization	maximal	NA	1	21	1	0.05	21	0.88	24	24	21	cher1273_verbal	Nominaliz. Max.
-147	Oklahoma Cherokee	cher1273	cher1273_v_recursion.based_nominalization_minimal	indeterminate	recursion.based	nominalization	minimal	NA	2	20	1	0.05	19	0.79	24	24	21	cher1273_verbal	Nominaliz. Min.
-148	Oklahoma Cherokee	cher1273	cher1273_v_segmental_syllabification_syllabification	phonological	segmental	syllabification	NA	syllabification	2	23	5	0.24	22	0.92	24	24	21	cher1273_verbal	Syllabification
-149	Oklahoma Cherokee	cher1273	cher1273_v_segmental_vowel.deletion_final.apocope	phonological	segmental	vowel.deletion	NA	final.apocope	2	23	5	0.24	22	0.92	24	24	21	cher1273_verbal	Final Apocope
-150	Oklahoma Cherokee	cher1273	cher1273_v_segmental_vowel.deletion_h-metathesis.vowel.deletion,.h-metathesis+vowel.deletion	phonological	segmental	vowel.deletion	NA	h-metathesis.vowel.deletion,.h-metathesis+vowel.deletion	2	23	5	0.24	22	0.92	24	24	21	cher1273_verbal	H-Metathesis/V-Del.
-151	Oklahoma Cherokee	cher1273	cher1273_v_suprasegmental_accent_domain.of.h1.spreading	phonological	suprasegmental	accent	NA	domain.of.h1.spreading	11	21	1	0.05	11	0.46	24	24	21	cher1273_verbal	H1 Spreading
-152	Oklahoma Cherokee	cher1273	cher1273_v_suprasegmental_accent_maximal_domain.of.h3.assignment	phonological	suprasegmental	accent	maximal	domain.of.h3.assignment	5	21	1	0.05	17	0.71	24	24	21	cher1273_verbal	H3 Assign. Max.
-153	Oklahoma Cherokee	cher1273	cher1273_v_suprasegmental_accent_maximal_domain.of.superhigh.assignment	phonological	suprasegmental	accent	maximal	domain.of.superhigh.assignment	5	22	1	0.05	18	0.75	24	24	21	cher1273_verbal	Superhigh Assign. Max.
-154	Oklahoma Cherokee	cher1273	cher1273_v_suprasegmental_accent_minimal_domain.of.h3.assignment	phonological	suprasegmental	accent	minimal	domain.of.h3.assignment	7	21	1	0.05	15	0.62	24	24	21	cher1273_verbal	H3 Assign. Min.
-155	Oklahoma Cherokee	cher1273	cher1273_v_suprasegmental_accent_minimal_domain.of.superhigh.assignment	phonological	suprasegmental	accent	minimal	domain.of.superhigh.assignment	7	22	1	0.05	16	0.67	24	24	21	cher1273_verbal	Superhigh Assign. Min.
-156	San Martín Duraznos Mixtec	dura0000	dura0000_n_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	2	10	1	0.05	9	0.69	13	13	19	dura0000_nominal	NA
-157	San Martín Duraznos Mixtec	dura0000	dura0000_n_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	7	8	3	0.16	2	0.15	13	13	19	dura0000_nominal	NA
-158	San Martín Duraznos Mixtec	dura0000	dura0000_n_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	6	8	1	0.05	3	0.23	13	13	19	dura0000_nominal	NA
-159	San Martín Duraznos Mixtec	dura0000	dura0000_n_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	8	8	4	0.21	1	0.08	13	13	19	dura0000_nominal	NA
-160	San Martín Duraznos Mixtec	dura0000	dura0000_n_noninterruption_complex_different.type	morphosyntactic	noninterruption	complex	NA	different.type	1	10	1	0.05	10	0.77	13	13	19	dura0000_nominal	NA
-161	San Martín Duraznos Mixtec	dura0000	dura0000_n_noninterruption_complex_same.type	morphosyntactic	noninterruption	complex	NA	same.type	4	9	1	0.05	6	0.46	13	13	19	dura0000_nominal	NA
-162	San Martín Duraznos Mixtec	dura0000	dura0000_n_noninterruption_simplex_simplex	morphosyntactic	noninterruption	simplex	NA	simplex	7	8	3	0.16	2	0.15	13	13	19	dura0000_nominal	NA
-163	San Martín Duraznos Mixtec	dura0000	dura0000_n_nonpermutability_scopal	morphosyntactic	nonpermutability	NA	NA	scopal	1	13	3	0.16	13	1	13	13	19	dura0000_nominal	NA
-164	San Martín Duraznos Mixtec	dura0000	dura0000_n_nonpermutability_strict	morphosyntactic	nonpermutability	NA	NA	strict	1	8	1	0.05	8	0.62	13	13	19	dura0000_nominal	NA
-165	San Martín Duraznos Mixtec	dura0000	dura0000_n_recursion.based_maximal_coordination	morphosyntactic	recursion.based	NA	maximal	coordination	1	13	3	0.16	13	1	13	13	19	dura0000_nominal	NA
-166	San Martín Duraznos Mixtec	dura0000	dura0000_n_recursion.based_minimal_coordination	indeterminate	recursion.based	NA	minimal	coordination	8	8	4	0.21	1	0.08	13	13	19	dura0000_nominal	NA
-167	San Martín Duraznos Mixtec	dura0000	dura0000_n_recursion.based_possession_maximal	morphosyntactic	recursion.based	possession	maximal	NA	7	12	1	0.05	6	0.46	13	13	19	dura0000_nominal	NA
-168	San Martín Duraznos Mixtec	dura0000	dura0000_n_recursion.based_possession_minimal	indeterminate	recursion.based	possession	minimal	NA	8	8	4	0.21	1	0.08	13	13	19	dura0000_nominal	NA
-169	San Martín Duraznos Mixtec	dura0000	dura0000_n_segmental_minimality_maximal_bimoraic	phonological	segmental	minimality	maximal	bimoraic	1	13	3	0.16	13	1	13	13	19	dura0000_nominal	NA
-170	San Martín Duraznos Mixtec	dura0000	dura0000_n_segmental_minimality_minimal_bimoraic	phonological	segmental	minimality	minimal	bimoraic	8	8	4	0.21	1	0.08	13	13	19	dura0000_nominal	NA
-171	San Martín Duraznos Mixtec	dura0000	dura0000_n_segmental_minimality_monomoraic	phonological	segmental	minimality	NA	monomoraic	7	8	3	0.16	2	0.15	13	13	19	dura0000_nominal	NA
-173	San Martín Duraznos Mixtec	dura0000	dura0000_n_segmental_vowel.deletion_vowel.overwriting	phonological	segmental	vowel.deletion	NA	vowel.overwriting	8	11	2	0.11	4	0.31	13	13	19	dura0000_nominal	NA
-174	San Martín Duraznos Mixtec	dura0000	dura0000_n_suprasegmental_tone.dissimilation_low.tone.dissimilation	phonological	suprasegmental	tone.dissimilation	NA	low.tone.dissimilation	8	10	1	0.05	3	0.23	13	13	19	dura0000_nominal	NA
-175	San Martín Duraznos Mixtec	dura0000	dura0000_n_suprasegmental_tone.sandhi_tone.sandhi.dependent.pronouns	phonological	suprasegmental	tone.sandhi	NA	tone.sandhi.dependent.pronouns	8	11	2	0.11	4	0.31	13	13	19	dura0000_nominal	NA
-176	San Martín Duraznos Mixtec	dura0000	dura0000_v_ciscategorial.selection_maximal_chi-.derives.verbs	morphosyntactic	ciscategorial.selection	NA	maximal	chi-.derives.verbs	4	23	1	0.04	20	0.69	29	29	27	dura0000_verbal	Ciscat. Sel. Max. (chi- verb.)
-177	San Martín Duraznos Mixtec	dura0000	dura0000_v_ciscategorial.selection_maximal_chi-.does.not.derive.verbs	morphosyntactic	ciscategorial.selection	NA	maximal	chi-.does.not.derive.verbs	16	17	1	0.04	2	0.07	29	29	27	dura0000_verbal	Ciscat. Sel. Max. (chi- not verb.)
-178	San Martín Duraznos Mixtec	dura0000	dura0000_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	17	17	6	0.22	1	0.03	29	29	27	dura0000_verbal	Ciscat. Sel. Min.
-179	San Martín Duraznos Mixtec	dura0000	dura0000_v_deviations_cumulative.exponence_maximal_many-to-one	indeterminate	deviations	cumulative.exponence	maximal	many-to-one	12	23	1	0.04	12	0.41	29	29	27	dura0000_verbal	Dev. Biunique. MTO Max.
-180	San Martín Duraznos Mixtec	dura0000	dura0000_v_deviations_cumulative.exponence_minimal_many-to-one	indeterminate	deviations	cumulative.exponence	minimal	many-to-one	17	17	6	0.22	1	0.03	29	29	27	dura0000_verbal	Dev. Biunique. MTO Min.
-181	San Martín Duraznos Mixtec	dura0000	dura0000_v_deviations_extended.exponence_maximal_one-to-many	indeterminate	deviations	extended.exponence	maximal	one-to-many	13	17	1	0.04	5	0.17	29	29	27	dura0000_verbal	Dev. Biunique. OTM Max.
-182	San Martín Duraznos Mixtec	dura0000	dura0000_v_deviations_extended.exponence_minimal_one-to-many	indeterminate	deviations	extended.exponence	minimal	one-to-many	17	17	6	0.22	1	0.03	29	29	27	dura0000_verbal	Dev. Biunique. OTM Min.
-183	San Martín Duraznos Mixtec	dura0000	dura0000_v_free.occurrence_maximal_causative.as.bound.form	indeterminate	free.occurrence	NA	maximal	causative.as.bound.form	11	27	1	0.04	17	0.59	29	29	27	dura0000_verbal	Free Ocurr. Max. (sa- bound)
-184	San Martín Duraznos Mixtec	dura0000	dura0000_v_free.occurrence_maximal_causative.as.free.form	indeterminate	free.occurrence	NA	maximal	causative.as.free.form	14	27	1	0.04	14	0.48	29	29	27	dura0000_verbal	Free Ocurr. Max. (sa- free)
-185	San Martín Duraznos Mixtec	dura0000	dura0000_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	17	17	6	0.22	1	0.03	29	29	27	dura0000_verbal	Free Ocurr. Min.
-186	San Martín Duraznos Mixtec	dura0000	dura0000_v_noninterruption_causative.as.bound.form	morphosyntactic	noninterruption	NA	NA	causative.as.bound.form	11	20	1	0.04	10	0.34	29	29	27	dura0000_verbal	Non-interrupt. Min. (sa- free)
-187	San Martín Duraznos Mixtec	dura0000	dura0000_v_noninterruption_causative.as.free.form	morphosyntactic	noninterruption	NA	NA	causative.as.free.form	14	20	1	0.04	7	0.24	29	29	27	dura0000_verbal	Non-interrupt. Min. (sa- bound)
-188	San Martín Duraznos Mixtec	dura0000	dura0000_v_noninterruption_maximal	morphosyntactic	noninterruption	NA	maximal	NA	3	25	1	0.04	23	0.79	29	29	27	dura0000_verbal	Non-interrupt. Max.
-189	San Martín Duraznos Mixtec	dura0000	dura0000_v_nonpermutability	morphosyntactic	nonpermutability	NA	NA	NA	5	19	1	0.04	15	0.52	29	29	27	dura0000_verbal	Non-permut.
-190	San Martín Duraznos Mixtec	dura0000	dura0000_v_recursion.based_asyndetic_maximal	morphosyntactic	recursion.based	asyndetic	maximal	NA	12	26	1	0.04	15	0.52	29	29	27	dura0000_verbal	Rec. Asynd. Max.
-191	San Martín Duraznos Mixtec	dura0000	dura0000_v_recursion.based_asyndetic_minimal	indeterminate	recursion.based	asyndetic	minimal	NA	12	25	1	0.04	14	0.48	29	29	27	dura0000_verbal	Rec. Asynd. Min.
-192	San Martín Duraznos Mixtec	dura0000	dura0000_v_recursion.based_syndetic_maximal_coordination.with.ta	morphosyntactic	recursion.based	syndetic	maximal	coordination.with.ta	1	29	1	0.04	29	1	29	29	27	dura0000_verbal	Rec. Synd. Coord. Max.
-193	San Martín Duraznos Mixtec	dura0000	dura0000_v_recursion.based_syndetic_maximal_other.conjunctions	morphosyntactic	recursion.based	syndetic	maximal	other.conjunctions	2	28	1	0.04	27	0.93	29	29	27	dura0000_verbal	Rec. Synd. Conj. Max.
-194	San Martín Duraznos Mixtec	dura0000	dura0000_v_recursion.based_syndetic_maximal_ña-linkage	morphosyntactic	recursion.based	syndetic	maximal	ña-linkage	4	28	1	0.04	25	0.86	29	29	27	dura0000_verbal	Rec. Synd. Ña Max.
-195	San Martín Duraznos Mixtec	dura0000	dura0000_v_recursion.based_syndetic_minimal	indeterminate	recursion.based	syndetic	minimal	NA	17	17	6	0.22	1	0.03	29	29	27	dura0000_verbal	Rec. Synd. Min.
-196	San Martín Duraznos Mixtec	dura0000	dura0000_v_segmental_minimality_maximal_bimoraic	phonological	segmental	minimality	maximal	bimoraic	1	28	1	0.04	28	0.97	29	29	27	dura0000_verbal	Bimoraic. Bim. Max.
-197	San Martín Duraznos Mixtec	dura0000	dura0000_v_segmental_minimality_maximal_monomoraic.apart.from.verb.base	phonological	segmental	minimality	maximal	monomoraic.apart.from.verb.base	1	27	1	0.04	27	0.93	29	29	27	dura0000_verbal	Bimoraic. Mono. Max.
-198	San Martín Duraznos Mixtec	dura0000	dura0000_v_segmental_minimality_minimal_bimoraic	phonological	segmental	minimality	minimal	bimoraic	17	17	6	0.22	1	0.03	29	29	27	dura0000_verbal	Bimoraic. Bim. Min.
-199	San Martín Duraznos Mixtec	dura0000	dura0000_v_segmental_minimality_minimal_monomoraic.apart.from.verb.base	phonological	segmental	minimality	minimal	monomoraic.apart.from.verb.base	12	18	1	0.04	7	0.24	29	29	27	dura0000_verbal	Bimoraic. Mono. Min.
-201	San Martín Duraznos Mixtec	dura0000	dura0000_v_segmental_vowel.deletion_maximal_vowel.overwriting.after.glottal.stop	phonological	segmental	vowel.deletion	maximal	vowel.overwriting.after.glottal.stop	6	29	1	0.04	24	0.83	29	29	27	dura0000_verbal	Vowel Del.
-202	San Martín Duraznos Mixtec	dura0000	dura0000_v_segmental_vowel.deletion_minimal_vowel.overwriting.after.glottal.stop	phonological	segmental	vowel.deletion	minimal	vowel.overwriting.after.glottal.stop	17	26	1	0.04	10	0.34	29	29	27	dura0000_verbal	Vowel Overwrit.
-203	San Martín Duraznos Mixtec	dura0000	dura0000_v_suprasegmental_tone.sandhi_dependent.pronouns	phonological	suprasegmental	tone.sandhi	NA	dependent.pronouns	17	27	1	0.04	11	0.38	29	29	27	dura0000_verbal	Tone Sandhi
-204	Hup	hupd1244	hupd1244_n_ciscategorial.selection_maximal_hin=cis	morphosyntactic	ciscategorial.selection	NA	maximal	hin=cis	1	14	1	0.08	14	0.93	15	15	12	hupd1244_nominal	Ciscat. Sel. Max. (hin=cis)
-205	Hup	hupd1244	hupd1244_n_ciscategorial.selection_maximal_hin=trans	morphosyntactic	ciscategorial.selection	NA	maximal	hin=trans	1	13	1	0.08	13	0.87	15	15	12	hupd1244_nominal	Ciscat. Sel. Max. (hin=trans)
-206	Hup	hupd1244	hupd1244_n_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	5	6	1	0.08	2	0.13	15	15	12	hupd1244_nominal	Ciscat. Sel. Min.
-207	Hup	hupd1244	hupd1244_n_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	5	15	3	0.25	11	0.73	15	15	12	hupd1244_nominal	Free Ocurr. Max.
-208	Hup	hupd1244	hupd1244_n_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	5	5	2	0.17	1	0.07	15	15	12	hupd1244_nominal	Free Ocurr. Min.
-209	Hup	hupd1244	hupd1244_n_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	5	15	3	0.25	11	0.73	15	15	12	hupd1244_nominal	Non-interrupt.
-210	Hup	hupd1244	hupd1244_n_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	8	11	1	0.08	4	0.27	15	15	12	hupd1244_nominal	Non-permut. Rigid
-211	Hup	hupd1244	hupd1244_n_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	1	15	2	0.17	15	1	15	15	12	hupd1244_nominal	Non-permut. Scope
-212	Hup	hupd1244	hupd1244_n_recursion.based	morphosyntactic	recursion.based	NA	NA	NA	1	15	2	0.17	15	1	15	15	12	hupd1244_nominal	Subspan Rep.
-213	Hup	hupd1244	hupd1244_n_segmental_vowel.assimilation_maximal_vowel.copying	phonological	segmental	vowel.assimilation	maximal	vowel.copying	5	12	1	0.08	8	0.53	15	15	12	hupd1244_nominal	Vowel Copy Max.
-214	Hup	hupd1244	hupd1244_n_segmental_vowel.assimilation_minimal_vowel.copying	phonological	segmental	vowel.assimilation	minimal	vowel.copying	5	5	2	0.17	1	0.07	15	15	12	hupd1244_nominal	Vowel Copy Min.
-215	Hup	hupd1244	hupd1244_n_suprasegmental_accent_stress	phonological	suprasegmental	accent	NA	stress	5	15	3	0.25	11	0.73	15	15	12	hupd1244_nominal	Stress
-216	Hup	hupd1244	hupd1244_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	2	18	1	0.07	17	0.53	32	32	15	hupd1244_verbal	Ciscat. Sel. Max.
-217	Hup	hupd1244	hupd1244_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	3	10	2	0.13	8	0.25	32	32	15	hupd1244_verbal	Ciscat. Sel. Min.
-218	Hup	hupd1244	hupd1244_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	2	30	2	0.13	29	0.91	32	32	15	hupd1244_verbal	Free Ocurr. Max.
-219	Hup	hupd1244	hupd1244_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	6	20	3	0.2	15	0.47	32	32	15	hupd1244_verbal	Free Ocurr. Min.
-220	Hup	hupd1244	hupd1244_v_noninterruption_multipositional_1	morphosyntactic	noninterruption	multipositional	NA	1	2	30	2	0.13	29	0.91	32	32	15	hupd1244_verbal	Non-interrupt. Max.
-221	Hup	hupd1244	hupd1244_v_noninterruption_multipositional_2	morphosyntactic	noninterruption	multipositional	NA	2	3	10	2	0.13	8	0.25	32	32	15	hupd1244_verbal	Non-interrupt. Min.
-222	Hup	hupd1244	hupd1244_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	2	10	1	0.07	9	0.28	32	32	15	hupd1244_verbal	Non-permut. Rigid
-223	Hup	hupd1244	hupd1244_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	7	10	1	0.07	4	0.12	32	32	15	hupd1244_verbal	Non-permut. Scope
-224	Hup	hupd1244	hupd1244_v_recursion.based_base	morphosyntactic	recursion.based	NA	NA	base	6	6	1	0.07	1	0.03	32	32	15	hupd1244_verbal	Subspan Rep. Base
-225	Hup	hupd1244	hupd1244_v_recursion.based_sentence	morphosyntactic	recursion.based	NA	NA	sentence	1	32	1	0.07	32	1	32	32	15	hupd1244_verbal	Subspan Rep. Clause
-226	Hup	hupd1244	hupd1244_v_segmental_consonant.deletion_consonant.deletion	phonological	segmental	consonant.deletion	NA	consonant.deletion	6	20	3	0.2	15	0.47	32	32	15	hupd1244_verbal	Consonant Del.
-227	Hup	hupd1244	hupd1244_v_segmental_vowel.assimilation_maximal_vowel.copying	phonological	segmental	vowel.assimilation	maximal	vowel.copying	2	32	1	0.07	31	0.97	32	32	15	hupd1244_verbal	Vowel Copy Max.
-228	Hup	hupd1244	hupd1244_v_segmental_vowel.assimilation_minimal_vowel.copying	phonological	segmental	vowel.assimilation	minimal	vowel.copying	6	20	3	0.2	15	0.47	32	32	15	hupd1244_verbal	Vowel Copy Min.
-229	Hup	hupd1244	hupd1244_v_suprasegmental_accent_maximal_stress	phonological	suprasegmental	accent	maximal	stress	3	26	1	0.07	24	0.75	32	32	15	hupd1244_verbal	Stress Max.
-230	Hup	hupd1244	hupd1244_v_suprasegmental_accent_minimal_stress	phonological	suprasegmental	accent	minimal	stress	2	26	1	0.07	25	0.78	32	32	15	hupd1244_verbal	Stress Min.
-231	Chorote	iyoj1235	iyoj1235_v_ciscategorial.selection_broad_maximal	morphosyntactic	ciscategorial.selection	broad	maximal	NA	8	40	1	0.04	33	0.89	37	46	28	iyoj1235_verbal	NA
-232	Chorote	iyoj1235	iyoj1235_v_ciscategorial.selection_broad_minimal	morphosyntactic	ciscategorial.selection	broad	minimal	NA	14	22	2	0.07	9	0.24	37	46	28	iyoj1235_verbal	NA
-233	Chorote	iyoj1235	iyoj1235_v_ciscategorial.selection_narrow_maximal	morphosyntactic	ciscategorial.selection	narrow	maximal	NA	14	37	1	0.04	24	0.65	37	46	28	iyoj1235_verbal	NA
-234	Chorote	iyoj1235	iyoj1235_v_ciscategorial.selection_narrow_minimal	morphosyntactic	ciscategorial.selection	narrow	minimal	NA	14	20	1	0.04	7	0.19	37	46	28	iyoj1235_verbal	NA
-235	Chorote	iyoj1235	iyoj1235_v_deviations_allomorphy_realis.irrealis	indeterminate	deviations	allomorphy	NA	realis.irrealis	14	18	2	0.07	5	0.14	37	46	28	iyoj1235_verbal	NA
-236	Chorote	iyoj1235	iyoj1235_v_deviations_extended.exponence	indeterminate	deviations	extended.exponence	NA	NA	14	29	1	0.04	16	0.43	37	46	28	iyoj1235_verbal	NA
-237	Chorote	iyoj1235	iyoj1235_v_deviations_suppletion_inflectional.class	indeterminate	deviations	suppletion	NA	inflectional.class	16	18	1	0.04	3	0.08	37	46	28	iyoj1235_verbal	NA
-238	Chorote	iyoj1235	iyoj1235_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	4	40	2	0.07	37	1	37	46	28	iyoj1235_verbal	NA
-239	Chorote	iyoj1235	iyoj1235_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	16	16	1	0.04	1	0.03	37	46	28	iyoj1235_verbal	NA
-240	Chorote	iyoj1235	iyoj1235_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	7	41	1	0.04	35	0.95	37	46	28	iyoj1235_verbal	NA
-241	Chorote	iyoj1235	iyoj1235_v_noninterruption_multipositional	morphosyntactic	noninterruption	multipositional	NA	NA	14	22	2	0.07	9	0.24	37	46	28	iyoj1235_verbal	NA
-242	Chorote	iyoj1235	iyoj1235_v_noninterruption_simplex_rem.past.free	morphosyntactic	noninterruption	simplex	NA	rem.past.free	14	39	1	0.04	26	0.7	37	46	28	iyoj1235_verbal	NA
-243	Chorote	iyoj1235	iyoj1235_v_noninterruption_simplex_rem.past.not.free	morphosyntactic	noninterruption	simplex	NA	rem.past.not.free	14	38	1	0.04	25	0.68	37	46	28	iyoj1235_verbal	NA
-244	Chorote	iyoj1235	iyoj1235_v_nonpermutability	morphosyntactic	nonpermutability	NA	NA	NA	14	23	1	0.04	10	0.27	37	46	28	iyoj1235_verbal	NA
-245	Chorote	iyoj1235	iyoj1235_v_recursion.based_maximal	morphosyntactic	recursion.based	NA	maximal	NA	8	39	1	0.04	32	0.86	37	46	28	iyoj1235_verbal	NA
-246	Chorote	iyoj1235	iyoj1235_v_recursion.based_minimal	indeterminate	recursion.based	NA	minimal	NA	8	38	1	0.04	31	0.84	37	46	28	iyoj1235_verbal	NA
-247	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.assimilation_maximal_palatalization.coronals.only	phonological	segmental	consonant.assimilation	maximal	palatalization.coronals.only	14	46	1	0.04	33	0.89	37	46	28	iyoj1235_verbal	NA
-248	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.assimilation_maximal_palatalization.with.k(‘)y	phonological	segmental	consonant.assimilation	maximal	palatalization.with.k(‘)y	14	40	2	0.07	27	0.73	37	46	28	iyoj1235_verbal	NA
-249	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.assimilation_maximal_palatalization.without.k(‘)y	phonological	segmental	consonant.assimilation	maximal	palatalization.without.k(‘)y	14	40	2	0.07	27	0.73	37	46	28	iyoj1235_verbal	NA
-250	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.assimilation_minimal_palatalization.coronals.only	phonological	segmental	consonant.assimilation	minimal	palatalization.coronals.only	14	16	2	0.07	3	0.08	37	46	28	iyoj1235_verbal	NA
-251	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.assimilation_minimal_palatalization.with.k(‘)y	phonological	segmental	consonant.assimilation	minimal	palatalization.with.k(‘)y	14	16	2	0.07	3	0.08	37	46	28	iyoj1235_verbal	NA
-252	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.assimilation_minimal_palatalization.without.k(‘)y	phonological	segmental	consonant.assimilation	minimal	palatalization.without.k(‘)y	14	18	2	0.07	5	0.14	37	46	28	iyoj1235_verbal	NA
-253	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.insertion_maximal_insertion.of./y/	phonological	segmental	consonant.insertion	maximal	insertion.of./y/	16	44	1	0.04	29	0.78	37	46	28	iyoj1235_verbal	NA
-254	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.insertion_minimal_insertion.of./y/	phonological	segmental	consonant.insertion	minimal	insertion.of./y/	16	32	1	0.04	17	0.46	37	46	28	iyoj1235_verbal	NA
-255	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.insertion_minimal_insertion.of./y/,.fractured.according.to.analysis.“maximal”	phonological	segmental	consonant.insertion	minimal	insertion.of./y/,.fractured.according.to.analysis.“maximal”	16	34	2	0.07	19	0.51	37	46	28	iyoj1235_verbal	NA
-256	Chorote	iyoj1235	iyoj1235_v_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	4	40	2	0.07	37	1	37	46	28	iyoj1235_verbal	NA
-257	Chorote	iyoj1235	iyoj1235_v_suprasegmental_accent_minimal_construction.1	phonological	suprasegmental	accent	minimal	construction.1	15	16	1	0.04	2	0.05	37	46	28	iyoj1235_verbal	NA
-258	Chorote	iyoj1235	iyoj1235_v_suprasegmental_accent_minimal_construction.2	phonological	suprasegmental	accent	minimal	construction.2	16	34	2	0.07	19	0.51	37	46	28	iyoj1235_verbal	NA
-259	Mebengokre	kaya1330	kaya1330_v_deviations_allomorphy_finiteness	indeterminate	deviations	allomorphy	NA	finiteness	13	15	3	0.2	3	0.16	19	32	15	kaya1330_verbal	NA
-260	Mebengokre	kaya1330	kaya1330_v_deviations_suppletion	indeterminate	deviations	suppletion	NA	NA	13	15	3	0.2	3	0.16	19	32	15	kaya1330_verbal	NA
-261	Mebengokre	kaya1330	kaya1330_v_deviations_suppletion_suppletion.for.number	indeterminate	deviations	suppletion	NA	suppletion.for.number	13	15	3	0.2	3	0.16	19	32	15	kaya1330_verbal	NA
-262	Mebengokre	kaya1330	kaya1330_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	3	21	1	0.07	19	1	19	32	15	kaya1330_verbal	NA
-263	Mebengokre	kaya1330	kaya1330_v_free.occurrence_minimal_declarative	indeterminate	free.occurrence	NA	minimal	declarative	4	15	1	0.07	12	0.63	19	32	15	kaya1330_verbal	NA
-264	Mebengokre	kaya1330	kaya1330_v_free.occurrence_minimal_imperative	indeterminate	free.occurrence	NA	minimal	imperative	10	15	2	0.13	6	0.32	19	32	15	kaya1330_verbal	NA
-265	Mebengokre	kaya1330	kaya1330_v_idiom	indeterminate	idiom	NA	NA	NA	9	21	1	0.07	13	0.68	19	32	15	kaya1330_verbal	NA
-266	Mebengokre	kaya1330	kaya1330_v_nonpermutability_maximal	morphosyntactic	nonpermutability	NA	maximal	NA	12	22	1	0.07	11	0.58	19	32	15	kaya1330_verbal	NA
-267	Mebengokre	kaya1330	kaya1330_v_nonpermutability_rigid_minimal	morphosyntactic	nonpermutability	rigid	minimal	NA	12	15	3	0.2	4	0.21	19	32	15	kaya1330_verbal	NA
-268	Mebengokre	kaya1330	kaya1330_v_pausing_pause	indeterminate	pausing	pause	NA	NA	11	16	1	0.07	6	0.32	19	32	15	kaya1330_verbal	NA
-269	Mebengokre	kaya1330	kaya1330_v_recursion.based_maximal_coordination	morphosyntactic	recursion.based	NA	maximal	coordination	4	22	1	0.07	19	1	19	32	15	kaya1330_verbal	NA
-270	Mebengokre	kaya1330	kaya1330_v_recursion.based_maximal_subordination	morphosyntactic	recursion.based	NA	maximal	subordination	5	15	1	0.07	11	0.58	19	32	15	kaya1330_verbal	NA
-271	Mebengokre	kaya1330	kaya1330_v_recursion.based_minimal_coordination	indeterminate	recursion.based	NA	minimal	coordination	10	15	2	0.13	6	0.32	19	32	15	kaya1330_verbal	NA
-272	Mebengokre	kaya1330	kaya1330_v_segmental_consonant.deletion_consonant.deletion	phonological	segmental	consonant.deletion	NA	consonant.deletion	12	15	3	0.2	4	0.21	19	32	15	kaya1330_verbal	NA
-273	Mebengokre	kaya1330	kaya1330_v_segmental_vowel.deletion_vowel.deletion	phonological	segmental	vowel.deletion	NA	vowel.deletion	12	15	3	0.2	4	0.21	19	32	15	kaya1330_verbal	NA
-274	Kiowa	kiow1266	kiow1266_v_ciscategorial.selection	morphosyntactic	ciscategorial.selection	NA	NA	NA	29	33	2	0.12	5	0.13	39	39	17	kiow1266_verbal	NA
-275	Kiowa	kiow1266	kiow1266_v_deviations_suppletion	indeterminate	deviations	suppletion	NA	NA	29	34	1	0.06	6	0.15	39	39	17	kiow1266_verbal	NA
-276	Kiowa	kiow1266	kiow1266_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	25	36	2	0.12	12	0.31	39	39	17	kiow1266_verbal	NA
-277	Kiowa	kiow1266	kiow1266_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	25	30	1	0.06	6	0.15	39	39	17	kiow1266_verbal	NA
-278	Kiowa	kiow1266	kiow1266_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	23	36	1	0.06	14	0.36	39	39	17	kiow1266_verbal	NA
-279	Kiowa	kiow1266	kiow1266_v_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	29	36	2	0.12	8	0.21	39	39	17	kiow1266_verbal	NA
-280	Kiowa	kiow1266	kiow1266_v_pausing	indeterminate	pausing	NA	NA	NA	1	39	2	0.12	39	1	39	39	17	kiow1266_verbal	NA
-281	Kiowa	kiow1266	kiow1266_v_recursion.based_maximal	morphosyntactic	recursion.based	NA	maximal	NA	1	39	2	0.12	39	1	39	39	17	kiow1266_verbal	NA
-282	Kiowa	kiow1266	kiow1266_v_segmental_consonant.assimilation_maximal_cluster.devoicing	phonological	segmental	consonant.assimilation	maximal	cluster.devoicing	29	33	2	0.12	5	0.13	39	39	17	kiow1266_verbal	NA
-283	Kiowa	kiow1266	kiow1266_v_segmental_consonant.assimilation_minimal_cluster.devoicing	phonological	segmental	consonant.assimilation	minimal	cluster.devoicing	29	31	1	0.06	3	0.08	39	39	17	kiow1266_verbal	NA
-284	Kiowa	kiow1266	kiow1266_v_segmental_consonant.change_maximal_dental-velar.switch	phonological	segmental	consonant.change	maximal	dental-velar.switch	26	36	2	0.12	11	0.28	39	39	17	kiow1266_verbal	NA
-285	Kiowa	kiow1266	kiow1266_v_segmental_consonant.change_minimal_dental-velar.switch	phonological	segmental	consonant.change	minimal	dental-velar.switch	30	33	1	0.06	4	0.1	39	39	17	kiow1266_verbal	NA
-286	Kiowa	kiow1266	kiow1266_v_segmental_syllabification_maximal_syllabification.sensitive.processes	phonological	segmental	syllabification	maximal	syllabification.sensitive.processes	26	36	2	0.12	11	0.28	39	39	17	kiow1266_verbal	NA
-287	Kiowa	kiow1266	kiow1266_v_segmental_syllabification_minimal_syllabification.sensitive.processes	phonological	segmental	syllabification	minimal	syllabification.sensitive.processes	29	36	2	0.12	8	0.21	39	39	17	kiow1266_verbal	NA
-288	Kiowa	kiow1266	kiow1266_v_segmental_vowel.deletion_vowel.deletion	phonological	segmental	vowel.deletion	NA	vowel.deletion	29	30	1	0.06	2	0.05	39	39	17	kiow1266_verbal	NA
-289	Kiowa	kiow1266	kiow1266_v_suprasegmental_tone.spreading_maximal_tone.lowering	phonological	suprasegmental	tone.spreading	maximal	tone.lowering	25	36	2	0.12	12	0.31	39	39	17	kiow1266_verbal	NA
-290	Kiowa	kiow1266	kiow1266_v_suprasegmental_tone.spreading_minimal_tone.lowering	phonological	suprasegmental	tone.spreading	minimal	tone.lowering	25	33	1	0.06	9	0.23	39	39	17	kiow1266_verbal	NA
-291	Martinican	mart1259	mart1259_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	2	26	1	0.08	25	1	25	27	12	mart1259_verbal	NA
-292	Martinican	mart1259	mart1259_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	17	18	1	0.08	2	0.08	25	27	12	mart1259_verbal	NA
-293	Martinican	mart1259	mart1259_v_deviations_suppletion_patient.pronouns	indeterminate	deviations	suppletion	NA	patient.pronouns	18	20	1	0.08	3	0.12	25	27	12	mart1259_verbal	NA
-294	Martinican	mart1259	mart1259_v_deviations_suppletion_recipient.pronouns	indeterminate	deviations	suppletion	NA	recipient.pronouns	18	19	1	0.08	2	0.08	25	27	12	mart1259_verbal	NA
-295	Martinican	mart1259	mart1259_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	17	20	4	0.33	4	0.16	25	27	12	mart1259_verbal	NA
-296	Martinican	mart1259	mart1259_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	18	18	1	0.08	1	0.04	25	27	12	mart1259_verbal	NA
-297	Martinican	mart1259	mart1259_v_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	17	20	4	0.33	4	0.16	25	27	12	mart1259_verbal	NA
-298	Martinican	mart1259	mart1259_v_nonpermutability_declarative.and.interrogative	morphosyntactic	nonpermutability	NA	NA	declarative.and.interrogative	4	25	1	0.08	22	0.88	25	27	12	mart1259_verbal	NA
-299	Martinican	mart1259	mart1259_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	17	20	4	0.33	4	0.16	25	27	12	mart1259_verbal	NA
-300	Martinican	mart1259	mart1259_v_nonpermutability_rigid_interrogative	morphosyntactic	nonpermutability	rigid	NA	interrogative	3	25	1	0.08	23	0.92	25	27	12	mart1259_verbal	NA
-301	Martinican	mart1259	mart1259_v_recursion.based_complement.clause	morphosyntactic	recursion.based	NA	NA	complement.clause	4	27	1	0.08	24	0.96	25	27	12	mart1259_verbal	NA
-302	Martinican	mart1259	mart1259_v_suprasegmental_accent	phonological	suprasegmental	accent	NA	NA	17	20	4	0.33	4	0.16	25	27	12	mart1259_verbal	NA
-303	Mocoví	moco1246	moco1246_v_ciscategorial.selection	morphosyntactic	ciscategorial.selection	NA	NA	NA	7	11	3	0.14	5	0.31	16	20	22	moco1246_verbal	Ciscat. Sel.
-304	Mocoví	moco1246	moco1246_v_deviations_allomorphy_person.marking	indeterminate	deviations	allomorphy	NA	person.marking	6	7	5	0.23	2	0.12	16	20	22	moco1246_verbal	Dev. Biunique. Pers.
-305	Mocoví	moco1246	moco1246_v_deviations_allomorphy_progressive.marking	indeterminate	deviations	allomorphy	NA	progressive.marking	6	18	1	0.05	13	0.81	16	20	22	moco1246_verbal	Dev. Biunique. Prog.
-306	Mocoví	moco1246	moco1246_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	4	18	4	0.18	15	0.94	16	20	22	moco1246_verbal	Free Ocurr. Max.
-307	Mocoví	moco1246	moco1246_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	6	7	5	0.23	2	0.12	16	20	22	moco1246_verbal	Free Ocurr. Min.
-308	Mocoví	moco1246	moco1246_v_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	4	18	4	0.18	15	0.94	16	20	22	moco1246_verbal	Non-interrupt.
-309	Mocoví	moco1246	moco1246_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	4	18	4	0.18	15	0.94	16	20	22	moco1246_verbal	Non-permut. Rigid
-310	Mocoví	moco1246	moco1246_v_nonpermutability_rigid_verb.conditioned.variability	morphosyntactic	nonpermutability	rigid	NA	verb.conditioned.variability	4	15	1	0.05	12	0.75	16	20	22	moco1246_verbal	Non-permut. Rigid
-311	Mocoví	moco1246	moco1246_v_recursion.based_asyndetic_maximal_first.second.person.p	morphosyntactic	recursion.based	asyndetic	maximal	first.second.person.p	3	18	1	0.05	16	1	16	20	22	moco1246_verbal	Clause Comb. Asynd. Max. 1/2P
-312	Mocoví	moco1246	moco1246_v_recursion.based_asyndetic_maximal_third.person.p	morphosyntactic	recursion.based	asyndetic	maximal	third.person.p	6	19	2	0.09	14	0.88	16	20	22	moco1246_verbal	Clause Comb. Asynd. Max. 3P
-313	Mocoví	moco1246	moco1246_v_recursion.based_asyndetic_minimal	indeterminate	recursion.based	asyndetic	minimal	NA	6	7	5	0.23	2	0.12	16	20	22	moco1246_verbal	Clause Comb. Asynd. Min.
-314	Mocoví	moco1246	moco1246_v_recursion.based_syndetic_maximal_kan.and.then	morphosyntactic	recursion.based	syndetic	maximal	kan.and.then	6	19	2	0.09	14	0.88	16	20	22	moco1246_verbal	Clause Comb. Synd. Max.
-315	Mocoví	moco1246	moco1246_v_recursion.based_syndetic_minimal_nakoʔ.linker	indeterminate	recursion.based	syndetic	minimal	nakoʔ.linker	6	14	1	0.05	9	0.56	16	20	22	moco1246_verbal	Clause Comb. Synd. Min.
-316	Mocoví	moco1246	moco1246_v_segmental_consonant.assimilation_maximal_palatalization	phonological	segmental	consonant.assimilation	maximal	palatalization	6	15	2	0.09	10	0.62	16	20	22	moco1246_verbal	Palatal. Max.
-317	Mocoví	moco1246	moco1246_v_segmental_consonant.assimilation_minimal_palatalization	phonological	segmental	consonant.assimilation	minimal	palatalization	7	11	3	0.14	5	0.31	16	20	22	moco1246_verbal	Palatal. Min.
-318	Mocoví	moco1246	moco1246_v_segmental_consonant.assimilation_regressive	phonological	segmental	consonant.assimilation	NA	regressive	6	11	1	0.05	6	0.38	16	20	22	moco1246_verbal	Harmony Type1
-319	Mocoví	moco1246	moco1246_v_segmental_consonant.assimilation_second.person	phonological	segmental	consonant.assimilation	NA	second.person	7	11	3	0.14	5	0.31	16	20	22	moco1246_verbal	Harmony Affix
-320	Mocoví	moco1246	moco1246_v_segmental_consonant.assimilation_verb.conditioned.variability	phonological	segmental	consonant.assimilation	NA	verb.conditioned.variability	4	7	1	0.05	4	0.25	16	20	22	moco1246_verbal	Harmony Verb
-321	Mocoví	moco1246	moco1246_v_segmental_vowel.assimilation_maximal_vocalic.epenthesis	phonological	segmental	vowel.assimilation	maximal	vocalic.epenthesis	6	15	2	0.09	10	0.62	16	20	22	moco1246_verbal	V-Epenthesis Max.
-322	Mocoví	moco1246	moco1246_v_segmental_vowel.insertion_minimal_vocalic.epenthesis	phonological	segmental	vowel.insertion	minimal	vocalic.epenthesis	6	7	5	0.23	2	0.12	16	20	22	moco1246_verbal	V-Epenthesis Min.
-323	Mocoví	moco1246	moco1246_v_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	4	18	4	0.18	15	0.94	16	20	22	moco1246_verbal	Stress Max.
-324	Mocoví	moco1246	moco1246_v_suprasegmental_accent_minimal	phonological	suprasegmental	accent	minimal	NA	6	7	5	0.23	2	0.12	16	20	22	moco1246_verbal	Stress Min.
-325	Blackfoot	siks1238	siks1238_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	4	13	3	0.09	10	0.77	13	14	32	siks1238_verbal	NA
-326	Blackfoot	siks1238	siks1238_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	5	9	1	0.03	5	0.38	13	14	32	siks1238_verbal	NA
-327	Blackfoot	siks1238	siks1238_v_deviations_allomorphy_k-assibilation	indeterminate	deviations	allomorphy	NA	k-assibilation	3	8	1	0.03	6	0.46	13	14	32	siks1238_verbal	NA
-328	Blackfoot	siks1238	siks1238_v_deviations_allomorphy_maximal_inseperable.root.nasal.deletion.vowel.coalescence	indeterminate	deviations	allomorphy	maximal	inseperable.root.nasal.deletion.vowel.coalescence	6	11	1	0.03	6	0.46	13	14	32	siks1238_verbal	NA
-329	Blackfoot	siks1238	siks1238_v_deviations_allomorphy_minimal_seperable.root.nasal.deletion.vowel.coalescence	indeterminate	deviations	allomorphy	minimal	seperable.root.nasal.deletion.vowel.coalescence	4	11	3	0.09	8	0.62	13	14	32	siks1238_verbal	NA
-330	Blackfoot	siks1238	siks1238_v_free.occurrence_maximal_conjunct	indeterminate	free.occurrence	NA	maximal	conjunct	4	13	3	0.09	10	0.77	13	14	32	siks1238_verbal	NA
-331	Blackfoot	siks1238	siks1238_v_free.occurrence_maximal_independent	indeterminate	free.occurrence	NA	maximal	independent	3	13	4	0.12	11	0.85	13	14	32	siks1238_verbal	NA
-332	Blackfoot	siks1238	siks1238_v_free.occurrence_minimal_conjunct	indeterminate	free.occurrence	NA	minimal	conjunct	4	11	3	0.09	8	0.62	13	14	32	siks1238_verbal	NA
-333	Blackfoot	siks1238	siks1238_v_free.occurrence_minimal_independent	indeterminate	free.occurrence	NA	minimal	independent	3	9	2	0.06	7	0.54	13	14	32	siks1238_verbal	NA
-334	Blackfoot	siks1238	siks1238_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	3	11	3	0.09	9	0.69	13	14	32	siks1238_verbal	NA
-335	Blackfoot	siks1238	siks1238_v_noninterruption_multipositional_noun.stem	morphosyntactic	noninterruption	multipositional	NA	noun.stem	5	11	1	0.03	7	0.54	13	14	32	siks1238_verbal	NA
-336	Blackfoot	siks1238	siks1238_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	3	14	1	0.03	12	0.92	13	14	32	siks1238_verbal	NA
-337	Blackfoot	siks1238	siks1238_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	5	14	1	0.03	10	0.77	13	14	32	siks1238_verbal	NA
-338	Blackfoot	siks1238	siks1238_v_recursion.based_asyndetic_maximal_coordination.conjunct	morphosyntactic	recursion.based	asyndetic	maximal	coordination.conjunct	4	13	3	0.09	10	0.77	13	14	32	siks1238_verbal	NA
-339	Blackfoot	siks1238	siks1238_v_recursion.based_asyndetic_maximal_coordination.independent	morphosyntactic	recursion.based	asyndetic	maximal	coordination.independent	3	13	4	0.12	11	0.85	13	14	32	siks1238_verbal	NA
-340	Blackfoot	siks1238	siks1238_v_recursion.based_asyndetic_minimal_coordination.conjunct	indeterminate	recursion.based	asyndetic	minimal	coordination.conjunct	4	11	3	0.09	8	0.62	13	14	32	siks1238_verbal	NA
-341	Blackfoot	siks1238	siks1238_v_recursion.based_asyndetic_minimal_coordination.independent	indeterminate	recursion.based	asyndetic	minimal	coordination.independent	3	9	2	0.06	7	0.54	13	14	32	siks1238_verbal	NA
-342	Blackfoot	siks1238	siks1238_v_recursion.based_inseperable.roots	morphosyntactic	recursion.based	NA	NA	inseperable.roots	6	7	3	0.09	2	0.15	13	14	32	siks1238_verbal	NA
-343	Blackfoot	siks1238	siks1238_v_recursion.based_inseperable.roots.complex.preverbs	morphosyntactic	recursion.based	NA	NA	inseperable.roots.complex.preverbs	6	6	1	0.03	1	0.08	13	14	32	siks1238_verbal	NA
-344	Blackfoot	siks1238	siks1238_v_recursion.based_secondary.derivation	morphosyntactic	recursion.based	NA	NA	secondary.derivation	6	7	3	0.09	2	0.15	13	14	32	siks1238_verbal	NA
-345	Blackfoot	siks1238	siks1238_v_recursion.based_seperable.roots	morphosyntactic	recursion.based	NA	NA	seperable.roots	4	7	1	0.03	4	0.31	13	14	32	siks1238_verbal	NA
-346	Blackfoot	siks1238	siks1238_v_recursion.based_seperable.roots.complex.preverbs	morphosyntactic	recursion.based	NA	NA	seperable.roots.complex.preverbs	4	6	1	0.03	3	0.23	13	14	32	siks1238_verbal	NA
-347	Blackfoot	siks1238	siks1238_v_segmental_consonant.insertion_maximal_glottal.insertion.vowel.coalescence.construction.1	phonological	segmental	consonant.insertion	maximal	glottal.insertion.vowel.coalescence.construction.1	1	13	2	0.06	13	1	13	14	32	siks1238_verbal	NA
-348	Blackfoot	siks1238	siks1238_v_segmental_consonant.insertion_maximal_glottal.insertion.vowel.coalescence.construction.2	phonological	segmental	consonant.insertion	maximal	glottal.insertion.vowel.coalescence.construction.2	3	13	4	0.12	11	0.85	13	14	32	siks1238_verbal	NA
-349	Blackfoot	siks1238	siks1238_v_segmental_consonant.insertion_minimal_glottal.insertion.vowel.coalescence.construction.1	phonological	segmental	consonant.insertion	minimal	glottal.insertion.vowel.coalescence.construction.1	1	11	2	0.06	11	0.85	13	14	32	siks1238_verbal	NA
-350	Blackfoot	siks1238	siks1238_v_segmental_consonant.insertion_minimal_glottal.insertion.vowel.coalescence.construction.2	phonological	segmental	consonant.insertion	minimal	glottal.insertion.vowel.coalescence.construction.2	3	11	3	0.09	9	0.69	13	14	32	siks1238_verbal	NA
-351	Blackfoot	siks1238	siks1238_v_segmental_minimality_maximal_size	phonological	segmental	minimality	maximal	size	6	9	1	0.03	4	0.31	13	14	32	siks1238_verbal	NA
-352	Blackfoot	siks1238	siks1238_v_segmental_minimality_minimal_size	phonological	segmental	minimality	minimal	size	6	7	3	0.09	2	0.15	13	14	32	siks1238_verbal	NA
-353	Blackfoot	siks1238	siks1238_v_suprasegmental_accent_maximal_construction.1	phonological	suprasegmental	accent	maximal	construction.1	1	11	2	0.06	11	0.85	13	14	32	siks1238_verbal	NA
-354	Blackfoot	siks1238	siks1238_v_suprasegmental_accent_maximal_construction.2	phonological	suprasegmental	accent	maximal	construction.2	1	13	2	0.06	13	1	13	14	32	siks1238_verbal	NA
-355	Blackfoot	siks1238	siks1238_v_suprasegmental_accent_minimal_construction.1	phonological	suprasegmental	accent	minimal	construction.1	3	11	3	0.09	9	0.69	13	14	32	siks1238_verbal	NA
-356	Blackfoot	siks1238	siks1238_v_suprasegmental_accent_minimal_construction.2	phonological	suprasegmental	accent	minimal	construction.2	3	13	4	0.12	11	0.85	13	14	32	siks1238_verbal	NA
-357	South Bolivian Quechua	sout2991	sout2991_v_ciscategorial.selection_broad_maximal	morphosyntactic	ciscategorial.selection	broad	maximal	NA	2	41	1	0.05	40	0.95	42	42	20	sout2991_verbal	Ciscat. Sel. Max.
-358	South Bolivian Quechua	sout2991	sout2991_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	12	25	1	0.05	14	0.33	42	42	20	sout2991_verbal	Ciscat. Sel. Min.
-359	South Bolivian Quechua	sout2991	sout2991_v_ciscategorial.selection_narrow_maximal	morphosyntactic	ciscategorial.selection	narrow	maximal	NA	12	26	2	0.1	15	0.36	42	42	20	sout2991_verbal	Ciscat. Sel. Max.
-360	South Bolivian Quechua	sout2991	sout2991_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	12	40	1	0.05	29	0.69	42	42	20	sout2991_verbal	Min Free Form Max.
-361	South Bolivian Quechua	sout2991	sout2991_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	12	26	2	0.1	15	0.36	42	42	20	sout2991_verbal	Min Free Form Min.
-362	South Bolivian Quechua	sout2991	sout2991_v_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	12	41	2	0.1	30	0.71	42	42	20	sout2991_verbal	Non-interrupt.
-363	South Bolivian Quechua	sout2991	sout2991_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	12	21	2	0.1	10	0.24	42	42	20	sout2991_verbal	Non-interrupt.
-364	South Bolivian Quechua	sout2991	sout2991_v_noninterruption_limitative.lla	morphosyntactic	noninterruption	NA	NA	limitative.lla	12	21	2	0.1	10	0.24	42	42	20	sout2991_verbal	lla Non-interruptability
-365	South Bolivian Quechua	sout2991	sout2991_v_nonpermutability_maximal_chi.(13).and.chi.(18).=.one.morpheme	morphosyntactic	nonpermutability	NA	maximal	chi.(13).and.chi.(18).=.one.morpheme	12	15	1	0.05	4	0.1	42	42	20	sout2991_verbal	Non-permut.
-366	South Bolivian Quechua	sout2991	sout2991_v_nonpermutability_minimal_chi.(13).and.chi.(18).not.one.morpheme	morphosyntactic	nonpermutability	NA	minimal	chi.(13).and.chi.(18).not.one.morpheme	12	12	1	0.05	1	0.02	42	42	20	sout2991_verbal	Non-permut.
-367	South Bolivian Quechua	sout2991	sout2991_v_recursion.based_asyndetic_maximal_clause.juxtaposition	morphosyntactic	recursion.based	asyndetic	maximal	clause.juxtaposition	1	42	1	0.05	42	1	42	42	20	sout2991_verbal	Subspan Repetition
-368	South Bolivian Quechua	sout2991	sout2991_v_recursion.based_asyndetic_minimal_clausal.juxtaposition.–.lax	morphosyntactic	recursion.based	asyndetic	minimal	clausal.juxtaposition.–.lax	12	18	2	0.1	7	0.17	42	42	20	sout2991_verbal	Subspan Repetition
-369	South Bolivian Quechua	sout2991	sout2991_v_recursion.based_asyndetic_minimal_clause.juxtaposition.–.strict	morphosyntactic	recursion.based	asyndetic	minimal	clause.juxtaposition.–.strict	12	18	2	0.1	7	0.17	42	42	20	sout2991_verbal	Subspan Repetition
-370	South Bolivian Quechua	sout2991	sout2991_v_recursion.based_nominalization_maximal_clausal.nominalization	morphosyntactic	recursion.based	nominalization	maximal	clausal.nominalization	1	22	1	0.05	22	0.52	42	42	20	sout2991_verbal	Subspan Repetition
-371	South Bolivian Quechua	sout2991	sout2991_v_recursion.based_nominalization_minimal_clausal.nominalization	morphosyntactic	recursion.based	nominalization	minimal	clausal.nominalization	12	22	1	0.05	11	0.26	42	42	20	sout2991_verbal	Subspan Repetition
-372	South Bolivian Quechua	sout2991	sout2991_v_segmental_maximal	phonological	segmental	NA	maximal	NA	12	38	1	0.05	27	0.64	42	42	20	sout2991_verbal	Vowel lowering
-373	South Bolivian Quechua	sout2991	sout2991_v_segmental_minimal	phonological	segmental	NA	minimal	NA	12	13	1	0.05	2	0.05	42	42	20	sout2991_verbal	Vowel lowering
-374	South Bolivian Quechua	sout2991	sout2991_v_segmental_vowel-consonant.deletion_suffix.deletion	phonological	segmental	vowel-consonant.deletion	NA	suffix.deletion	1	29	1	0.05	29	0.69	42	42	20	sout2991_verbal	Final Syllable/suffix deletion
-375	South Bolivian Quechua	sout2991	sout2991_v_suprasegmental_accent_maximal_stress	phonological	suprasegmental	accent	maximal	stress	12	41	2	0.1	30	0.71	42	42	20	sout2991_verbal	Pitch Accent Max.
-376	South Bolivian Quechua	sout2991	sout2991_v_suprasegmental_accent_minimal_stress	phonological	suprasegmental	accent	minimal	stress	12	29	1	0.05	18	0.43	42	42	20	sout2991_verbal	Pitch Accent Min.
-377	Teotitlán del Valle Zapotec	teot1238	teot1238_n_ciscategorial.selection	morphosyntactic	ciscategorial.selection	NA	NA	NA	7	8	1	0.06	2	0.1	20	20	18	teot1238_nominal	Ciscat. Sel.
-378	Teotitlán del Valle Zapotec	teot1238	teot1238_n_deviations_suppletion	indeterminate	deviations	suppletion	NA	NA	8	8	2	0.11	1	0.05	20	20	18	teot1238_nominal	Dev. Biunique.
-379	Teotitlán del Valle Zapotec	teot1238	teot1238_n_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	6	9	1	0.06	4	0.2	20	20	18	teot1238_nominal	Min Free Form Max.
-380	Teotitlán del Valle Zapotec	teot1238	teot1238_n_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	8	8	2	0.11	1	0.05	20	20	18	teot1238_nominal	Min Free Form Min.
-381	Teotitlán del Valle Zapotec	teot1238	teot1238_n_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	1	9	1	0.06	9	0.45	20	20	18	teot1238_nominal	Non-interrupt. Compl.
-382	Teotitlán del Valle Zapotec	teot1238	teot1238_n_noninterruption_simplex_permutable	morphosyntactic	noninterruption	simplex	NA	permutable	6	12	1	0.06	7	0.35	20	20	18	teot1238_nominal	Non-interrupt. Simpl. Perm.
-383	Teotitlán del Valle Zapotec	teot1238	teot1238_n_nonpermutability	morphosyntactic	nonpermutability	NA	NA	NA	6	20	1	0.06	15	0.75	20	20	18	teot1238_nominal	Non-permut.
-384	Teotitlán del Valle Zapotec	teot1238	teot1238_n_segmental_consonant.dissimilation_maximal_glottal.dissimilation	phonological	segmental	consonant.dissimilation	maximal	glottal.dissimilation	3	15	1	0.06	13	0.65	20	20	18	teot1238_nominal	Glottal Diss. Max.
-385	Teotitlán del Valle Zapotec	teot1238	teot1238_n_segmental_consonant.dissimilation_minimal_glottal.dissimilation	phonological	segmental	consonant.dissimilation	minimal	glottal.dissimilation	8	9	3	0.17	2	0.1	20	20	18	teot1238_nominal	Glottal Diss. Min.
-386	Teotitlán del Valle Zapotec	teot1238	teot1238_n_segmental_syllabification_maximal_syllabification	phonological	segmental	syllabification	maximal	syllabification	1	20	3	0.17	20	1	20	20	18	teot1238_nominal	Syllab. Max.
-387	Teotitlán del Valle Zapotec	teot1238	teot1238_n_segmental_syllabification_minimal_syllabification	phonological	segmental	syllabification	minimal	syllabification	6	8	1	0.06	3	0.15	20	20	18	teot1238_nominal	Syllab. Min.
-388	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	8	11	2	0.11	4	0.2	20	20	18	teot1238_nominal	Accent Max.
-389	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_accent_minimal	phonological	suprasegmental	accent	minimal	NA	8	9	3	0.17	2	0.1	20	20	18	teot1238_nominal	Accent Min.
-390	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_tone.sandhi_maximal_tone.sandhi	phonological	suprasegmental	tone.sandhi	maximal	tone.sandhi	1	20	3	0.17	20	1	20	20	18	teot1238_nominal	Tone Sandhi Max.
-391	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_tone.sandhi_minimal_tone.sandhi	phonological	suprasegmental	tone.sandhi	minimal	tone.sandhi	8	11	2	0.11	4	0.2	20	20	18	teot1238_nominal	Tone Sandhi Min.
-392	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_tone.spreading_maximal_mid.tone.spreading	phonological	suprasegmental	tone.spreading	maximal	mid.tone.spreading	1	20	3	0.17	20	1	20	20	18	teot1238_nominal	Mid Tone Spread. Max.
-393	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_tone.spreading_minimal_mid.tone.spreading	phonological	suprasegmental	tone.spreading	minimal	mid.tone.spreading	8	9	3	0.17	2	0.1	20	20	18	teot1238_nominal	Mid Tone Spread. Min.
-394	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_tone.spreading_rising.tone.levelling	phonological	suprasegmental	tone.spreading	NA	rising.tone.levelling	8	20	1	0.06	13	0.65	20	20	18	teot1238_nominal	Rising Tone Level.
-395	Teotitlán del Valle Zapotec	teot1238	teot1238_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	4	14	1	0.05	11	0.39	28	28	21	teot1238_verbal	Ciscat. Sel. Max.
-396	Teotitlán del Valle Zapotec	teot1238	teot1238_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	10	12	4	0.19	3	0.11	28	28	21	teot1238_verbal	Ciscat. Sel. Min.
-397	Teotitlán del Valle Zapotec	teot1238	teot1238_v_deviations_allomorphy	indeterminate	deviations	allomorphy	NA	NA	10	13	1	0.05	4	0.14	28	28	21	teot1238_verbal	Dev. Biunique.
-398	Teotitlán del Valle Zapotec	teot1238	teot1238_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	4	22	2	0.1	19	0.68	28	28	21	teot1238_verbal	Min Free Form Max.
-399	Teotitlán del Valle Zapotec	teot1238	teot1238_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	10	12	4	0.19	3	0.11	28	28	21	teot1238_verbal	Min Free Form Min.
-400	Teotitlán del Valle Zapotec	teot1238	teot1238_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	10	15	3	0.14	6	0.21	28	28	21	teot1238_verbal	Non-interrupt. Simpl.
-401	Teotitlán del Valle Zapotec	teot1238	teot1238_v_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	4	22	2	0.1	19	0.68	28	28	21	teot1238_verbal	Non-interrupt. Compl.
-402	Teotitlán del Valle Zapotec	teot1238	teot1238_v_nonpermutability	morphosyntactic	nonpermutability	NA	NA	NA	10	15	3	0.14	6	0.21	28	28	21	teot1238_verbal	Non-permut.
-403	Teotitlán del Valle Zapotec	teot1238	teot1238_v_recursion.based_maximal_serial.verb	morphosyntactic	recursion.based	NA	maximal	serial.verb	10	23	1	0.05	14	0.5	28	28	21	teot1238_verbal	Serial Verb Max.
-404	Teotitlán del Valle Zapotec	teot1238	teot1238_v_recursion.based_minimal_serial.verb	indeterminate	recursion.based	NA	minimal	serial.verb	10	12	4	0.19	3	0.11	28	28	21	teot1238_verbal	Serial Verb Min.
-405	Teotitlán del Valle Zapotec	teot1238	teot1238_v_segmental_consonant.dissimilation_glottal.dissimilation	phonological	segmental	consonant.dissimilation	NA	glottal.dissimilation	3	15	2	0.1	13	0.46	28	28	21	teot1238_verbal	Glottal Diss.
-406	Teotitlán del Valle Zapotec	teot1238	teot1238_v_segmental_consonant.insertion_final.glottalization	phonological	segmental	consonant.insertion	NA	final.glottalization	1	28	4	0.19	28	1	28	28	21	teot1238_verbal	Final Glottal.
-407	Teotitlán del Valle Zapotec	teot1238	teot1238_v_segmental_syllabification_maximal_syllabification	phonological	segmental	syllabification	maximal	syllabification	1	28	4	0.19	28	1	28	28	21	teot1238_verbal	Syllab. Max.
-408	Teotitlán del Valle Zapotec	teot1238	teot1238_v_segmental_syllabification_minimal_syllabification	phonological	segmental	syllabification	minimal	syllabification	10	12	4	0.19	3	0.11	28	28	21	teot1238_verbal	Syllab. Min.
-409	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	3	15	2	0.1	13	0.46	28	28	21	teot1238_verbal	Accent Max.
-410	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_accent_minimal	phonological	suprasegmental	accent	minimal	NA	10	15	3	0.14	6	0.21	28	28	21	teot1238_verbal	Accent Min.
-411	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_tone.sandhi_maximal_tone.sandhi	phonological	suprasegmental	tone.sandhi	maximal	tone.sandhi	1	28	4	0.19	28	1	28	28	21	teot1238_verbal	Tone Sandhi Max.
-412	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_tone.sandhi_minimal_tone.sandhi	phonological	suprasegmental	tone.sandhi	minimal	tone.sandhi	11	19	1	0.05	9	0.32	28	28	21	teot1238_verbal	Tone Sandhi Min.
-413	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_tone.spreading_maximal_mid.tone.spreading	phonological	suprasegmental	tone.spreading	maximal	mid.tone.spreading	1	28	4	0.19	28	1	28	28	21	teot1238_verbal	Mid Tone Spread. Max.
-414	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_tone.spreading_minimal_mid.tone.spreading	phonological	suprasegmental	tone.spreading	minimal	mid.tone.spreading	11	14	1	0.05	4	0.14	28	28	21	teot1238_verbal	Mid Tone Spread. Min.
-415	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_tone.spreading_rising.tone.levelling	phonological	suprasegmental	tone.spreading	NA	rising.tone.levelling	10	24	1	0.05	15	0.54	28	28	21	teot1238_verbal	Rising Tone Level.
-416	Yukuna	yucu1253	yucu1253_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	10	19	3	0.12	10	0.48	21	21	24	yucu1253_verbal	Ciscat. Sel. Max.
-417	Yukuna	yucu1253	yucu1253_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	10	16	4	0.17	7	0.33	21	21	24	yucu1253_verbal	Ciscat. Sel. Min.
-418	Yukuna	yucu1253	yucu1253_v_deviations_allomorphy_past.tense	indeterminate	deviations	allomorphy	NA	past.tense	10	13	2	0.08	4	0.19	21	21	24	yucu1253_verbal	Allomorph. PST
-419	Yukuna	yucu1253	yucu1253_v_deviations_allomorphy_valency	indeterminate	deviations	allomorphy	NA	valency	10	13	2	0.08	4	0.19	21	21	24	yucu1253_verbal	Allomorph. Val.
-420	Yukuna	yucu1253	yucu1253_v_deviations_extended.exponence_maximal_negation	indeterminate	deviations	extended.exponence	maximal	negation	4	12	1	0.04	9	0.43	21	21	24	yucu1253_verbal	Extend. Exp. Max.
-421	Yukuna	yucu1253	yucu1253_v_deviations_extended.exponence_middle	indeterminate	deviations	extended.exponence	NA	middle	10	17	1	0.04	8	0.38	21	21	24	yucu1253_verbal	Extend. Exp. Middle
-422	Yukuna	yucu1253	yucu1253_v_deviations_extended.exponence_minimal_negation	indeterminate	deviations	extended.exponence	minimal	negation	6	12	1	0.04	7	0.33	21	21	24	yucu1253_verbal	Extend. Exp. Min.
-423	Yukuna	yucu1253	yucu1253_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	8	10	1	0.04	3	0.14	21	21	24	yucu1253_verbal	Free Ocurr. Max.
-424	Yukuna	yucu1253	yucu1253_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	9	10	3	0.12	2	0.1	21	21	24	yucu1253_verbal	Free Ocurr. Min.
-425	Yukuna	yucu1253	yucu1253_v_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	9	20	1	0.04	12	0.57	21	21	24	yucu1253_verbal	Non-interrupt.
-426	Yukuna	yucu1253	yucu1253_v_nonpermutability	morphosyntactic	nonpermutability	NA	NA	NA	10	19	3	0.12	10	0.48	21	21	24	yucu1253_verbal	Non-permut.
-427	Yukuna	yucu1253	yucu1253_v_recursion.based_complementation_maximal	morphosyntactic	recursion.based	complementation	maximal	NA	8	21	2	0.08	14	0.67	21	21	24	yucu1253_verbal	Subspan Rep. Compl.
-428	Yukuna	yucu1253	yucu1253_v_recursion.based_maximal_adverbial.clause	morphosyntactic	recursion.based	NA	maximal	adverbial.clause	8	21	2	0.08	14	0.67	21	21	24	yucu1253_verbal	Subspan Rep. Adv.
-429	Yukuna	yucu1253	yucu1253_v_recursion.based_same.subject_maximal	morphosyntactic	recursion.based	same.subject	maximal	NA	10	21	1	0.04	12	0.57	21	21	24	yucu1253_verbal	Subspan Rep. SS
-430	Yukuna	yucu1253	yucu1253_v_segmental_vowel.assimilation_maximal_vowel.coalescence.ai>e	phonological	segmental	vowel.assimilation	maximal	vowel.coalescence.ai>e	9	17	1	0.04	9	0.43	21	21	24	yucu1253_verbal	V-Coalesc. Max.
-431	Yukuna	yucu1253	yucu1253_v_segmental_vowel.assimilation_vowel.assimilation	phonological	segmental	vowel.assimilation	NA	vowel.assimilation	9	10	3	0.12	2	0.1	21	21	24	yucu1253_verbal	V-Assim.
-432	Yukuna	yucu1253	yucu1253_v_segmental_vowel.coalescence_minimal_vowel.coalescence.ua>o	phonological	segmental	vowel.coalescence	minimal	vowel.coalescence.ua>o	9	10	3	0.12	2	0.1	21	21	24	yucu1253_verbal	V-Coalesc. Min.
-433	Yukuna	yucu1253	yucu1253_v_segmental_vowel.deletion_vowel.elision	phonological	segmental	vowel.deletion	NA	vowel.elision	10	16	4	0.17	7	0.33	21	21	24	yucu1253_verbal	V-Elision
-434	Yukuna	yucu1253	yucu1253_v_segmental_vowel.insertion_vowel.insertion	phonological	segmental	vowel.insertion	NA	vowel.insertion	10	16	4	0.17	7	0.33	21	21	24	yucu1253_verbal	V-Insert.
-435	Yukuna	yucu1253	yucu1253_v_suprasegmental_tone.sandhi_maximal_dissimilation	phonological	suprasegmental	tone.sandhi	maximal	dissimilation	1	21	1	0.04	21	1	21	21	24	yucu1253_verbal	Tone Diss. Max.
-436	Yukuna	yucu1253	yucu1253_v_suprasegmental_tone.sandhi_minimal_dissimilation	phonological	suprasegmental	tone.sandhi	minimal	dissimilation	10	19	3	0.12	10	0.48	21	21	24	yucu1253_verbal	Tone Diss. Max.
-437	Yukuna	yucu1253	yucu1253_v_suprasegmental_tone.spreading_maximal_floating.tone	phonological	suprasegmental	tone.spreading	maximal	floating.tone	9	16	1	0.04	8	0.38	21	21	24	yucu1253_verbal	Float. Tone Max.
-438	Yukuna	yucu1253	yucu1253_v_suprasegmental_tone.spreading_minimal_floating.tone	phonological	suprasegmental	tone.spreading	minimal	floating.tone	10	16	4	0.17	7	0.33	21	21	24	yucu1253_verbal	Float. Tone Min.
-439	Yukuna	yucu1253	yucu1253_v_suprasegmental_tone.spreading_spreading	phonological	suprasegmental	tone.spreading	NA	spreading	10	18	1	0.04	9	0.43	21	21	24	yucu1253_verbal	Tone Spread.
-440	Zenzontepec Chatino	zenz1235	zenz1235_v_deviations_allomorphy_tam	indeterminate	deviations	allomorphy	NA	tam	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	Dev. Biunique. TAM
-441	Zenzontepec Chatino	zenz1235	zenz1235_v_deviations_suppletion_2sg	indeterminate	deviations	suppletion	NA	2sg	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	Dev. Biunique. 2SG
-442	Zenzontepec Chatino	zenz1235	zenz1235_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	7	17	2	0.07	11	0.52	21	21	28	zenz1235_verbal	Free Ocurr. Max. (sa-
-443	Zenzontepec Chatino	zenz1235	zenz1235_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	Free Ocurr. Min.
-444	Zenzontepec Chatino	zenz1235	zenz1235_v_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	7	14	2	0.07	8	0.38	21	21	28	zenz1235_verbal	Non-interrupt.
-445	Zenzontepec Chatino	zenz1235	zenz1235_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	7	14	2	0.07	8	0.38	21	21	28	zenz1235_verbal	Non-permut. Rigid
-446	Zenzontepec Chatino	zenz1235	zenz1235_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	7	17	2	0.07	11	0.52	21	21	28	zenz1235_verbal	Non-permut. Scope
-447	Zenzontepec Chatino	zenz1235	zenz1235_v_play.language_play.language	indeterminate	play.language	play.language	NA	NA	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	Play Lang.
-448	Zenzontepec Chatino	zenz1235	zenz1235_v_recursion.based_maximal_coordination	morphosyntactic	recursion.based	NA	maximal	coordination	2	20	1	0.04	19	0.9	21	21	28	zenz1235_verbal	Rep. Subspan Max.
-449	Zenzontepec Chatino	zenz1235	zenz1235_v_recursion.based_minimal_coordination	indeterminate	recursion.based	NA	minimal	coordination	5	16	1	0.04	12	0.57	21	21	28	zenz1235_verbal	Rep. Subspan Min.
-450	Zenzontepec Chatino	zenz1235	zenz1235_v_segmental_consonant.assimilation_maximal_palatalization	phonological	segmental	consonant.assimilation	maximal	palatalization	7	13	5	0.18	7	0.33	21	21	28	zenz1235_verbal	Palatal. Max.
-451	Zenzontepec Chatino	zenz1235	zenz1235_v_segmental_consonant.assimilation_minimal_palatalization	phonological	segmental	consonant.assimilation	minimal	palatalization	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	Palatal. Min.
-452	Zenzontepec Chatino	zenz1235	zenz1235_v_segmental_vowel.coalescence_vowel.fusion	phonological	segmental	vowel.coalescence	NA	vowel.fusion	13	17	2	0.07	5	0.24	21	21	28	zenz1235_verbal	Vowel Fusion
-453	Zenzontepec Chatino	zenz1235	zenz1235_v_segmental_vowel.deletion_maximal_vowel.elision	phonological	segmental	vowel.deletion	maximal	vowel.elision	3	16	1	0.04	14	0.67	21	21	28	zenz1235_verbal	Vowel Elision Max.
-454	Zenzontepec Chatino	zenz1235	zenz1235_v_segmental_vowel.deletion_minimal_vowel.elision	phonological	segmental	vowel.deletion	minimal	vowel.elision	7	13	5	0.18	7	0.33	21	21	28	zenz1235_verbal	Vowel Elision Min.
-455	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_declination/downstep_declination.and.pitch.reset	phonological	suprasegmental	declination/downstep	NA	declination.and.pitch.reset	1	21	3	0.11	21	1	21	21	28	zenz1235_verbal	Declination/Reset
-456	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_declination/downstep_downstep	phonological	suprasegmental	declination/downstep	NA	downstep	1	21	3	0.11	21	1	21	21	28	zenz1235_verbal	Downstep
-457	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_h.tone.constraint	phonological	suprasegmental	feature.culminativity	NA	h.tone.constraint	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	Culm. H-Tone
-458	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_maximal_glottal.stop	phonological	suprasegmental	feature.culminativity	maximal	glottal.stop	7	13	5	0.18	7	0.33	21	21	28	zenz1235_verbal	Culm. Glottal Stop Max.
-459	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_maximal_vowel.length	phonological	suprasegmental	feature.culminativity	maximal	vowel.length	4	13	2	0.07	10	0.48	21	21	28	zenz1235_verbal	Culm. V-Length Max.
-460	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_maximal_vowel.nasality	phonological	suprasegmental	feature.culminativity	maximal	vowel.nasality	4	13	2	0.07	10	0.48	21	21	28	zenz1235_verbal	Culm. V-Nasal. Max.
-461	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_minimal_glottal.stop	phonological	suprasegmental	feature.culminativity	minimal	glottal.stop	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	Culm. Glottal Stop Min.
-462	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_minimal_vowel.length	phonological	suprasegmental	feature.culminativity	minimal	vowel.length	7	13	5	0.18	7	0.33	21	21	28	zenz1235_verbal	Culm. V-Length Min.
-463	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_minimal_vowel.nasality	phonological	suprasegmental	feature.culminativity	minimal	vowel.nasality	7	13	5	0.18	7	0.33	21	21	28	zenz1235_verbal	Culm. V-Nasal. Min.
-464	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_nasalization_nasality.spreading	phonological	suprasegmental	nasalization	NA	nasality.spreading	13	17	2	0.07	5	0.24	21	21	28	zenz1235_verbal	Nasal. Spread.
-465	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_tone.sandhi_mid.tone.replacement	phonological	suprasegmental	tone.sandhi	NA	mid.tone.replacement	10	17	1	0.04	8	0.38	21	21	28	zenz1235_verbal	M-Tone Replace.
-466	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_tone.spreading_h.tone.spreading	phonological	suprasegmental	tone.spreading	NA	h.tone.spreading	1	21	3	0.11	21	1	21	21	28	zenz1235_verbal	H-Tone Spread.
-467	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_tone.template_paradigmatic.lexical.tone.melodies	phonological	suprasegmental	tone.template	NA	paradigmatic.lexical.tone.melodies	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	Paradigm. Tone
+Serial_Order	Language_Name	Language_ID	Domain_ID	Domain_Type	Abstract_Type	CrossL_Fracture	MinMax_Fracture	Lspecific_Fracture	Left_Edge	Right_Edge	Convergence	Relative_Convergence	Size	Relative_Size	Largest	Position_Total	Tests_Total	Planar_ID	PW_Pattern	Test_Labels
+1	Araona	arao1248	arao1248_v_ciscategorial.selection_maximal_broad	morphosyntactic	ciscategorial.selection	NA	maximal	broad	1	17	2	0.11	17	1	17	18	19	arao1248_verbal	morphosyntactic	Ciscat. Sel. Max. broad
+2	Araona	arao1248	arao1248_v_ciscategorial.selection_maximal_narrow	morphosyntactic	ciscategorial.selection	NA	maximal	narrow	4	15	3	0.16	12	0.71	17	18	19	arao1248_verbal	morphosyntactic	Ciscat. Sel. Max. narrow
+3	Araona	arao1248	arao1248_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	6	13	1	0.05	8	0.47	17	18	19	arao1248_verbal	morphosyntactic	Ciscat. Sel. Min.
+4	Araona	arao1248	arao1248_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	4	17	2	0.11	14	0.82	17	18	19	arao1248_verbal	indeterminate	Free Ocurr. Max.
+5	Araona	arao1248	arao1248_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	6	6	5	0.26	1	0.06	17	18	19	arao1248_verbal	indeterminate	Free Ocurr. Min.
+6	Araona	arao1248	arao1248_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	4	16	1	0.05	13	0.76	17	18	19	arao1248_verbal	morphosyntactic	Non-interrupt. Compl.
+7	Araona	arao1248	arao1248_v_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	6	6	5	0.26	1	0.06	17	18	19	arao1248_verbal	morphosyntactic	Non-interrupt. Simpl.
+8	Araona	arao1248	arao1248_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	6	6	5	0.26	1	0.06	17	18	19	arao1248_verbal	morphosyntactic	Non-permut.
+9	Araona	arao1248	arao1248_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	4	6	2	0.11	3	0.18	17	18	19	arao1248_verbal	morphosyntactic	Non-permut. Scope
+10	Araona	arao1248	arao1248_v_recursion.based_maximal	morphosyntactic	recursion.based	NA	maximal	NA	4	15	3	0.16	12	0.71	17	18	19	arao1248_verbal	morphosyntactic	Subspan Rep. Max.
+11	Araona	arao1248	arao1248_v_recursion.based_maximal_tso.marked	morphosyntactic	recursion.based	NA	maximal	tso.marked	1	17	2	0.11	17	1	17	18	19	arao1248_verbal	morphosyntactic	Subspan Rep. Tso Max.
+12	Araona	arao1248	arao1248_v_recursion.based_minimal	indeterminate	recursion.based	NA	minimal	NA	6	6	5	0.26	1	0.06	17	18	19	arao1248_verbal	indeterminate	Subspan Rep. Min.
+13	Araona	arao1248	arao1248_v_recursion.based_minimal_tso.marked	indeterminate	recursion.based	NA	minimal	tso.marked	4	14	1	0.05	11	0.65	17	18	19	arao1248_verbal	morphosyntactic	Subspan Rep. Tso Min.
+14	Araona	arao1248	arao1248_v_segmental_vowel.deletion_e.deletion	phonological	segmental	vowel.deletion	NA	e.deletion	4	6	2	0.11	3	0.18	17	18	19	arao1248_verbal	deletion	E-Deletion
+15	Araona	arao1248	arao1248_v_segmental_vowel.deletion_maximal_vowel.deletion	phonological	segmental	vowel.deletion	maximal	vowel.deletion	6	14	1	0.05	9	0.53	17	18	19	arao1248_verbal	deletion	V-Syncope Max.
+16	Araona	arao1248	arao1248_v_segmental_vowel.deletion_minimal_vowel.deletion	phonological	segmental	vowel.deletion	minimal	vowel.deletion	6	6	5	0.26	1	0.06	17	18	19	arao1248_verbal	deletion	V-Syncope Min.
+17	Araona	arao1248	arao1248_v_segmental_vowel.insertion_e.insert	phonological	segmental	vowel.insertion	NA	e.insert	4	15	3	0.16	12	0.71	17	18	19	arao1248_verbal	insertion	E-Insertion
+18	Araona	arao1248	arao1248_v_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	4	17	2	0.11	14	0.82	17	18	19	arao1248_verbal	stress	Pitch Accent Max.
+19	Araona	arao1248	arao1248_v_suprasegmental_accent_minimal	phonological	suprasegmental	accent	minimal	NA	6	11	1	0.05	6	0.35	17	18	19	arao1248_verbal	stress	Pitch Accent Min.
+20	Ayautla Mazatec	ayau1235	ayau1235_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	morphosyntactic	Ciscat. Sel. Max.
+21	Ayautla Mazatec	ayau1235	ayau1235_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	15	19	5	0.17	5	0.17	30	31	30	ayau1235_verbal	morphosyntactic	Ciscat. Sel. Min.
+22	Ayautla Mazatec	ayau1235	ayau1235_v_deviations_allomorphy_maximal	indeterminate	deviations	allomorphy	maximal	NA	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	indeterminate	Dev. Biunique. Max.
+23	Ayautla Mazatec	ayau1235	ayau1235_v_deviations_allomorphy_minimal	indeterminate	deviations	allomorphy	minimal	NA	15	19	5	0.17	5	0.17	30	31	30	ayau1235_verbal	indeterminate	Dev. Biunique. Min.
+24	Ayautla Mazatec	ayau1235	ayau1235_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	indeterminate	Min Free Form Max.
+25	Ayautla Mazatec	ayau1235	ayau1235_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	19	19	3	0.1	1	0.03	30	31	30	ayau1235_verbal	indeterminate	Min Free Form Min.
+26	Ayautla Mazatec	ayau1235	ayau1235_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	6	28	2	0.07	23	0.77	30	31	30	ayau1235_verbal	morphosyntactic	No-interrupt. Compl.
+27	Ayautla Mazatec	ayau1235	ayau1235_v_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	morphosyntactic	No-interrupt. Simpl.
+28	Ayautla Mazatec	ayau1235	ayau1235_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	15	20	2	0.07	6	0.2	30	31	30	ayau1235_verbal	morphosyntactic	Non-permut. Min.
+29	Ayautla Mazatec	ayau1235	ayau1235_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	13	21	1	0.03	9	0.3	30	31	30	ayau1235_verbal	morphosyntactic	Non-permut. Max.
+30	Ayautla Mazatec	ayau1235	ayau1235_v_pausing_pause	phonological	pausing	NA	NA	pause	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	pause	Pause
+31	Ayautla Mazatec	ayau1235	ayau1235_v_recursion.based_asyndetic_verbal.parallelism	indeterminate	recursion.based	asyndetic	NA	verbal.parallelism	15	19	5	0.17	5	0.17	30	31	30	ayau1235_verbal	morphosyntactic	Verbal Parallel.
+32	Ayautla Mazatec	ayau1235	ayau1235_v_recursion.based_maximal_coordination	morphosyntactic	recursion.based	NA	maximal	coordination	2	29	1	0.03	28	0.93	30	31	30	ayau1235_verbal	morphosyntactic	Coordination Max.
+33	Ayautla Mazatec	ayau1235	ayau1235_v_recursion.based_minimal_coordination	indeterminate	recursion.based	NA	minimal	coordination	6	28	2	0.07	23	0.77	30	31	30	ayau1235_verbal	morphosyntactic	Coordination Min.
+34	Ayautla Mazatec	ayau1235	ayau1235_v_recursion.based_nominalization_maximal	morphosyntactic	recursion.based	nominalization	maximal	NA	3	29	1	0.03	27	0.9	30	31	30	ayau1235_verbal	morphosyntactic	Nominaliz. Max.
+35	Ayautla Mazatec	ayau1235	ayau1235_v_recursion.based_nominalization_minimal	indeterminate	recursion.based	nominalization	minimal	NA	3	20	1	0.03	18	0.6	30	31	30	ayau1235_verbal	morphosyntactic	Nominaliz. Min.
+36	Ayautla Mazatec	ayau1235	ayau1235_v_recursion.based_reduplication_total.reduplication	indeterminate	recursion.based	reduplication	NA	total.reduplication	15	19	5	0.17	5	0.17	30	31	30	ayau1235_verbal	morphosyntactic	Total Redupl.
+37	Ayautla Mazatec	ayau1235	ayau1235_v_segmental_syllabification_negative.evidence	phonological	segmental	syllabification	NA	negative.evidence	16	28	1	0.03	13	0.43	30	31	30	ayau1235_verbal	syllable	Segm. Syllab. Negative
+38	Ayautla Mazatec	ayau1235	ayau1235_v_segmental_syllabification_positive.evidence	phonological	segmental	syllabification	NA	positive.evidence	16	19	1	0.03	4	0.13	30	31	30	ayau1235_verbal	syllable	Segm. Syllab. Positive
+39	Ayautla Mazatec	ayau1235	ayau1235_v_segmental_vowel-consonant.dissimilation_maximal_*ɛ.j.constraint.negative.evidence	phonological	segmental	vowel-consonant.dissimilation	maximal	*ɛ.j.constraint.negative.evidence	13	25	1	0.03	13	0.43	30	31	30	ayau1235_verbal	dissimilation	*ɛ.j Constraint Max.
+40	Ayautla Mazatec	ayau1235	ayau1235_v_segmental_vowel-consonant.dissimilation_minimal_*ɛ.j.constraint.positive.evidence	phonological	segmental	vowel-consonant.dissimilation	minimal	*ɛ.j.constraint.positive.evidence	19	19	3	0.1	1	0.03	30	31	30	ayau1235_verbal	dissimilation	*ɛ.j Constraint Min.
+41	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	15	20	2	0.07	6	0.2	30	31	30	ayau1235_verbal	stress	Stress Max.
+42	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_accent_minimal_positive.evidence	phonological	suprasegmental	accent	minimal	positive.evidence	19	20	1	0.03	2	0.07	30	31	30	ayau1235_verbal	stress	Stress Min.
+43	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_neutralization_maximal_obligatory.tone.neutralization	phonological	suprasegmental	neutralization	maximal	obligatory.tone.neutralization	15	21	2	0.07	7	0.23	30	31	30	ayau1235_verbal	tone	*3.24 Neutral. Max.
+44	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_neutralization_minimal_obligatory.tone.neutralization	phonological	suprasegmental	neutralization	minimal	obligatory.tone.neutralization	19	19	3	0.1	1	0.03	30	31	30	ayau1235_verbal	tone	*3.24 Neutral. Min.
+45	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_tone.sandhi_maximal_no.prosodic.restrictions	phonological	suprasegmental	tone.sandhi	maximal	no.prosodic.restrictions	2	31	1	0.03	30	1	30	31	30	ayau1235_verbal	tone	Poss. Sandhi Max.
+46	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_tone.sandhi_maximal_sandhi.blocking	phonological	suprasegmental	tone.sandhi	maximal	sandhi.blocking	15	21	2	0.07	7	0.23	30	31	30	ayau1235_verbal	tone	Sandhi Blocking Max.
+47	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_tone.sandhi_minimal_optional.tone.sandhi	phonological	suprasegmental	tone.sandhi	minimal	optional.tone.sandhi	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	tone	Poss. Sandhi Min.
+48	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_tone.sandhi_minimal_sandhi.blocking	phonological	suprasegmental	tone.sandhi	minimal	sandhi.blocking	15	19	5	0.17	5	0.17	30	31	30	ayau1235_verbal	tone	Sandhi Blocking Min.
+49	Ayautla Mazatec	ayau1235	ayau1235_v_suprasegmental_tone.sandhi_obligatory.sandhi	phonological	suprasegmental	tone.sandhi	NA	obligatory.sandhi	15	28	7	0.23	14	0.47	30	31	30	ayau1235_verbal	tone	Oblig. Sandhi
+50	Central Alaskan Yupik	cent2127	cent2127_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	4	16	1	0.05	13	0.68	19	21	19	cent2127_verbal	morphosyntactic	Ciscat. Sel. Max.
+51	Central Alaskan Yupik	cent2127	cent2127_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	morphosyntactic	Ciscat. Sel. Min.
+52	Central Alaskan Yupik	cent2127	cent2127_v_deviations_cumulative.exponence_cumulative.exponence.and.suppletion.involving.negation	indeterminate	deviations	cumulative.exponence	NA	cumulative.exponence.and.suppletion.involving.negation	4	12	1	0.05	9	0.47	19	21	19	cent2127_verbal	indeterminate	Cumul. Exp.
+53	Central Alaskan Yupik	cent2127	cent2127_v_deviations_extended.exponence_nonbiunique.marking.of.mood.and.person/number.of.s/a/o	indeterminate	deviations	extended.exponence	NA	nonbiunique.marking.of.mood.and.person/number.of.s/a/o	11	16	1	0.05	6	0.32	19	21	19	cent2127_verbal	indeterminate	Extend. Exp.
+54	Central Alaskan Yupik	cent2127	cent2127_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	2	20	4	0.21	19	1	19	21	19	cent2127_verbal	indeterminate	Free Ocurr. Max.
+55	Central Alaskan Yupik	cent2127	cent2127_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	indeterminate	Free Ocurr. Min.
+56	Central Alaskan Yupik	cent2127	cent2127_v_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	morphosyntactic	Non-interrupt.
+57	Central Alaskan Yupik	cent2127	cent2127_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	morphosyntactic	Non-permut. Rigid
+58	Central Alaskan Yupik	cent2127	cent2127_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	2	20	4	0.21	19	1	19	21	19	cent2127_verbal	morphosyntactic	Non-permut. Scope
+59	Central Alaskan Yupik	cent2127	cent2127_v_recursion.based_complementation_complement.say	morphosyntactic	recursion.based	complementation	NA	complement.say	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	morphosyntactic	Rec. Compl. Say
+60	Central Alaskan Yupik	cent2127	cent2127_v_recursion.based_complementation_complement1	morphosyntactic	recursion.based	complementation	NA	complement1	2	3	1	0.05	2	0.11	19	21	19	cent2127_verbal	morphosyntactic	Rec. Compl. 1
+61	Central Alaskan Yupik	cent2127	cent2127_v_recursion.based_complementation_complement2	morphosyntactic	recursion.based	complementation	NA	complement2	2	4	1	0.05	3	0.16	19	21	19	cent2127_verbal	morphosyntactic	Rec. Compl. 2
+62	Central Alaskan Yupik	cent2127	cent2127_v_recursion.based_complementation_complement3	morphosyntactic	recursion.based	complementation	NA	complement3	2	7	1	0.05	6	0.32	19	21	19	cent2127_verbal	morphosyntactic	Rec. Compl. 3
+63	Central Alaskan Yupik	cent2127	cent2127_v_repair_maximal	indeterminate	repair	NA	maximal	NA	2	20	4	0.21	19	1	19	21	19	cent2127_verbal	indeterminate	Repair Max.
+64	Central Alaskan Yupik	cent2127	cent2127_v_repair_minimal	indeterminate	repair	NA	minimal	NA	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	indeterminate	Repair Min.
+65	Central Alaskan Yupik	cent2127	cent2127_v_segmental_consonant.coalescence_uvular-velar.consonant.coalescence	phonological	segmental	consonant.coalescence	NA	uvular-velar.consonant.coalescence	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	assimilation	Cons. Coal.
+66	Central Alaskan Yupik	cent2127	cent2127_v_segmental_consonant.deletion_vvv.clusteravoidance	phonological	segmental	consonant.deletion	NA	vvv.clusteravoidance	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	assimilation	V-Clust. Avoid.
+67	Central Alaskan Yupik	cent2127	cent2127_v_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	2	20	4	0.21	19	1	19	21	19	cent2127_verbal	stress	Stress Max.
+68	Central Alaskan Yupik	cent2127	cent2127_v_suprasegmental_accent_minimal	phonological	suprasegmental	accent	minimal	NA	2	16	9	0.47	15	0.79	19	21	19	cent2127_verbal	stress	Stress Min.
+69	Chácobo	chac1251	chac1251_n_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	4	12	2	0.08	9	0.75	12	12	26	chac1251_nominal	morphosyntactic	NA
+70	Chácobo	chac1251	chac1251_n_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	4	4	3	0.12	1	0.08	12	12	26	chac1251_nominal	morphosyntactic	NA
+71	Chácobo	chac1251	chac1251_n_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	3	12	3	0.12	10	0.83	12	12	26	chac1251_nominal	indeterminate	NA
+72	Chácobo	chac1251	chac1251_n_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	4	4	3	0.12	1	0.08	12	12	26	chac1251_nominal	indeterminate	NA
+73	Chácobo	chac1251	chac1251_n_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	3	6	3	0.12	4	0.33	12	12	26	chac1251_nominal	morphosyntactic	NA
+74	Chácobo	chac1251	chac1251_n_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	3	5	1	0.04	3	0.25	12	12	26	chac1251_nominal	morphosyntactic	NA
+75	Chácobo	chac1251	chac1251_n_nonpermutability_maximal	morphosyntactic	nonpermutability	NA	maximal	NA	2	12	1	0.04	11	0.92	12	12	26	chac1251_nominal	morphosyntactic	NA
+76	Chácobo	chac1251	chac1251_n_nonpermutability_rigid_minimal	morphosyntactic	nonpermutability	rigid	minimal	NA	2	2	1	0.04	1	0.08	12	12	26	chac1251_nominal	morphosyntactic	NA
+77	Chácobo	chac1251	chac1251_n_nonpermutability_scopal_minimal	morphosyntactic	nonpermutability	scopal	minimal	NA	2	6	1	0.04	5	0.42	12	12	26	chac1251_nominal	morphosyntactic	NA
+78	Chácobo	chac1251	chac1251_n_proform	morphosyntactic	proform	NA	NA	NA	1	12	2	0.08	12	1	12	12	26	chac1251_nominal	morphosyntactic	NA
+79	Chácobo	chac1251	chac1251_n_recursion.based_compound	morphosyntactic	recursion.based	NA	NA	compound	3	4	6	0.23	2	0.17	12	12	26	chac1251_nominal	morphosyntactic	NA
+80	Chácobo	chac1251	chac1251_n_recursion.based_maximal_tihi.conjunction	morphosyntactic	recursion.based	NA	maximal	tihi.conjunction	2	8	1	0.04	7	0.58	12	12	26	chac1251_nominal	morphosyntactic	NA
+81	Chácobo	chac1251	chac1251_n_recursion.based_minimal_tihi.conjunction	indeterminate	recursion.based	NA	minimal	tihi.conjunction	3	6	3	0.12	4	0.33	12	12	26	chac1251_nominal	indeterminate	NA
+82	Chácobo	chac1251	chac1251_n_recursion.based_naxeni	morphosyntactic	recursion.based	NA	NA	naxeni	3	4	6	0.23	2	0.17	12	12	26	chac1251_nominal	morphosyntactic	NA
+83	Chácobo	chac1251	chac1251_n_recursion.based_possession_maximal_genitive	morphosyntactic	recursion.based	possession	maximal	genitive	2	10	1	0.04	9	0.75	12	12	26	chac1251_nominal	morphosyntactic	NA
+84	Chácobo	chac1251	chac1251_n_recursion.based_possession_minimal_genitive	indeterminate	recursion.based	possession	minimal	genitive	4	4	3	0.12	1	0.08	12	12	26	chac1251_nominal	indeterminate	NA
+85	Chácobo	chac1251	chac1251_n_segmental_consonant.assimilation_alveolarization	phonological	segmental	consonant.assimilation	NA	alveolarization	3	4	6	0.23	2	0.17	12	12	26	chac1251_nominal	assimilation	NA
+86	Chácobo	chac1251	chac1251_n_segmental_consonant.insertion_glottal.stop.insertion	phonological	segmental	consonant.insertion	NA	glottal.stop.insertion	3	4	6	0.23	2	0.17	12	12	26	chac1251_nominal	insertion	NA
+87	Chácobo	chac1251	chac1251_n_segmental_vowel.deletion_apocope	phonological	segmental	vowel.deletion	NA	apocope	4	12	2	0.08	9	0.75	12	12	26	chac1251_nominal	deletion	NA
+88	Chácobo	chac1251	chac1251_n_suprasegmental_accent_maximal_intensity	phonological	suprasegmental	accent	maximal	intensity	3	12	3	0.12	10	0.83	12	12	26	chac1251_nominal	stress	NA
+89	Chácobo	chac1251	chac1251_n_suprasegmental_accent_minimal_intensity	phonological	suprasegmental	accent	minimal	intensity	3	4	6	0.23	2	0.17	12	12	26	chac1251_nominal	stress	NA
+90	Chácobo	chac1251	chac1251_n_suprasegmental_tone.deletion_long.distance.tone.reduction.h...h>l...h	phonological	suprasegmental	tone.deletion	NA	long.distance.tone.reduction.h...h>l...h	4	10	1	0.04	7	0.58	12	12	26	chac1251_nominal	tone	NA
+91	Chácobo	chac1251	chac1251_n_suprasegmental_tone.deletion_maximal_h.deletion	phonological	suprasegmental	tone.deletion	maximal	h.deletion	1	12	2	0.08	12	1	12	12	26	chac1251_nominal	tone	NA
+92	Chácobo	chac1251	chac1251_n_suprasegmental_tone.deletion_minimal_h.deletion	phonological	suprasegmental	tone.deletion	minimal	h.deletion	3	12	3	0.12	10	0.83	12	12	26	chac1251_nominal	tone	NA
+93	Chácobo	chac1251	chac1251_n_suprasegmental_tone.insertion_maximal_h.tone.insertion	phonological	suprasegmental	tone.insertion	maximal	h.tone.insertion	3	6	3	0.12	4	0.33	12	12	26	chac1251_nominal	tone	NA
+94	Chácobo	chac1251	chac1251_n_suprasegmental_tone.insertion_minimal_h.tone.insertion	phonological	suprasegmental	tone.insertion	minimal	h.tone.insertion	3	4	6	0.23	2	0.17	12	12	26	chac1251_nominal	tone	NA
+95	Chácobo	chac1251	chac1251_v_ciscategorial.selection_broad	morphosyntactic	ciscategorial.selection	broad	NA	NA	1	28	1	0.03	28	1	28	28	38	chac1251_verbal	morphosyntactic	NA
+96	Chácobo	chac1251	chac1251_v_ciscategorial.selection_narrow_maximal	morphosyntactic	ciscategorial.selection	narrow	maximal	NA	8	24	3	0.08	17	0.61	28	28	38	chac1251_verbal	morphosyntactic	NA
+97	Chácobo	chac1251	chac1251_v_ciscategorial.selection_narrow_minimal	morphosyntactic	ciscategorial.selection	narrow	minimal	NA	8	16	1	0.03	9	0.32	28	28	38	chac1251_verbal	morphosyntactic	NA
+98	Chácobo	chac1251	chac1251_v_deviations_cumulative.exponence_optional	indeterminate	deviations	cumulative.exponence	NA	optional	7	9	1	0.03	3	0.11	28	28	38	chac1251_verbal	indeterminate	NA
+100	Chácobo	chac1251	chac1251_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	7	25	2	0.05	19	0.68	28	28	38	chac1251_verbal	indeterminate	NA
+101	Chácobo	chac1251	chac1251_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	8	24	3	0.08	17	0.61	28	28	38	chac1251_verbal	indeterminate	NA
+102	Chácobo	chac1251	chac1251_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	7	20	1	0.03	14	0.5	28	28	38	chac1251_verbal	morphosyntactic	NA
+103	Chácobo	chac1251	chac1251_v_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	7	11	2	0.05	5	0.18	28	28	38	chac1251_verbal	morphosyntactic	NA
+104	Chácobo	chac1251	chac1251_v_nonpermutability_rigid_maximal	morphosyntactic	nonpermutability	rigid	maximal	NA	7	26	1	0.03	20	0.71	28	28	38	chac1251_verbal	morphosyntactic	NA
+105	Chácobo	chac1251	chac1251_v_nonpermutability_rigid_minimal	morphosyntactic	nonpermutability	rigid	minimal	NA	7	10	4	0.11	4	0.14	28	28	38	chac1251_verbal	morphosyntactic	NA
+106	Chácobo	chac1251	chac1251_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	7	12	1	0.03	6	0.21	28	28	38	chac1251_verbal	morphosyntactic	NA
+107	Chácobo	chac1251	chac1251_v_recursion.based_asyndetic_maximal_asyndetic	morphosyntactic	recursion.based	asyndetic	maximal	asyndetic	6	17	2	0.05	12	0.43	28	28	38	chac1251_verbal	morphosyntactic	NA
+108	Chácobo	chac1251	chac1251_v_recursion.based_asyndetic_minimal_asyndetic	indeterminate	recursion.based	asyndetic	minimal	asyndetic	7	13	1	0.03	7	0.25	28	28	38	chac1251_verbal	indeterminate	NA
+109	Chácobo	chac1251	chac1251_v_recursion.based_nominalization_maximal_agentive.nominalization	morphosyntactic	recursion.based	nominalization	maximal	agentive.nominalization	7	24	4	0.11	18	0.64	28	28	38	chac1251_verbal	morphosyntactic	NA
+110	Chácobo	chac1251	chac1251_v_recursion.based_nominalization_maximal_instrumental.nominalization	morphosyntactic	recursion.based	nominalization	maximal	instrumental.nominalization	6	24	3	0.08	19	0.68	28	28	38	chac1251_verbal	morphosyntactic	NA
+111	Chácobo	chac1251	chac1251_v_recursion.based_nominalization_minimal_agentive.nominalization	indeterminate	recursion.based	nominalization	minimal	agentive.nominalization	7	24	4	0.11	18	0.64	28	28	38	chac1251_verbal	indeterminate	NA
+112	Chácobo	chac1251	chac1251_v_recursion.based_nominalization_minimal_instrumental.nominalization	indeterminate	recursion.based	nominalization	minimal	instrumental.nominalization	6	24	3	0.08	19	0.68	28	28	38	chac1251_verbal	indeterminate	NA
+113	Chácobo	chac1251	chac1251_v_recursion.based_reduplication_maximal	morphosyntactic	recursion.based	reduplication	maximal	NA	7	22	2	0.05	16	0.57	28	28	38	chac1251_verbal	morphosyntactic	NA
+114	Chácobo	chac1251	chac1251_v_recursion.based_reduplication_minimal	indeterminate	recursion.based	reduplication	minimal	NA	7	10	4	0.11	4	0.14	28	28	38	chac1251_verbal	indeterminate	NA
+115	Chácobo	chac1251	chac1251_v_recursion.based_same.subject_maximal_same.subject	morphosyntactic	recursion.based	same.subject	maximal	same.subject	6	17	2	0.05	12	0.43	28	28	38	chac1251_verbal	morphosyntactic	NA
+116	Chácobo	chac1251	chac1251_v_recursion.based_syndetic_maximal_different.subject	morphosyntactic	recursion.based	syndetic	maximal	different.subject	6	24	3	0.08	19	0.68	28	28	38	chac1251_verbal	morphosyntactic	NA
+117	Chácobo	chac1251	chac1251_v_recursion.based_syndetic_minimal_different.subject	indeterminate	recursion.based	syndetic	minimal	different.subject	7	22	2	0.05	16	0.57	28	28	38	chac1251_verbal	indeterminate	NA
+118	Chácobo	chac1251	chac1251_v_recursion.based_syndetic_minimal_same.subject	indeterminate	recursion.based	syndetic	minimal	same.subject	7	11	2	0.05	5	0.18	28	28	38	chac1251_verbal	indeterminate	NA
+119	Chácobo	chac1251	chac1251_v_segmental_consonant.assimilation_alveolarization	phonological	segmental	consonant.assimilation	NA	alveolarization	7	8	3	0.08	2	0.07	28	28	38	chac1251_verbal	assimilation	NA
+120	Chácobo	chac1251	chac1251_v_segmental_consonant.deletion_latent.stop.deletion	phonological	segmental	consonant.deletion	NA	latent.stop.deletion	8	24	3	0.08	17	0.61	28	28	38	chac1251_verbal	deletion	NA
+121	Chácobo	chac1251	chac1251_v_segmental_consonant.insertion_maximal_glottal.insertion	phonological	segmental	consonant.insertion	maximal	glottal.insertion	6	28	1	0.03	23	0.82	28	28	38	chac1251_verbal	insertion	NA
+122	Chácobo	chac1251	chac1251_v_segmental_consonant.insertion_minimal_glottal.insertion	phonological	segmental	consonant.insertion	minimal	glottal.insertion	7	8	3	0.08	2	0.07	28	28	38	chac1251_verbal	insertion	NA
+123	Chácobo	chac1251	chac1251_v_segmental_consonant.insertion_minimal_glottal.stop.insertion	phonological	segmental	consonant.insertion	minimal	glottal.stop.insertion	7	10	4	0.11	4	0.14	28	28	38	chac1251_verbal	insertion	NA
+125	Chácobo	chac1251	chac1251_v_segmental_vowel.insertion_maximal	phonological	segmental	vowel.insertion	maximal	NA	7	24	4	0.11	18	0.64	28	28	38	chac1251_verbal	insertion	NA
+126	Chácobo	chac1251	chac1251_v_segmental_vowel.insertion_maximal_same.vowel.insertion	phonological	segmental	vowel.insertion	maximal	same.vowel.insertion	7	24	4	0.11	18	0.64	28	28	38	chac1251_verbal	size-related	NA
+127	Chácobo	chac1251	chac1251_v_segmental_vowel.insertion_minimal_same.vowel.insertion	phonological	segmental	vowel.insertion	minimal	same.vowel.insertion	7	10	4	0.11	4	0.14	28	28	38	chac1251_verbal	size-related	NA
+128	Chácobo	chac1251	chac1251_v_suprasegmental_accent_maximal_intensity	phonological	suprasegmental	accent	maximal	intensity	7	25	2	0.05	19	0.68	28	28	38	chac1251_verbal	stress	NA
+129	Chácobo	chac1251	chac1251_v_suprasegmental_accent_minimal_intensity	phonological	suprasegmental	accent	minimal	intensity	7	8	3	0.08	2	0.07	28	28	38	chac1251_verbal	stress	NA
+130	Chácobo	chac1251	chac1251_v_suprasegmental_tone.deletion_long.distance.tone.reduction.h...h>l...h	phonological	suprasegmental	tone.deletion	NA	long.distance.tone.reduction.h...h>l...h	8	12	1	0.03	5	0.18	28	28	38	chac1251_verbal	tone	NA
+131	Chácobo	chac1251	chac1251_v_suprasegmental_tone.deletion_maximal_h.deletion	phonological	suprasegmental	tone.deletion	maximal	h.deletion	1	27	1	0.03	27	0.96	28	28	38	chac1251_verbal	tone	NA
+132	Chácobo	chac1251	chac1251_v_suprasegmental_tone.deletion_minimal_h.deletion	phonological	suprasegmental	tone.deletion	minimal	h.deletion	6	27	1	0.03	22	0.79	28	28	38	chac1251_verbal	deletion	NA
+133	Chácobo	chac1251	chac1251_v_suprasegmental_tone.insertion_maximal_h.insertion	phonological	suprasegmental	tone.insertion	maximal	h.insertion	1	24	1	0.03	24	0.86	28	28	38	chac1251_verbal	tone	NA
+134	Chácobo	chac1251	chac1251_v_suprasegmental_tone.insertion_minimal_h.insertion	phonological	suprasegmental	tone.insertion	minimal	h.insertion	7	17	1	0.03	11	0.39	28	28	38	chac1251_verbal	insertion	NA
+135	Oklahoma Cherokee	cher1273	cher1273_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	2	22	3	0.14	21	0.88	24	24	21	cher1273_verbal	morphosyntactic	Ciscat. Sel. Max.
+136	Oklahoma Cherokee	cher1273	cher1273_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	12	22	1	0.05	11	0.46	24	24	21	cher1273_verbal	morphosyntactic	Ciscat. Sel. Min.
+137	Oklahoma Cherokee	cher1273	cher1273_v_deviations_allomorphy_maximal	indeterminate	deviations	allomorphy	maximal	NA	4	22	1	0.05	19	0.79	24	24	21	cher1273_verbal	indeterminate	Dev. Biunique. Max.
+138	Oklahoma Cherokee	cher1273	cher1273_v_deviations_allomorphy_minimal	indeterminate	deviations	allomorphy	minimal	NA	4	13	1	0.05	10	0.42	24	24	21	cher1273_verbal	indeterminate	Dev. Biunique. Min.
+139	Oklahoma Cherokee	cher1273	cher1273_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	2	23	5	0.24	22	0.92	24	24	21	cher1273_verbal	indeterminate	Min Free Form Max.
+140	Oklahoma Cherokee	cher1273	cher1273_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	9	22	1	0.05	14	0.58	24	24	21	cher1273_verbal	indeterminate	Min Free Form Min.
+141	Oklahoma Cherokee	cher1273	cher1273_v_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	2	22	3	0.14	21	0.88	24	24	21	cher1273_verbal	morphosyntactic	Non-interrupt.
+142	Oklahoma Cherokee	cher1273	cher1273_v_nonpermutability_rigid_maximal	morphosyntactic	nonpermutability	rigid	maximal	NA	2	22	3	0.14	21	0.88	24	24	21	cher1273_verbal	morphosyntactic	Nonpermutability Max.
+143	Oklahoma Cherokee	cher1273	cher1273_v_nonpermutability_rigid_minimal	morphosyntactic	nonpermutability	rigid	minimal	NA	2	17	1	0.05	16	0.67	24	24	21	cher1273_verbal	morphosyntactic	Nonpermutability Min.
+144	Oklahoma Cherokee	cher1273	cher1273_v_recursion.based_asyndetic_maximal	morphosyntactic	recursion.based	asyndetic	maximal	NA	1	24	1	0.05	24	1	24	24	21	cher1273_verbal	morphosyntactic	Rep. Subspan Max.
+145	Oklahoma Cherokee	cher1273	cher1273_v_recursion.based_asyndetic_minimal	indeterminate	recursion.based	asyndetic	minimal	NA	2	23	5	0.24	22	0.92	24	24	21	cher1273_verbal	indeterminate	Rep. Subspan Min.
+146	Oklahoma Cherokee	cher1273	cher1273_v_recursion.based_nominalization_maximal	morphosyntactic	recursion.based	nominalization	maximal	NA	1	21	1	0.05	21	0.88	24	24	21	cher1273_verbal	morphosyntactic	Nominaliz. Max.
+147	Oklahoma Cherokee	cher1273	cher1273_v_recursion.based_nominalization_minimal	indeterminate	recursion.based	nominalization	minimal	NA	2	20	1	0.05	19	0.79	24	24	21	cher1273_verbal	indeterminate	Nominaliz. Min.
+148	Oklahoma Cherokee	cher1273	cher1273_v_segmental_syllabification_syllabification	phonological	segmental	syllabification	NA	syllabification	2	23	5	0.24	22	0.92	24	24	21	cher1273_verbal	syllable	Syllabification
+149	Oklahoma Cherokee	cher1273	cher1273_v_segmental_vowel.deletion_final.apocope	phonological	segmental	vowel.deletion	NA	final.apocope	2	23	5	0.24	22	0.92	24	24	21	cher1273_verbal	deletion	Final Apocope
+150	Oklahoma Cherokee	cher1273	cher1273_v_segmental_vowel.deletion_h-metathesis.vowel.deletion,.h-metathesis+vowel.deletion	phonological	segmental	vowel.deletion	NA	h-metathesis.vowel.deletion,.h-metathesis+vowel.deletion	2	23	5	0.24	22	0.92	24	24	21	cher1273_verbal	deletion	H-Metathesis/V-Del.
+151	Oklahoma Cherokee	cher1273	cher1273_v_suprasegmental_accent_domain.of.h1.spreading	phonological	suprasegmental	accent	NA	domain.of.h1.spreading	11	21	1	0.05	11	0.46	24	24	21	cher1273_verbal	tone	H1 Spreading
+152	Oklahoma Cherokee	cher1273	cher1273_v_suprasegmental_accent_maximal_domain.of.h3.assignment	phonological	suprasegmental	accent	maximal	domain.of.h3.assignment	5	21	1	0.05	17	0.71	24	24	21	cher1273_verbal	tone	H3 Assign. Max.
+153	Oklahoma Cherokee	cher1273	cher1273_v_suprasegmental_accent_maximal_domain.of.superhigh.assignment	phonological	suprasegmental	accent	maximal	domain.of.superhigh.assignment	5	22	1	0.05	18	0.75	24	24	21	cher1273_verbal	tone	Superhigh Assign. Max.
+154	Oklahoma Cherokee	cher1273	cher1273_v_suprasegmental_accent_minimal_domain.of.h3.assignment	phonological	suprasegmental	accent	minimal	domain.of.h3.assignment	7	21	1	0.05	15	0.62	24	24	21	cher1273_verbal	tone	H3 Assign. Min.
+155	Oklahoma Cherokee	cher1273	cher1273_v_suprasegmental_accent_minimal_domain.of.superhigh.assignment	phonological	suprasegmental	accent	minimal	domain.of.superhigh.assignment	7	22	1	0.05	16	0.67	24	24	21	cher1273_verbal	tone	Superhigh Assign. Min.
+156	San Martín Duraznos Mixtec	dura0000	dura0000_n_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	2	10	1	0.05	9	0.69	13	13	19	dura0000_nominal	morphosyntactic	NA
+157	San Martín Duraznos Mixtec	dura0000	dura0000_n_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	7	8	3	0.16	2	0.15	13	13	19	dura0000_nominal	morphosyntactic	NA
+158	San Martín Duraznos Mixtec	dura0000	dura0000_n_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	6	8	1	0.05	3	0.23	13	13	19	dura0000_nominal	indeterminate	NA
+159	San Martín Duraznos Mixtec	dura0000	dura0000_n_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	8	8	4	0.21	1	0.08	13	13	19	dura0000_nominal	indeterminate	NA
+160	San Martín Duraznos Mixtec	dura0000	dura0000_n_noninterruption_complex_different.type	morphosyntactic	noninterruption	complex	NA	different.type	1	10	1	0.05	10	0.77	13	13	19	dura0000_nominal	morphosyntactic	NA
+161	San Martín Duraznos Mixtec	dura0000	dura0000_n_noninterruption_complex_same.type	morphosyntactic	noninterruption	complex	NA	same.type	4	9	1	0.05	6	0.46	13	13	19	dura0000_nominal	morphosyntactic	NA
+162	San Martín Duraznos Mixtec	dura0000	dura0000_n_noninterruption_simplex_simplex	morphosyntactic	noninterruption	simplex	NA	simplex	7	8	3	0.16	2	0.15	13	13	19	dura0000_nominal	morphosyntactic	NA
+163	San Martín Duraznos Mixtec	dura0000	dura0000_n_nonpermutability_scopal	morphosyntactic	nonpermutability	NA	NA	scopal	1	13	3	0.16	13	1	13	13	19	dura0000_nominal	morphosyntactic	NA
+164	San Martín Duraznos Mixtec	dura0000	dura0000_n_nonpermutability_strict	morphosyntactic	nonpermutability	NA	NA	strict	1	8	1	0.05	8	0.62	13	13	19	dura0000_nominal	morphosyntactic	NA
+165	San Martín Duraznos Mixtec	dura0000	dura0000_n_recursion.based_maximal_coordination	morphosyntactic	recursion.based	NA	maximal	coordination	1	13	3	0.16	13	1	13	13	19	dura0000_nominal	morphosyntactic	NA
+166	San Martín Duraznos Mixtec	dura0000	dura0000_n_recursion.based_minimal_coordination	indeterminate	recursion.based	NA	minimal	coordination	8	8	4	0.21	1	0.08	13	13	19	dura0000_nominal	indeterminate	NA
+167	San Martín Duraznos Mixtec	dura0000	dura0000_n_recursion.based_possession_maximal	morphosyntactic	recursion.based	possession	maximal	NA	7	12	1	0.05	6	0.46	13	13	19	dura0000_nominal	morphosyntactic	NA
+168	San Martín Duraznos Mixtec	dura0000	dura0000_n_recursion.based_possession_minimal	indeterminate	recursion.based	possession	minimal	NA	8	8	4	0.21	1	0.08	13	13	19	dura0000_nominal	indeterminate	NA
+169	San Martín Duraznos Mixtec	dura0000	dura0000_n_segmental_minimality_maximal_bimoraic	phonological	segmental	minimality	maximal	bimoraic	1	13	3	0.16	13	1	13	13	19	dura0000_nominal	size-related	NA
+170	San Martín Duraznos Mixtec	dura0000	dura0000_n_segmental_minimality_minimal_bimoraic	phonological	segmental	minimality	minimal	bimoraic	8	8	4	0.21	1	0.08	13	13	19	dura0000_nominal	size-related	NA
+171	San Martín Duraznos Mixtec	dura0000	dura0000_n_segmental_minimality_monomoraic	phonological	segmental	minimality	NA	monomoraic	7	8	3	0.16	2	0.15	13	13	19	dura0000_nominal	size-related	NA
+173	San Martín Duraznos Mixtec	dura0000	dura0000_n_segmental_vowel.deletion_vowel.overwriting	phonological	segmental	vowel.deletion	NA	vowel.overwriting	8	11	2	0.11	4	0.31	13	13	19	dura0000_nominal	deletion	NA
+174	San Martín Duraznos Mixtec	dura0000	dura0000_n_suprasegmental_tone.dissimilation_low.tone.dissimilation	phonological	suprasegmental	tone.dissimilation	NA	low.tone.dissimilation	8	10	1	0.05	3	0.23	13	13	19	dura0000_nominal	tone	NA
+175	San Martín Duraznos Mixtec	dura0000	dura0000_n_suprasegmental_tone.sandhi_tone.sandhi.dependent.pronouns	phonological	suprasegmental	tone.sandhi	NA	tone.sandhi.dependent.pronouns	8	11	2	0.11	4	0.31	13	13	19	dura0000_nominal	tone	NA
+176	San Martín Duraznos Mixtec	dura0000	dura0000_v_ciscategorial.selection_maximal_chi-.derives.verbs	morphosyntactic	ciscategorial.selection	NA	maximal	chi-.derives.verbs	4	23	1	0.04	20	0.69	29	29	27	dura0000_verbal	morphosyntactic	Ciscat. Sel. Max. (chi- verb.)
+177	San Martín Duraznos Mixtec	dura0000	dura0000_v_ciscategorial.selection_maximal_chi-.does.not.derive.verbs	morphosyntactic	ciscategorial.selection	NA	maximal	chi-.does.not.derive.verbs	16	17	1	0.04	2	0.07	29	29	27	dura0000_verbal	morphosyntactic	Ciscat. Sel. Max. (chi- not verb.)
+178	San Martín Duraznos Mixtec	dura0000	dura0000_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	17	17	6	0.22	1	0.03	29	29	27	dura0000_verbal	morphosyntactic	Ciscat. Sel. Min.
+179	San Martín Duraznos Mixtec	dura0000	dura0000_v_deviations_cumulative.exponence_maximal_many-to-one	indeterminate	deviations	cumulative.exponence	maximal	many-to-one	12	23	1	0.04	12	0.41	29	29	27	dura0000_verbal	indeterminate	Dev. Biunique. MTO Max.
+180	San Martín Duraznos Mixtec	dura0000	dura0000_v_deviations_cumulative.exponence_minimal_many-to-one	indeterminate	deviations	cumulative.exponence	minimal	many-to-one	17	17	6	0.22	1	0.03	29	29	27	dura0000_verbal	indeterminate	Dev. Biunique. MTO Min.
+181	San Martín Duraznos Mixtec	dura0000	dura0000_v_deviations_extended.exponence_maximal_one-to-many	indeterminate	deviations	extended.exponence	maximal	one-to-many	13	17	1	0.04	5	0.17	29	29	27	dura0000_verbal	indeterminate	Dev. Biunique. OTM Max.
+182	San Martín Duraznos Mixtec	dura0000	dura0000_v_deviations_extended.exponence_minimal_one-to-many	indeterminate	deviations	extended.exponence	minimal	one-to-many	17	17	6	0.22	1	0.03	29	29	27	dura0000_verbal	indeterminate	Dev. Biunique. OTM Min.
+183	San Martín Duraznos Mixtec	dura0000	dura0000_v_free.occurrence_maximal_causative.as.bound.form	indeterminate	free.occurrence	NA	maximal	causative.as.bound.form	11	27	1	0.04	17	0.59	29	29	27	dura0000_verbal	indeterminate	Free Ocurr. Max. (sa- bound)
+184	San Martín Duraznos Mixtec	dura0000	dura0000_v_free.occurrence_maximal_causative.as.free.form	indeterminate	free.occurrence	NA	maximal	causative.as.free.form	14	27	1	0.04	14	0.48	29	29	27	dura0000_verbal	indeterminate	Free Ocurr. Max. (sa- free)
+185	San Martín Duraznos Mixtec	dura0000	dura0000_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	17	17	6	0.22	1	0.03	29	29	27	dura0000_verbal	indeterminate	Free Ocurr. Min.
+186	San Martín Duraznos Mixtec	dura0000	dura0000_v_noninterruption_causative.as.bound.form	morphosyntactic	noninterruption	NA	NA	causative.as.bound.form	11	20	1	0.04	10	0.34	29	29	27	dura0000_verbal	morphosyntactic	Non-interrupt. Min. (sa- free)
+187	San Martín Duraznos Mixtec	dura0000	dura0000_v_noninterruption_causative.as.free.form	morphosyntactic	noninterruption	NA	NA	causative.as.free.form	14	20	1	0.04	7	0.24	29	29	27	dura0000_verbal	morphosyntactic	Non-interrupt. Min. (sa- bound)
+188	San Martín Duraznos Mixtec	dura0000	dura0000_v_noninterruption_maximal	morphosyntactic	noninterruption	NA	maximal	NA	3	25	1	0.04	23	0.79	29	29	27	dura0000_verbal	morphosyntactic	Non-interrupt. Max.
+189	San Martín Duraznos Mixtec	dura0000	dura0000_v_nonpermutability	morphosyntactic	nonpermutability	NA	NA	NA	5	19	1	0.04	15	0.52	29	29	27	dura0000_verbal	morphosyntactic	Non-permut.
+190	San Martín Duraznos Mixtec	dura0000	dura0000_v_recursion.based_asyndetic_maximal	morphosyntactic	recursion.based	asyndetic	maximal	NA	12	26	1	0.04	15	0.52	29	29	27	dura0000_verbal	morphosyntactic	Rec. Asynd. Max.
+191	San Martín Duraznos Mixtec	dura0000	dura0000_v_recursion.based_asyndetic_minimal	indeterminate	recursion.based	asyndetic	minimal	NA	12	25	1	0.04	14	0.48	29	29	27	dura0000_verbal	morphosyntactic	Rec. Asynd. Min.
+192	San Martín Duraznos Mixtec	dura0000	dura0000_v_recursion.based_syndetic_maximal_coordination.with.ta	morphosyntactic	recursion.based	syndetic	maximal	coordination.with.ta	1	29	1	0.04	29	1	29	29	27	dura0000_verbal	morphosyntactic	Rec. Synd. Coord. Max.
+193	San Martín Duraznos Mixtec	dura0000	dura0000_v_recursion.based_syndetic_maximal_other.conjunctions	morphosyntactic	recursion.based	syndetic	maximal	other.conjunctions	2	28	1	0.04	27	0.93	29	29	27	dura0000_verbal	morphosyntactic	Rec. Synd. Conj. Max.
+194	San Martín Duraznos Mixtec	dura0000	dura0000_v_recursion.based_syndetic_maximal_ña-linkage	morphosyntactic	recursion.based	syndetic	maximal	ña-linkage	4	28	1	0.04	25	0.86	29	29	27	dura0000_verbal	morphosyntactic	Rec. Synd. Ña Max.
+195	San Martín Duraznos Mixtec	dura0000	dura0000_v_recursion.based_syndetic_minimal	indeterminate	recursion.based	syndetic	minimal	NA	17	17	6	0.22	1	0.03	29	29	27	dura0000_verbal	morphosyntactic	Rec. Synd. Min.
+196	San Martín Duraznos Mixtec	dura0000	dura0000_v_segmental_minimality_maximal_bimoraic	phonological	segmental	minimality	maximal	bimoraic	1	28	1	0.04	28	0.97	29	29	27	dura0000_verbal	size-related	Bimoraic. Bim. Max.
+197	San Martín Duraznos Mixtec	dura0000	dura0000_v_segmental_minimality_maximal_monomoraic.apart.from.verb.base	phonological	segmental	minimality	maximal	monomoraic.apart.from.verb.base	1	27	1	0.04	27	0.93	29	29	27	dura0000_verbal	Size-related	Bimoraic. Mono. Max.
+198	San Martín Duraznos Mixtec	dura0000	dura0000_v_segmental_minimality_minimal_bimoraic	phonological	segmental	minimality	minimal	bimoraic	17	17	6	0.22	1	0.03	29	29	27	dura0000_verbal	size-related	Bimoraic. Bim. Min.
+199	San Martín Duraznos Mixtec	dura0000	dura0000_v_segmental_minimality_minimal_monomoraic.apart.from.verb.base	phonological	segmental	minimality	minimal	monomoraic.apart.from.verb.base	12	18	1	0.04	7	0.24	29	29	27	dura0000_verbal	size-related	Bimoraic. Mono. Min.
+201	San Martín Duraznos Mixtec	dura0000	dura0000_v_segmental_vowel.deletion_maximal_vowel.overwriting.after.glottal.stop	phonological	segmental	vowel.deletion	maximal	vowel.overwriting.after.glottal.stop	6	29	1	0.04	24	0.83	29	29	27	dura0000_verbal	deletion	Vowel Del.
+202	San Martín Duraznos Mixtec	dura0000	dura0000_v_segmental_vowel.deletion_minimal_vowel.overwriting.after.glottal.stop	phonological	segmental	vowel.deletion	minimal	vowel.overwriting.after.glottal.stop	17	26	1	0.04	10	0.34	29	29	27	dura0000_verbal	deletion	Vowel Overwrit.
+203	San Martín Duraznos Mixtec	dura0000	dura0000_v_suprasegmental_tone.sandhi_dependent.pronouns	phonological	suprasegmental	tone.sandhi	NA	dependent.pronouns	17	27	1	0.04	11	0.38	29	29	27	dura0000_verbal	tone	Tone Sandhi
+204	Hup	hupd1244	hupd1244_n_ciscategorial.selection_maximal_hin=cis	morphosyntactic	ciscategorial.selection	NA	maximal	hin=cis	1	14	1	0.08	14	0.93	15	15	12	hupd1244_nominal	morphosyntactic	Ciscat. Sel. Max. (hin=cis)
+205	Hup	hupd1244	hupd1244_n_ciscategorial.selection_maximal_hin=trans	morphosyntactic	ciscategorial.selection	NA	maximal	hin=trans	1	13	1	0.08	13	0.87	15	15	12	hupd1244_nominal	morphosyntactic	Ciscat. Sel. Max. (hin=trans)
+206	Hup	hupd1244	hupd1244_n_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	5	6	1	0.08	2	0.13	15	15	12	hupd1244_nominal	morphosyntactic	Ciscat. Sel. Min.
+207	Hup	hupd1244	hupd1244_n_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	5	15	3	0.25	11	0.73	15	15	12	hupd1244_nominal	indeterminate	Free Ocurr. Max.
+208	Hup	hupd1244	hupd1244_n_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	5	5	2	0.17	1	0.07	15	15	12	hupd1244_nominal	indeterminate	Free Ocurr. Min.
+209	Hup	hupd1244	hupd1244_n_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	5	15	3	0.25	11	0.73	15	15	12	hupd1244_nominal	morphosyntactic	Non-interrupt.
+210	Hup	hupd1244	hupd1244_n_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	8	11	1	0.08	4	0.27	15	15	12	hupd1244_nominal	morphosyntactic	Non-permut. Rigid
+211	Hup	hupd1244	hupd1244_n_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	1	15	2	0.17	15	1	15	15	12	hupd1244_nominal	morphosyntactic	Non-permut. Scope
+212	Hup	hupd1244	hupd1244_n_recursion.based	morphosyntactic	recursion.based	NA	NA	NA	1	15	2	0.17	15	1	15	15	12	hupd1244_nominal	morphosyntactic	Subspan Rep.
+213	Hup	hupd1244	hupd1244_n_segmental_vowel.assimilation_maximal_vowel.copying	phonological	segmental	vowel.assimilation	maximal	vowel.copying	5	12	1	0.08	8	0.53	15	15	12	hupd1244_nominal	assimilation	Vowel Copy Max.
+214	Hup	hupd1244	hupd1244_n_segmental_vowel.assimilation_minimal_vowel.copying	phonological	segmental	vowel.assimilation	minimal	vowel.copying	5	5	2	0.17	1	0.07	15	15	12	hupd1244_nominal	assimilation	Vowel Copy Min.
+215	Hup	hupd1244	hupd1244_n_suprasegmental_accent_stress	phonological	suprasegmental	accent	NA	stress	5	15	3	0.25	11	0.73	15	15	12	hupd1244_nominal	stress	Stress
+216	Hup	hupd1244	hupd1244_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	2	18	1	0.07	17	0.53	32	32	15	hupd1244_verbal	morphosyntactic	Ciscat. Sel. Max.
+217	Hup	hupd1244	hupd1244_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	3	10	2	0.13	8	0.25	32	32	15	hupd1244_verbal	morphosyntactic	Ciscat. Sel. Min.
+218	Hup	hupd1244	hupd1244_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	2	30	2	0.13	29	0.91	32	32	15	hupd1244_verbal	indeterminate	Free Ocurr. Max.
+219	Hup	hupd1244	hupd1244_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	6	20	3	0.2	15	0.47	32	32	15	hupd1244_verbal	indeterminate	Free Ocurr. Min.
+220	Hup	hupd1244	hupd1244_v_noninterruption_multipositional_1	morphosyntactic	noninterruption	multipositional	NA	1	2	30	2	0.13	29	0.91	32	32	15	hupd1244_verbal	morphosyntactic	Non-interrupt. Max.
+221	Hup	hupd1244	hupd1244_v_noninterruption_multipositional_2	morphosyntactic	noninterruption	multipositional	NA	2	3	10	2	0.13	8	0.25	32	32	15	hupd1244_verbal	morphosyntactic	Non-interrupt. Min.
+222	Hup	hupd1244	hupd1244_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	2	10	1	0.07	9	0.28	32	32	15	hupd1244_verbal	morphosyntactic	Non-permut. Rigid
+223	Hup	hupd1244	hupd1244_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	7	10	1	0.07	4	0.12	32	32	15	hupd1244_verbal	morphosyntactic	Non-permut. Scope
+224	Hup	hupd1244	hupd1244_v_recursion.based_base	morphosyntactic	recursion.based	NA	NA	base	6	6	1	0.07	1	0.03	32	32	15	hupd1244_verbal	morphosyntactic	Subspan Rep. Base
+225	Hup	hupd1244	hupd1244_v_recursion.based_sentence	morphosyntactic	recursion.based	NA	NA	sentence	1	32	1	0.07	32	1	32	32	15	hupd1244_verbal	morphosyntactic	Subspan Rep. Clause
+226	Hup	hupd1244	hupd1244_v_segmental_consonant.deletion_consonant.deletion	phonological	segmental	consonant.deletion	NA	consonant.deletion	6	20	3	0.2	15	0.47	32	32	15	hupd1244_verbal	deletion	Consonant Del.
+227	Hup	hupd1244	hupd1244_v_segmental_vowel.assimilation_maximal_vowel.copying	phonological	segmental	vowel.assimilation	maximal	vowel.copying	2	32	1	0.07	31	0.97	32	32	15	hupd1244_verbal	assimilation	Vowel Copy Max.
+228	Hup	hupd1244	hupd1244_v_segmental_vowel.assimilation_minimal_vowel.copying	phonological	segmental	vowel.assimilation	minimal	vowel.copying	6	20	3	0.2	15	0.47	32	32	15	hupd1244_verbal	assimilation	Vowel Copy Min.
+229	Hup	hupd1244	hupd1244_v_suprasegmental_accent_maximal_stress	phonological	suprasegmental	accent	maximal	stress	3	26	1	0.07	24	0.75	32	32	15	hupd1244_verbal	stress	Stress Max.
+230	Hup	hupd1244	hupd1244_v_suprasegmental_accent_minimal_stress	phonological	suprasegmental	accent	minimal	stress	2	26	1	0.07	25	0.78	32	32	15	hupd1244_verbal	stress	Stress Min.
+231	Chorote	iyoj1235	iyoj1235_v_ciscategorial.selection_broad_maximal	morphosyntactic	ciscategorial.selection	broad	maximal	NA	8	40	1	0.04	33	0.89	37	46	28	iyoj1235_verbal	morphosyntactic	NA
+232	Chorote	iyoj1235	iyoj1235_v_ciscategorial.selection_broad_minimal	morphosyntactic	ciscategorial.selection	broad	minimal	NA	14	22	2	0.07	9	0.24	37	46	28	iyoj1235_verbal	morphosyntactic	NA
+233	Chorote	iyoj1235	iyoj1235_v_ciscategorial.selection_narrow_maximal	morphosyntactic	ciscategorial.selection	narrow	maximal	NA	14	37	1	0.04	24	0.65	37	46	28	iyoj1235_verbal	morphosyntactic	NA
+234	Chorote	iyoj1235	iyoj1235_v_ciscategorial.selection_narrow_minimal	morphosyntactic	ciscategorial.selection	narrow	minimal	NA	14	20	1	0.04	7	0.19	37	46	28	iyoj1235_verbal	morphosyntactic	NA
+235	Chorote	iyoj1235	iyoj1235_v_deviations_allomorphy_realis.irrealis	indeterminate	deviations	allomorphy	NA	realis.irrealis	14	18	2	0.07	5	0.14	37	46	28	iyoj1235_verbal	indeterminate	NA
+236	Chorote	iyoj1235	iyoj1235_v_deviations_extended.exponence	indeterminate	deviations	extended.exponence	NA	NA	14	29	1	0.04	16	0.43	37	46	28	iyoj1235_verbal	indeterminate	NA
+237	Chorote	iyoj1235	iyoj1235_v_deviations_suppletion_inflectional.class	indeterminate	deviations	suppletion	NA	inflectional.class	16	18	1	0.04	3	0.08	37	46	28	iyoj1235_verbal	indeterminate	NA
+238	Chorote	iyoj1235	iyoj1235_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	4	40	2	0.07	37	1	37	46	28	iyoj1235_verbal	indeterminate	NA
+239	Chorote	iyoj1235	iyoj1235_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	16	16	1	0.04	1	0.03	37	46	28	iyoj1235_verbal	indeterminate	NA
+240	Chorote	iyoj1235	iyoj1235_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	7	41	1	0.04	35	0.95	37	46	28	iyoj1235_verbal	morphosyntactic	NA
+241	Chorote	iyoj1235	iyoj1235_v_noninterruption_multipositional	morphosyntactic	noninterruption	multipositional	NA	NA	14	22	2	0.07	9	0.24	37	46	28	iyoj1235_verbal	morphosyntactic	NA
+242	Chorote	iyoj1235	iyoj1235_v_noninterruption_simplex_rem.past.free	morphosyntactic	noninterruption	simplex	NA	rem.past.free	14	39	1	0.04	26	0.7	37	46	28	iyoj1235_verbal	morphosyntactic	NA
+243	Chorote	iyoj1235	iyoj1235_v_noninterruption_simplex_rem.past.not.free	morphosyntactic	noninterruption	simplex	NA	rem.past.not.free	14	38	1	0.04	25	0.68	37	46	28	iyoj1235_verbal	morphosyntactic	NA
+244	Chorote	iyoj1235	iyoj1235_v_nonpermutability	morphosyntactic	nonpermutability	NA	NA	NA	14	23	1	0.04	10	0.27	37	46	28	iyoj1235_verbal	morphosyntactic	NA
+245	Chorote	iyoj1235	iyoj1235_v_recursion.based_maximal	morphosyntactic	recursion.based	NA	maximal	NA	8	39	1	0.04	32	0.86	37	46	28	iyoj1235_verbal	morphosyntactic	NA
+246	Chorote	iyoj1235	iyoj1235_v_recursion.based_minimal	indeterminate	recursion.based	NA	minimal	NA	8	38	1	0.04	31	0.84	37	46	28	iyoj1235_verbal	indeterminate	NA
+247	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.assimilation_maximal_palatalization.coronals.only	phonological	segmental	consonant.assimilation	maximal	palatalization.coronals.only	14	46	1	0.04	33	0.89	37	46	28	iyoj1235_verbal	assimilation	NA
+248	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.assimilation_maximal_palatalization.with.k(‘)y	phonological	segmental	consonant.assimilation	maximal	palatalization.with.k(‘)y	14	40	2	0.07	27	0.73	37	46	28	iyoj1235_verbal	assimilation	NA
+249	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.assimilation_maximal_palatalization.without.k(‘)y	phonological	segmental	consonant.assimilation	maximal	palatalization.without.k(‘)y	14	40	2	0.07	27	0.73	37	46	28	iyoj1235_verbal	assimilation	NA
+250	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.assimilation_minimal_palatalization.coronals.only	phonological	segmental	consonant.assimilation	minimal	palatalization.coronals.only	14	16	2	0.07	3	0.08	37	46	28	iyoj1235_verbal	assimilation	NA
+251	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.assimilation_minimal_palatalization.with.k(‘)y	phonological	segmental	consonant.assimilation	minimal	palatalization.with.k(‘)y	14	16	2	0.07	3	0.08	37	46	28	iyoj1235_verbal	assimilation	NA
+252	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.assimilation_minimal_palatalization.without.k(‘)y	phonological	segmental	consonant.assimilation	minimal	palatalization.without.k(‘)y	14	18	2	0.07	5	0.14	37	46	28	iyoj1235_verbal	assimilation	NA
+253	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.insertion_maximal_insertion.of./y/	phonological	segmental	consonant.insertion	maximal	insertion.of./y/	16	44	1	0.04	29	0.78	37	46	28	iyoj1235_verbal	insertion	NA
+254	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.insertion_minimal_insertion.of./y/	phonological	segmental	consonant.insertion	minimal	insertion.of./y/	16	32	1	0.04	17	0.46	37	46	28	iyoj1235_verbal	insertion	NA
+255	Chorote	iyoj1235	iyoj1235_v_segmental_consonant.insertion_minimal_insertion.of./y/,.fractured.according.to.analysis.“maximal”	phonological	segmental	consonant.insertion	minimal	insertion.of./y/,.fractured.according.to.analysis.“maximal”	16	34	2	0.07	19	0.51	37	46	28	iyoj1235_verbal	insertion	NA
+256	Chorote	iyoj1235	iyoj1235_v_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	4	40	2	0.07	37	1	37	46	28	iyoj1235_verbal	stress	NA
+257	Chorote	iyoj1235	iyoj1235_v_suprasegmental_accent_minimal_construction.1	phonological	suprasegmental	accent	minimal	construction.1	15	16	1	0.04	2	0.05	37	46	28	iyoj1235_verbal	stress	NA
+258	Chorote	iyoj1235	iyoj1235_v_suprasegmental_accent_minimal_construction.2	phonological	suprasegmental	accent	minimal	construction.2	16	34	2	0.07	19	0.51	37	46	28	iyoj1235_verbal	stress	NA
+259	Mebengokre	kaya1330	kaya1330_v_deviations_allomorphy_finiteness	indeterminate	deviations	allomorphy	NA	finiteness	13	15	3	0.2	3	0.16	19	32	15	kaya1330_verbal	indeterminate	NA
+260	Mebengokre	kaya1330	kaya1330_v_deviations_suppletion	indeterminate	deviations	suppletion	NA	NA	13	15	3	0.2	3	0.16	19	32	15	kaya1330_verbal	indeterminate	NA
+261	Mebengokre	kaya1330	kaya1330_v_deviations_suppletion_suppletion.for.number	indeterminate	deviations	suppletion	NA	suppletion.for.number	13	15	3	0.2	3	0.16	19	32	15	kaya1330_verbal	allomorphy	NA
+262	Mebengokre	kaya1330	kaya1330_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	3	21	1	0.07	19	1	19	32	15	kaya1330_verbal	indeterminate	NA
+263	Mebengokre	kaya1330	kaya1330_v_free.occurrence_minimal_declarative	indeterminate	free.occurrence	NA	minimal	declarative	4	15	1	0.07	12	0.63	19	32	15	kaya1330_verbal	indeterminate	NA
+264	Mebengokre	kaya1330	kaya1330_v_free.occurrence_minimal_imperative	indeterminate	free.occurrence	NA	minimal	imperative	10	15	2	0.13	6	0.32	19	32	15	kaya1330_verbal	indeterminate	NA
+265	Mebengokre	kaya1330	kaya1330_v_idiom	indeterminate	idiom	NA	NA	NA	9	21	1	0.07	13	0.68	19	32	15	kaya1330_verbal	indeterminate	NA
+266	Mebengokre	kaya1330	kaya1330_v_nonpermutability_maximal	morphosyntactic	nonpermutability	NA	maximal	NA	12	22	1	0.07	11	0.58	19	32	15	kaya1330_verbal	morphosyntactic	NA
+267	Mebengokre	kaya1330	kaya1330_v_nonpermutability_rigid_minimal	morphosyntactic	nonpermutability	rigid	minimal	NA	12	15	3	0.2	4	0.21	19	32	15	kaya1330_verbal	morphosyntactic	NA
+268	Mebengokre	kaya1330	kaya1330_v_pausing_pause	indeterminate	pausing	pause	NA	NA	11	16	1	0.07	6	0.32	19	32	15	kaya1330_verbal	indeterminate	NA
+269	Mebengokre	kaya1330	kaya1330_v_recursion.based_maximal_coordination	morphosyntactic	recursion.based	NA	maximal	coordination	4	22	1	0.07	19	1	19	32	15	kaya1330_verbal	morphosyntactic	NA
+270	Mebengokre	kaya1330	kaya1330_v_recursion.based_maximal_subordination	morphosyntactic	recursion.based	NA	maximal	subordination	5	15	1	0.07	11	0.58	19	32	15	kaya1330_verbal	morphosyntactic	NA
+271	Mebengokre	kaya1330	kaya1330_v_recursion.based_minimal_coordination	indeterminate	recursion.based	NA	minimal	coordination	10	15	2	0.13	6	0.32	19	32	15	kaya1330_verbal	indeterminate	NA
+272	Mebengokre	kaya1330	kaya1330_v_segmental_consonant.deletion_consonant.deletion	phonological	segmental	consonant.deletion	NA	consonant.deletion	12	15	3	0.2	4	0.21	19	32	15	kaya1330_verbal	deletion	NA
+273	Mebengokre	kaya1330	kaya1330_v_segmental_vowel.deletion_vowel.deletion	phonological	segmental	vowel.deletion	NA	vowel.deletion	12	15	3	0.2	4	0.21	19	32	15	kaya1330_verbal	deletion	NA
+274	Kiowa	kiow1266	kiow1266_v_ciscategorial.selection	morphosyntactic	ciscategorial.selection	NA	NA	NA	29	33	2	0.12	5	0.13	39	39	17	kiow1266_verbal	morphosyntactic	NA
+275	Kiowa	kiow1266	kiow1266_v_deviations_suppletion	indeterminate	deviations	suppletion	NA	NA	29	34	1	0.06	6	0.15	39	39	17	kiow1266_verbal	indeterminate	NA
+276	Kiowa	kiow1266	kiow1266_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	25	36	2	0.12	12	0.31	39	39	17	kiow1266_verbal	indeterminate	NA
+277	Kiowa	kiow1266	kiow1266_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	25	30	1	0.06	6	0.15	39	39	17	kiow1266_verbal	indeterminate	NA
+278	Kiowa	kiow1266	kiow1266_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	23	36	1	0.06	14	0.36	39	39	17	kiow1266_verbal	morphosyntactic	NA
+279	Kiowa	kiow1266	kiow1266_v_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	29	36	2	0.12	8	0.21	39	39	17	kiow1266_verbal	morphosyntactic	NA
+280	Kiowa	kiow1266	kiow1266_v_pausing	indeterminate	pausing	NA	NA	NA	1	39	2	0.12	39	1	39	39	17	kiow1266_verbal	indeterminate	NA
+281	Kiowa	kiow1266	kiow1266_v_recursion.based_maximal	morphosyntactic	recursion.based	NA	maximal	NA	1	39	2	0.12	39	1	39	39	17	kiow1266_verbal	morphosyntactic	NA
+282	Kiowa	kiow1266	kiow1266_v_segmental_consonant.assimilation_maximal_cluster.devoicing	phonological	segmental	consonant.assimilation	maximal	cluster.devoicing	29	33	2	0.12	5	0.13	39	39	17	kiow1266_verbal	assimilation	NA
+283	Kiowa	kiow1266	kiow1266_v_segmental_consonant.assimilation_minimal_cluster.devoicing	phonological	segmental	consonant.assimilation	minimal	cluster.devoicing	29	31	1	0.06	3	0.08	39	39	17	kiow1266_verbal	assimilation	NA
+284	Kiowa	kiow1266	kiow1266_v_segmental_consonant.change_maximal_dental-velar.switch	phonological	segmental	consonant.change	maximal	dental-velar.switch	26	36	2	0.12	11	0.28	39	39	17	kiow1266_verbal	assimilation	NA
+285	Kiowa	kiow1266	kiow1266_v_segmental_consonant.change_minimal_dental-velar.switch	phonological	segmental	consonant.change	minimal	dental-velar.switch	30	33	1	0.06	4	0.1	39	39	17	kiow1266_verbal	assimilation	NA
+286	Kiowa	kiow1266	kiow1266_v_segmental_syllabification_maximal_syllabification.sensitive.processes	phonological	segmental	syllabification	maximal	syllabification.sensitive.processes	26	36	2	0.12	11	0.28	39	39	17	kiow1266_verbal	syllable	NA
+287	Kiowa	kiow1266	kiow1266_v_segmental_syllabification_minimal_syllabification.sensitive.processes	phonological	segmental	syllabification	minimal	syllabification.sensitive.processes	29	36	2	0.12	8	0.21	39	39	17	kiow1266_verbal	syllable	NA
+288	Kiowa	kiow1266	kiow1266_v_segmental_vowel.deletion_vowel.deletion	phonological	segmental	vowel.deletion	NA	vowel.deletion	29	30	1	0.06	2	0.05	39	39	17	kiow1266_verbal	deletion	NA
+289	Kiowa	kiow1266	kiow1266_v_suprasegmental_tone.spreading_maximal_tone.lowering	phonological	suprasegmental	tone.spreading	maximal	tone.lowering	25	36	2	0.12	12	0.31	39	39	17	kiow1266_verbal	tone	NA
+290	Kiowa	kiow1266	kiow1266_v_suprasegmental_tone.spreading_minimal_tone.lowering	phonological	suprasegmental	tone.spreading	minimal	tone.lowering	25	33	1	0.06	9	0.23	39	39	17	kiow1266_verbal	tone	NA
+291	Martinican	mart1259	mart1259_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	2	26	1	0.08	25	1	25	27	12	mart1259_verbal	morphosyntactic	NA
+292	Martinican	mart1259	mart1259_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	17	18	1	0.08	2	0.08	25	27	12	mart1259_verbal	morphosyntactic	NA
+293	Martinican	mart1259	mart1259_v_deviations_suppletion_patient.pronouns	indeterminate	deviations	suppletion	NA	patient.pronouns	18	20	1	0.08	3	0.12	25	27	12	mart1259_verbal	indeterminate	NA
+294	Martinican	mart1259	mart1259_v_deviations_suppletion_recipient.pronouns	indeterminate	deviations	suppletion	NA	recipient.pronouns	18	19	1	0.08	2	0.08	25	27	12	mart1259_verbal	indeterminate	NA
+295	Martinican	mart1259	mart1259_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	17	20	4	0.33	4	0.16	25	27	12	mart1259_verbal	indeterminate	NA
+296	Martinican	mart1259	mart1259_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	18	18	1	0.08	1	0.04	25	27	12	mart1259_verbal	indeterminate	NA
+297	Martinican	mart1259	mart1259_v_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	17	20	4	0.33	4	0.16	25	27	12	mart1259_verbal	morphosyntactic	NA
+298	Martinican	mart1259	mart1259_v_nonpermutability_declarative.and.interrogative	morphosyntactic	nonpermutability	NA	NA	declarative.and.interrogative	4	25	1	0.08	22	0.88	25	27	12	mart1259_verbal	morphosyntactic	NA
+299	Martinican	mart1259	mart1259_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	17	20	4	0.33	4	0.16	25	27	12	mart1259_verbal	morphosyntactic	NA
+300	Martinican	mart1259	mart1259_v_nonpermutability_rigid_interrogative	morphosyntactic	nonpermutability	rigid	NA	interrogative	3	25	1	0.08	23	0.92	25	27	12	mart1259_verbal	morphosyntactic	NA
+301	Martinican	mart1259	mart1259_v_recursion.based_complement.clause	morphosyntactic	recursion.based	NA	NA	complement.clause	4	27	1	0.08	24	0.96	25	27	12	mart1259_verbal	morphosyntactic	NA
+302	Martinican	mart1259	mart1259_v_suprasegmental_accent	phonological	suprasegmental	accent	NA	NA	17	20	4	0.33	4	0.16	25	27	12	mart1259_verbal	stress	NA
+303	Mocoví	moco1246	moco1246_v_ciscategorial.selection	morphosyntactic	ciscategorial.selection	NA	NA	NA	7	11	3	0.14	5	0.31	16	20	22	moco1246_verbal	morphosyntactic	Ciscat. Sel.
+304	Mocoví	moco1246	moco1246_v_deviations_allomorphy_person.marking	indeterminate	deviations	allomorphy	NA	person.marking	6	7	5	0.23	2	0.12	16	20	22	moco1246_verbal	indeterminate	Dev. Biunique. Pers.
+305	Mocoví	moco1246	moco1246_v_deviations_allomorphy_progressive.marking	indeterminate	deviations	allomorphy	NA	progressive.marking	6	18	1	0.05	13	0.81	16	20	22	moco1246_verbal	indeterminate	Dev. Biunique. Prog.
+306	Mocoví	moco1246	moco1246_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	4	18	4	0.18	15	0.94	16	20	22	moco1246_verbal	indeterminate	Free Ocurr. Max.
+307	Mocoví	moco1246	moco1246_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	6	7	5	0.23	2	0.12	16	20	22	moco1246_verbal	indeterminate	Free Ocurr. Min.
+308	Mocoví	moco1246	moco1246_v_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	4	18	4	0.18	15	0.94	16	20	22	moco1246_verbal	morphosyntactic	Non-interrupt.
+309	Mocoví	moco1246	moco1246_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	4	18	4	0.18	15	0.94	16	20	22	moco1246_verbal	morphosyntactic	Non-permut. Rigid
+310	Mocoví	moco1246	moco1246_v_nonpermutability_rigid_verb.conditioned.variability	morphosyntactic	nonpermutability	rigid	NA	verb.conditioned.variability	4	15	1	0.05	12	0.75	16	20	22	moco1246_verbal	morphosyntactic	Non-permut. Rigid
+311	Mocoví	moco1246	moco1246_v_recursion.based_asyndetic_maximal_first.second.person.p	morphosyntactic	recursion.based	asyndetic	maximal	first.second.person.p	3	18	1	0.05	16	1	16	20	22	moco1246_verbal	morphosyntactic	Clause Comb. Asynd. Max. 1/2P
+312	Mocoví	moco1246	moco1246_v_recursion.based_asyndetic_maximal_third.person.p	morphosyntactic	recursion.based	asyndetic	maximal	third.person.p	6	19	2	0.09	14	0.88	16	20	22	moco1246_verbal	morphosyntactic	Clause Comb. Asynd. Max. 3P
+313	Mocoví	moco1246	moco1246_v_recursion.based_asyndetic_minimal	indeterminate	recursion.based	asyndetic	minimal	NA	6	7	5	0.23	2	0.12	16	20	22	moco1246_verbal	indeterminate	Clause Comb. Asynd. Min.
+314	Mocoví	moco1246	moco1246_v_recursion.based_syndetic_maximal_kan.and.then	morphosyntactic	recursion.based	syndetic	maximal	kan.and.then	6	19	2	0.09	14	0.88	16	20	22	moco1246_verbal	morphosyntactic	Clause Comb. Synd. Max.
+315	Mocoví	moco1246	moco1246_v_recursion.based_syndetic_minimal_nakoʔ.linker	indeterminate	recursion.based	syndetic	minimal	nakoʔ.linker	6	14	1	0.05	9	0.56	16	20	22	moco1246_verbal	indeterminate	Clause Comb. Synd. Min.
+316	Mocoví	moco1246	moco1246_v_segmental_consonant.assimilation_maximal_palatalization	phonological	segmental	consonant.assimilation	maximal	palatalization	6	15	2	0.09	10	0.62	16	20	22	moco1246_verbal	assimilation	Palatal. Max.
+317	Mocoví	moco1246	moco1246_v_segmental_consonant.assimilation_minimal_palatalization	phonological	segmental	consonant.assimilation	minimal	palatalization	7	11	3	0.14	5	0.31	16	20	22	moco1246_verbal	assimilation	Palatal. Min.
+318	Mocoví	moco1246	moco1246_v_segmental_consonant.assimilation_regressive	phonological	segmental	consonant.assimilation	NA	regressive	6	11	1	0.05	6	0.38	16	20	22	moco1246_verbal	assimilation	Harmony Type1
+319	Mocoví	moco1246	moco1246_v_segmental_consonant.assimilation_second.person	phonological	segmental	consonant.assimilation	NA	second.person	7	11	3	0.14	5	0.31	16	20	22	moco1246_verbal	assimilation	Harmony Affix
+320	Mocoví	moco1246	moco1246_v_segmental_consonant.assimilation_verb.conditioned.variability	phonological	segmental	consonant.assimilation	NA	verb.conditioned.variability	4	7	1	0.05	4	0.25	16	20	22	moco1246_verbal	assimilation	Harmony Verb
+321	Mocoví	moco1246	moco1246_v_segmental_vowel.assimilation_maximal_vocalic.epenthesis	phonological	segmental	vowel.assimilation	maximal	vocalic.epenthesis	6	15	2	0.09	10	0.62	16	20	22	moco1246_verbal	insertion	V-Epenthesis Max.
+322	Mocoví	moco1246	moco1246_v_segmental_vowel.insertion_minimal_vocalic.epenthesis	phonological	segmental	vowel.insertion	minimal	vocalic.epenthesis	6	7	5	0.23	2	0.12	16	20	22	moco1246_verbal	insertion	V-Epenthesis Min.
+323	Mocoví	moco1246	moco1246_v_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	4	18	4	0.18	15	0.94	16	20	22	moco1246_verbal	stress	Stress Max.
+324	Mocoví	moco1246	moco1246_v_suprasegmental_accent_minimal	phonological	suprasegmental	accent	minimal	NA	6	7	5	0.23	2	0.12	16	20	22	moco1246_verbal	stress	Stress Min.
+325	Blackfoot	siks1238	siks1238_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	4	13	3	0.09	10	0.77	13	14	32	siks1238_verbal	morphosyntactic	NA
+326	Blackfoot	siks1238	siks1238_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	5	9	1	0.03	5	0.38	13	14	32	siks1238_verbal	morphosyntactic	NA
+327	Blackfoot	siks1238	siks1238_v_deviations_allomorphy_k-assibilation	indeterminate	deviations	allomorphy	NA	k-assibilation	3	8	1	0.03	6	0.46	13	14	32	siks1238_verbal	indeterminate	NA
+328	Blackfoot	siks1238	siks1238_v_deviations_allomorphy_maximal_inseperable.root.nasal.deletion.vowel.coalescence	indeterminate	deviations	allomorphy	maximal	inseperable.root.nasal.deletion.vowel.coalescence	6	11	1	0.03	6	0.46	13	14	32	siks1238_verbal	indeterminate	NA
+329	Blackfoot	siks1238	siks1238_v_deviations_allomorphy_minimal_seperable.root.nasal.deletion.vowel.coalescence	indeterminate	deviations	allomorphy	minimal	seperable.root.nasal.deletion.vowel.coalescence	4	11	3	0.09	8	0.62	13	14	32	siks1238_verbal	indeterminate	NA
+330	Blackfoot	siks1238	siks1238_v_free.occurrence_maximal_conjunct	indeterminate	free.occurrence	NA	maximal	conjunct	4	13	3	0.09	10	0.77	13	14	32	siks1238_verbal	indeterminate	NA
+331	Blackfoot	siks1238	siks1238_v_free.occurrence_maximal_independent	indeterminate	free.occurrence	NA	maximal	independent	3	13	4	0.12	11	0.85	13	14	32	siks1238_verbal	indeterminate	NA
+332	Blackfoot	siks1238	siks1238_v_free.occurrence_minimal_conjunct	indeterminate	free.occurrence	NA	minimal	conjunct	4	11	3	0.09	8	0.62	13	14	32	siks1238_verbal	indeterminate	NA
+333	Blackfoot	siks1238	siks1238_v_free.occurrence_minimal_independent	indeterminate	free.occurrence	NA	minimal	independent	3	9	2	0.06	7	0.54	13	14	32	siks1238_verbal	indeterminate	NA
+334	Blackfoot	siks1238	siks1238_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	3	11	3	0.09	9	0.69	13	14	32	siks1238_verbal	morphosyntactic	NA
+335	Blackfoot	siks1238	siks1238_v_noninterruption_multipositional_noun.stem	morphosyntactic	noninterruption	multipositional	NA	noun.stem	5	11	1	0.03	7	0.54	13	14	32	siks1238_verbal	morphosyntactic	NA
+336	Blackfoot	siks1238	siks1238_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	3	14	1	0.03	12	0.92	13	14	32	siks1238_verbal	morphosyntactic	NA
+337	Blackfoot	siks1238	siks1238_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	5	14	1	0.03	10	0.77	13	14	32	siks1238_verbal	morphosyntactic	NA
+338	Blackfoot	siks1238	siks1238_v_recursion.based_asyndetic_maximal_coordination.conjunct	morphosyntactic	recursion.based	asyndetic	maximal	coordination.conjunct	4	13	3	0.09	10	0.77	13	14	32	siks1238_verbal	morphosyntactic	NA
+339	Blackfoot	siks1238	siks1238_v_recursion.based_asyndetic_maximal_coordination.independent	morphosyntactic	recursion.based	asyndetic	maximal	coordination.independent	3	13	4	0.12	11	0.85	13	14	32	siks1238_verbal	morphosyntactic	NA
+340	Blackfoot	siks1238	siks1238_v_recursion.based_asyndetic_minimal_coordination.conjunct	indeterminate	recursion.based	asyndetic	minimal	coordination.conjunct	4	11	3	0.09	8	0.62	13	14	32	siks1238_verbal	indeterminate	NA
+341	Blackfoot	siks1238	siks1238_v_recursion.based_asyndetic_minimal_coordination.independent	indeterminate	recursion.based	asyndetic	minimal	coordination.independent	3	9	2	0.06	7	0.54	13	14	32	siks1238_verbal	indeterminate	NA
+342	Blackfoot	siks1238	siks1238_v_recursion.based_inseperable.roots	morphosyntactic	recursion.based	NA	NA	inseperable.roots	6	7	3	0.09	2	0.15	13	14	32	siks1238_verbal	morphosyntactic	NA
+343	Blackfoot	siks1238	siks1238_v_recursion.based_inseperable.roots.complex.preverbs	morphosyntactic	recursion.based	NA	NA	inseperable.roots.complex.preverbs	6	6	1	0.03	1	0.08	13	14	32	siks1238_verbal	morphosyntactic	NA
+344	Blackfoot	siks1238	siks1238_v_recursion.based_secondary.derivation	morphosyntactic	recursion.based	NA	NA	secondary.derivation	6	7	3	0.09	2	0.15	13	14	32	siks1238_verbal	morphosyntactic	NA
+345	Blackfoot	siks1238	siks1238_v_recursion.based_seperable.roots	morphosyntactic	recursion.based	NA	NA	seperable.roots	4	7	1	0.03	4	0.31	13	14	32	siks1238_verbal	morphosyntactic	NA
+346	Blackfoot	siks1238	siks1238_v_recursion.based_seperable.roots.complex.preverbs	morphosyntactic	recursion.based	NA	NA	seperable.roots.complex.preverbs	4	6	1	0.03	3	0.23	13	14	32	siks1238_verbal	morphosyntactic	NA
+347	Blackfoot	siks1238	siks1238_v_segmental_consonant.insertion_maximal_glottal.insertion.vowel.coalescence.construction.1	phonological	segmental	consonant.insertion	maximal	glottal.insertion.vowel.coalescence.construction.1	1	13	2	0.06	13	1	13	14	32	siks1238_verbal	insertion	NA
+348	Blackfoot	siks1238	siks1238_v_segmental_consonant.insertion_maximal_glottal.insertion.vowel.coalescence.construction.2	phonological	segmental	consonant.insertion	maximal	glottal.insertion.vowel.coalescence.construction.2	3	13	4	0.12	11	0.85	13	14	32	siks1238_verbal	insertion	NA
+349	Blackfoot	siks1238	siks1238_v_segmental_consonant.insertion_minimal_glottal.insertion.vowel.coalescence.construction.1	phonological	segmental	consonant.insertion	minimal	glottal.insertion.vowel.coalescence.construction.1	1	11	2	0.06	11	0.85	13	14	32	siks1238_verbal	insertion	NA
+350	Blackfoot	siks1238	siks1238_v_segmental_consonant.insertion_minimal_glottal.insertion.vowel.coalescence.construction.2	phonological	segmental	consonant.insertion	minimal	glottal.insertion.vowel.coalescence.construction.2	3	11	3	0.09	9	0.69	13	14	32	siks1238_verbal	insertion	NA
+351	Blackfoot	siks1238	siks1238_v_segmental_minimality_maximal_size	phonological	segmental	minimality	maximal	size	6	9	1	0.03	4	0.31	13	14	32	siks1238_verbal	size-related	NA
+352	Blackfoot	siks1238	siks1238_v_segmental_minimality_minimal_size	phonological	segmental	minimality	minimal	size	6	7	3	0.09	2	0.15	13	14	32	siks1238_verbal	size-related	NA
+353	Blackfoot	siks1238	siks1238_v_suprasegmental_accent_maximal_construction.1	phonological	suprasegmental	accent	maximal	construction.1	1	11	2	0.06	11	0.85	13	14	32	siks1238_verbal	stress	NA
+354	Blackfoot	siks1238	siks1238_v_suprasegmental_accent_maximal_construction.2	phonological	suprasegmental	accent	maximal	construction.2	1	13	2	0.06	13	1	13	14	32	siks1238_verbal	stress	NA
+355	Blackfoot	siks1238	siks1238_v_suprasegmental_accent_minimal_construction.1	phonological	suprasegmental	accent	minimal	construction.1	3	11	3	0.09	9	0.69	13	14	32	siks1238_verbal	stress	NA
+356	Blackfoot	siks1238	siks1238_v_suprasegmental_accent_minimal_construction.2	phonological	suprasegmental	accent	minimal	construction.2	3	13	4	0.12	11	0.85	13	14	32	siks1238_verbal	stress	NA
+357	South Bolivian Quechua	sout2991	sout2991_v_ciscategorial.selection_broad_maximal	morphosyntactic	ciscategorial.selection	broad	maximal	NA	2	41	1	0.05	40	0.95	42	42	20	sout2991_verbal	morphosyntactic	Ciscat. Sel. Max.
+358	South Bolivian Quechua	sout2991	sout2991_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	12	25	1	0.05	14	0.33	42	42	20	sout2991_verbal	morphosyntactic	Ciscat. Sel. Min.
+359	South Bolivian Quechua	sout2991	sout2991_v_ciscategorial.selection_narrow_maximal	morphosyntactic	ciscategorial.selection	narrow	maximal	NA	12	26	2	0.1	15	0.36	42	42	20	sout2991_verbal	morphosyntactic	Ciscat. Sel. Max.
+360	South Bolivian Quechua	sout2991	sout2991_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	12	40	1	0.05	29	0.69	42	42	20	sout2991_verbal	indeterminate	Min Free Form Max.
+361	South Bolivian Quechua	sout2991	sout2991_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	12	26	2	0.1	15	0.36	42	42	20	sout2991_verbal	indeterminate	Min Free Form Min.
+362	South Bolivian Quechua	sout2991	sout2991_v_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	12	41	2	0.1	30	0.71	42	42	20	sout2991_verbal	morphosyntactic	Non-interrupt.
+363	South Bolivian Quechua	sout2991	sout2991_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	12	21	2	0.1	10	0.24	42	42	20	sout2991_verbal	morphosyntactic	Non-interrupt.
+364	South Bolivian Quechua	sout2991	sout2991_v_noninterruption_limitative.lla	morphosyntactic	noninterruption	NA	NA	limitative.lla	12	21	2	0.1	10	0.24	42	42	20	sout2991_verbal	morphosyntactic	lla Non-interruptability
+365	South Bolivian Quechua	sout2991	sout2991_v_nonpermutability_maximal_chi.(13).and.chi.(18).=.one.morpheme	morphosyntactic	nonpermutability	NA	maximal	chi.(13).and.chi.(18).=.one.morpheme	12	15	1	0.05	4	0.1	42	42	20	sout2991_verbal	morphosyntactic	Non-permut.
+366	South Bolivian Quechua	sout2991	sout2991_v_nonpermutability_minimal_chi.(13).and.chi.(18).not.one.morpheme	morphosyntactic	nonpermutability	NA	minimal	chi.(13).and.chi.(18).not.one.morpheme	12	12	1	0.05	1	0.02	42	42	20	sout2991_verbal	morphosyntactic	Non-permut.
+367	South Bolivian Quechua	sout2991	sout2991_v_recursion.based_asyndetic_maximal_clause.juxtaposition	morphosyntactic	recursion.based	asyndetic	maximal	clause.juxtaposition	1	42	1	0.05	42	1	42	42	20	sout2991_verbal	morphosyntactic	Subspan Repetition
+368	South Bolivian Quechua	sout2991	sout2991_v_recursion.based_asyndetic_minimal_clausal.juxtaposition.–.lax	morphosyntactic	recursion.based	asyndetic	minimal	clausal.juxtaposition.–.lax	12	18	2	0.1	7	0.17	42	42	20	sout2991_verbal	morphosyntactic	Subspan Repetition
+369	South Bolivian Quechua	sout2991	sout2991_v_recursion.based_asyndetic_minimal_clause.juxtaposition.–.strict	morphosyntactic	recursion.based	asyndetic	minimal	clause.juxtaposition.–.strict	12	18	2	0.1	7	0.17	42	42	20	sout2991_verbal	morphosyntactic	Subspan Repetition
+370	South Bolivian Quechua	sout2991	sout2991_v_recursion.based_nominalization_maximal_clausal.nominalization	morphosyntactic	recursion.based	nominalization	maximal	clausal.nominalization	1	22	1	0.05	22	0.52	42	42	20	sout2991_verbal	morphosyntactic	Subspan Repetition
+371	South Bolivian Quechua	sout2991	sout2991_v_recursion.based_nominalization_minimal_clausal.nominalization	morphosyntactic	recursion.based	nominalization	minimal	clausal.nominalization	12	22	1	0.05	11	0.26	42	42	20	sout2991_verbal	morphosyntactic	Subspan Repetition
+372	South Bolivian Quechua	sout2991	sout2991_v_segmental_maximal	phonological	segmental	NA	maximal	NA	12	38	1	0.05	27	0.64	42	42	20	sout2991_verbal	assimilation	Vowel lowering
+373	South Bolivian Quechua	sout2991	sout2991_v_segmental_minimal	phonological	segmental	NA	minimal	NA	12	13	1	0.05	2	0.05	42	42	20	sout2991_verbal	assimilation	Vowel lowering
+374	South Bolivian Quechua	sout2991	sout2991_v_segmental_vowel-consonant.deletion_suffix.deletion	phonological	segmental	vowel-consonant.deletion	NA	suffix.deletion	1	29	1	0.05	29	0.69	42	42	20	sout2991_verbal	deletion	Final Syllable/suffix deletion
+375	South Bolivian Quechua	sout2991	sout2991_v_suprasegmental_accent_maximal_stress	phonological	suprasegmental	accent	maximal	stress	12	41	2	0.1	30	0.71	42	42	20	sout2991_verbal	stress	Pitch Accent Max.
+376	South Bolivian Quechua	sout2991	sout2991_v_suprasegmental_accent_minimal_stress	phonological	suprasegmental	accent	minimal	stress	12	29	1	0.05	18	0.43	42	42	20	sout2991_verbal	stress	Pitch Accent Min.
+377	Teotitlán del Valle Zapotec	teot1238	teot1238_n_ciscategorial.selection	morphosyntactic	ciscategorial.selection	NA	NA	NA	7	8	1	0.06	2	0.1	20	20	18	teot1238_nominal	morphosyntactic	Ciscat. Sel.
+378	Teotitlán del Valle Zapotec	teot1238	teot1238_n_deviations_suppletion	indeterminate	deviations	suppletion	NA	NA	8	8	2	0.11	1	0.05	20	20	18	teot1238_nominal	indeterminate	Dev. Biunique.
+379	Teotitlán del Valle Zapotec	teot1238	teot1238_n_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	6	9	1	0.06	4	0.2	20	20	18	teot1238_nominal	indeterminate	Min Free Form Max.
+380	Teotitlán del Valle Zapotec	teot1238	teot1238_n_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	8	8	2	0.11	1	0.05	20	20	18	teot1238_nominal	indeterminate	Min Free Form Min.
+381	Teotitlán del Valle Zapotec	teot1238	teot1238_n_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	1	9	1	0.06	9	0.45	20	20	18	teot1238_nominal	morphosyntactic	Non-interrupt. Compl.
+382	Teotitlán del Valle Zapotec	teot1238	teot1238_n_noninterruption_simplex_permutable	morphosyntactic	noninterruption	simplex	NA	permutable	6	12	1	0.06	7	0.35	20	20	18	teot1238_nominal	morphosyntactic	Non-interrupt. Simpl. Perm.
+383	Teotitlán del Valle Zapotec	teot1238	teot1238_n_nonpermutability	morphosyntactic	nonpermutability	NA	NA	NA	6	20	1	0.06	15	0.75	20	20	18	teot1238_nominal	morphosyntactic	Non-permut.
+384	Teotitlán del Valle Zapotec	teot1238	teot1238_n_segmental_consonant.dissimilation_maximal_glottal.dissimilation	phonological	segmental	consonant.dissimilation	maximal	glottal.dissimilation	3	15	1	0.06	13	0.65	20	20	18	teot1238_nominal	dissimilation	Glottal Diss. Max.
+385	Teotitlán del Valle Zapotec	teot1238	teot1238_n_segmental_consonant.dissimilation_minimal_glottal.dissimilation	phonological	segmental	consonant.dissimilation	minimal	glottal.dissimilation	8	9	3	0.17	2	0.1	20	20	18	teot1238_nominal	dissimilation	Glottal Diss. Min.
+386	Teotitlán del Valle Zapotec	teot1238	teot1238_n_segmental_syllabification_maximal_syllabification	phonological	segmental	syllabification	maximal	syllabification	1	20	3	0.17	20	1	20	20	18	teot1238_nominal	syllable	Syllab. Max.
+387	Teotitlán del Valle Zapotec	teot1238	teot1238_n_segmental_syllabification_minimal_syllabification	phonological	segmental	syllabification	minimal	syllabification	6	8	1	0.06	3	0.15	20	20	18	teot1238_nominal	syllable	Syllab. Min.
+388	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	8	11	2	0.11	4	0.2	20	20	18	teot1238_nominal	stress	Accent Max.
+389	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_accent_minimal	phonological	suprasegmental	accent	minimal	NA	8	9	3	0.17	2	0.1	20	20	18	teot1238_nominal	stress	Accent Min.
+390	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_tone.sandhi_maximal_tone.sandhi	phonological	suprasegmental	tone.sandhi	maximal	tone.sandhi	1	20	3	0.17	20	1	20	20	18	teot1238_nominal	tone	Tone Sandhi Max.
+391	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_tone.sandhi_minimal_tone.sandhi	phonological	suprasegmental	tone.sandhi	minimal	tone.sandhi	8	11	2	0.11	4	0.2	20	20	18	teot1238_nominal	tone	Tone Sandhi Min.
+392	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_tone.spreading_maximal_mid.tone.spreading	phonological	suprasegmental	tone.spreading	maximal	mid.tone.spreading	1	20	3	0.17	20	1	20	20	18	teot1238_nominal	tone	Mid Tone Spread. Max.
+393	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_tone.spreading_minimal_mid.tone.spreading	phonological	suprasegmental	tone.spreading	minimal	mid.tone.spreading	8	9	3	0.17	2	0.1	20	20	18	teot1238_nominal	tone	Mid Tone Spread. Min.
+394	Teotitlán del Valle Zapotec	teot1238	teot1238_n_suprasegmental_tone.spreading_rising.tone.levelling	phonological	suprasegmental	tone.spreading	NA	rising.tone.levelling	8	20	1	0.06	13	0.65	20	20	18	teot1238_nominal	tone	Rising Tone Level.
+395	Teotitlán del Valle Zapotec	teot1238	teot1238_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	4	14	1	0.05	11	0.39	28	28	21	teot1238_verbal	morphosyntactic	Ciscat. Sel. Max.
+396	Teotitlán del Valle Zapotec	teot1238	teot1238_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	10	12	4	0.19	3	0.11	28	28	21	teot1238_verbal	morphosyntactic	Ciscat. Sel. Min.
+397	Teotitlán del Valle Zapotec	teot1238	teot1238_v_deviations_allomorphy	indeterminate	deviations	allomorphy	NA	NA	10	13	1	0.05	4	0.14	28	28	21	teot1238_verbal	indeterminate	Dev. Biunique.
+398	Teotitlán del Valle Zapotec	teot1238	teot1238_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	4	22	2	0.1	19	0.68	28	28	21	teot1238_verbal	indeterminate	Min Free Form Max.
+399	Teotitlán del Valle Zapotec	teot1238	teot1238_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	10	12	4	0.19	3	0.11	28	28	21	teot1238_verbal	indeterminate	Min Free Form Min.
+400	Teotitlán del Valle Zapotec	teot1238	teot1238_v_noninterruption_complex	morphosyntactic	noninterruption	complex	NA	NA	10	15	3	0.14	6	0.21	28	28	21	teot1238_verbal	morphosyntactic	Non-interrupt. Simpl.
+401	Teotitlán del Valle Zapotec	teot1238	teot1238_v_noninterruption_simplex	morphosyntactic	noninterruption	simplex	NA	NA	4	22	2	0.1	19	0.68	28	28	21	teot1238_verbal	morphosyntactic	Non-interrupt. Compl.
+402	Teotitlán del Valle Zapotec	teot1238	teot1238_v_nonpermutability	morphosyntactic	nonpermutability	NA	NA	NA	10	15	3	0.14	6	0.21	28	28	21	teot1238_verbal	morphosyntactic	Non-permut.
+403	Teotitlán del Valle Zapotec	teot1238	teot1238_v_recursion.based_maximal_serial.verb	morphosyntactic	recursion.based	NA	maximal	serial.verb	10	23	1	0.05	14	0.5	28	28	21	teot1238_verbal	morphosyntactic	Serial Verb Max.
+404	Teotitlán del Valle Zapotec	teot1238	teot1238_v_recursion.based_minimal_serial.verb	indeterminate	recursion.based	NA	minimal	serial.verb	10	12	4	0.19	3	0.11	28	28	21	teot1238_verbal	morphosyntactic	Serial Verb Min.
+405	Teotitlán del Valle Zapotec	teot1238	teot1238_v_segmental_consonant.dissimilation_glottal.dissimilation	phonological	segmental	consonant.dissimilation	NA	glottal.dissimilation	3	15	2	0.1	13	0.46	28	28	21	teot1238_verbal	dissimilation	Glottal Diss.
+406	Teotitlán del Valle Zapotec	teot1238	teot1238_v_segmental_consonant.insertion_final.glottalization	phonological	segmental	consonant.insertion	NA	final.glottalization	1	28	4	0.19	28	1	28	28	21	teot1238_verbal	insertion	Final Glottal.
+407	Teotitlán del Valle Zapotec	teot1238	teot1238_v_segmental_syllabification_maximal_syllabification	phonological	segmental	syllabification	maximal	syllabification	1	28	4	0.19	28	1	28	28	21	teot1238_verbal	syllable	Syllab. Max.
+408	Teotitlán del Valle Zapotec	teot1238	teot1238_v_segmental_syllabification_minimal_syllabification	phonological	segmental	syllabification	minimal	syllabification	10	12	4	0.19	3	0.11	28	28	21	teot1238_verbal	syllable	Syllab. Min.
+409	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_accent_maximal	phonological	suprasegmental	accent	maximal	NA	3	15	2	0.1	13	0.46	28	28	21	teot1238_verbal	stress	Accent Max.
+410	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_accent_minimal	phonological	suprasegmental	accent	minimal	NA	10	15	3	0.14	6	0.21	28	28	21	teot1238_verbal	stress	Accent Min.
+411	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_tone.sandhi_maximal_tone.sandhi	phonological	suprasegmental	tone.sandhi	maximal	tone.sandhi	1	28	4	0.19	28	1	28	28	21	teot1238_verbal	tone	Tone Sandhi Max.
+412	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_tone.sandhi_minimal_tone.sandhi	phonological	suprasegmental	tone.sandhi	minimal	tone.sandhi	11	19	1	0.05	9	0.32	28	28	21	teot1238_verbal	tone	Tone Sandhi Min.
+413	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_tone.spreading_maximal_mid.tone.spreading	phonological	suprasegmental	tone.spreading	maximal	mid.tone.spreading	1	28	4	0.19	28	1	28	28	21	teot1238_verbal	tone	Mid Tone Spread. Max.
+414	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_tone.spreading_minimal_mid.tone.spreading	phonological	suprasegmental	tone.spreading	minimal	mid.tone.spreading	11	14	1	0.05	4	0.14	28	28	21	teot1238_verbal	tone	Mid Tone Spread. Min.
+415	Teotitlán del Valle Zapotec	teot1238	teot1238_v_suprasegmental_tone.spreading_rising.tone.levelling	phonological	suprasegmental	tone.spreading	NA	rising.tone.levelling	10	24	1	0.05	15	0.54	28	28	21	teot1238_verbal	tone	Rising Tone Level.
+416	Yukuna	yucu1253	yucu1253_v_ciscategorial.selection_maximal	morphosyntactic	ciscategorial.selection	NA	maximal	NA	10	19	3	0.12	10	0.48	21	21	24	yucu1253_verbal	morphosyntactic	Ciscat. Sel. Max.
+417	Yukuna	yucu1253	yucu1253_v_ciscategorial.selection_minimal	morphosyntactic	ciscategorial.selection	NA	minimal	NA	10	16	4	0.17	7	0.33	21	21	24	yucu1253_verbal	morphosyntactic	Ciscat. Sel. Min.
+418	Yukuna	yucu1253	yucu1253_v_deviations_allomorphy_past.tense	indeterminate	deviations	allomorphy	NA	past.tense	10	13	2	0.08	4	0.19	21	21	24	yucu1253_verbal	indeterminate	Allomorph. PST
+419	Yukuna	yucu1253	yucu1253_v_deviations_allomorphy_valency	indeterminate	deviations	allomorphy	NA	valency	10	13	2	0.08	4	0.19	21	21	24	yucu1253_verbal	indeterminate	Allomorph. Val.
+420	Yukuna	yucu1253	yucu1253_v_deviations_extended.exponence_maximal_negation	indeterminate	deviations	extended.exponence	maximal	negation	4	12	1	0.04	9	0.43	21	21	24	yucu1253_verbal	indeterminate	Extend. Exp. Max.
+421	Yukuna	yucu1253	yucu1253_v_deviations_extended.exponence_middle	indeterminate	deviations	extended.exponence	NA	middle	10	17	1	0.04	8	0.38	21	21	24	yucu1253_verbal	indeterminate	Extend. Exp. Middle
+422	Yukuna	yucu1253	yucu1253_v_deviations_extended.exponence_minimal_negation	indeterminate	deviations	extended.exponence	minimal	negation	6	12	1	0.04	7	0.33	21	21	24	yucu1253_verbal	indeterminate	Extend. Exp. Min.
+423	Yukuna	yucu1253	yucu1253_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	8	10	1	0.04	3	0.14	21	21	24	yucu1253_verbal	indeterminate	Free Ocurr. Max.
+424	Yukuna	yucu1253	yucu1253_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	9	10	3	0.12	2	0.1	21	21	24	yucu1253_verbal	indeterminate	Free Ocurr. Min.
+425	Yukuna	yucu1253	yucu1253_v_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	9	20	1	0.04	12	0.57	21	21	24	yucu1253_verbal	morphosyntactic	Non-interrupt.
+426	Yukuna	yucu1253	yucu1253_v_nonpermutability	morphosyntactic	nonpermutability	NA	NA	NA	10	19	3	0.12	10	0.48	21	21	24	yucu1253_verbal	morphosyntactic	Non-permut.
+427	Yukuna	yucu1253	yucu1253_v_recursion.based_complementation_maximal	morphosyntactic	recursion.based	complementation	maximal	NA	8	21	2	0.08	14	0.67	21	21	24	yucu1253_verbal	morphosyntactic	Subspan Rep. Compl.
+428	Yukuna	yucu1253	yucu1253_v_recursion.based_maximal_adverbial.clause	morphosyntactic	recursion.based	NA	maximal	adverbial.clause	8	21	2	0.08	14	0.67	21	21	24	yucu1253_verbal	morphosyntactic	Subspan Rep. Adv.
+429	Yukuna	yucu1253	yucu1253_v_recursion.based_same.subject_maximal	morphosyntactic	recursion.based	same.subject	maximal	NA	10	21	1	0.04	12	0.57	21	21	24	yucu1253_verbal	morphosyntactic	Subspan Rep. SS
+430	Yukuna	yucu1253	yucu1253_v_segmental_vowel.assimilation_maximal_vowel.coalescence.ai>e	phonological	segmental	vowel.assimilation	maximal	vowel.coalescence.ai>e	9	17	1	0.04	9	0.43	21	21	24	yucu1253_verbal	assimilation	V-Coalesc. Max.
+431	Yukuna	yucu1253	yucu1253_v_segmental_vowel.assimilation_vowel.assimilation	phonological	segmental	vowel.assimilation	NA	vowel.assimilation	9	10	3	0.12	2	0.1	21	21	24	yucu1253_verbal	assimilation	V-Assim.
+432	Yukuna	yucu1253	yucu1253_v_segmental_vowel.coalescence_minimal_vowel.coalescence.ua>o	phonological	segmental	vowel.coalescence	minimal	vowel.coalescence.ua>o	9	10	3	0.12	2	0.1	21	21	24	yucu1253_verbal	assimilation	V-Coalesc. Min.
+433	Yukuna	yucu1253	yucu1253_v_segmental_vowel.deletion_vowel.elision	phonological	segmental	vowel.deletion	NA	vowel.elision	10	16	4	0.17	7	0.33	21	21	24	yucu1253_verbal	deletion	V-Elision
+434	Yukuna	yucu1253	yucu1253_v_segmental_vowel.insertion_vowel.insertion	phonological	segmental	vowel.insertion	NA	vowel.insertion	10	16	4	0.17	7	0.33	21	21	24	yucu1253_verbal	insertion	V-Insert.
+435	Yukuna	yucu1253	yucu1253_v_suprasegmental_tone.sandhi_maximal_dissimilation	phonological	suprasegmental	tone.sandhi	maximal	dissimilation	1	21	1	0.04	21	1	21	21	24	yucu1253_verbal	tone	Tone Diss. Max.
+436	Yukuna	yucu1253	yucu1253_v_suprasegmental_tone.sandhi_minimal_dissimilation	phonological	suprasegmental	tone.sandhi	minimal	dissimilation	10	19	3	0.12	10	0.48	21	21	24	yucu1253_verbal	tone	Tone Diss. Max.
+437	Yukuna	yucu1253	yucu1253_v_suprasegmental_tone.spreading_maximal_floating.tone	phonological	suprasegmental	tone.spreading	maximal	floating.tone	9	16	1	0.04	8	0.38	21	21	24	yucu1253_verbal	tone	Float. Tone Max.
+438	Yukuna	yucu1253	yucu1253_v_suprasegmental_tone.spreading_minimal_floating.tone	phonological	suprasegmental	tone.spreading	minimal	floating.tone	10	16	4	0.17	7	0.33	21	21	24	yucu1253_verbal	tone	Float. Tone Min.
+439	Yukuna	yucu1253	yucu1253_v_suprasegmental_tone.spreading_spreading	phonological	suprasegmental	tone.spreading	NA	spreading	10	18	1	0.04	9	0.43	21	21	24	yucu1253_verbal	tone	Tone Spread.
+440	Zenzontepec Chatino	zenz1235	zenz1235_v_deviations_allomorphy_tam	indeterminate	deviations	allomorphy	NA	tam	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	indeterminate	Dev. Biunique. TAM
+441	Zenzontepec Chatino	zenz1235	zenz1235_v_deviations_suppletion_2sg	indeterminate	deviations	suppletion	NA	2sg	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	indeterminate	Dev. Biunique. 2SG
+442	Zenzontepec Chatino	zenz1235	zenz1235_v_free.occurrence_maximal	indeterminate	free.occurrence	NA	maximal	NA	7	17	2	0.07	11	0.52	21	21	28	zenz1235_verbal	indeterminate	Free Ocurr. Max. (sa-
+443	Zenzontepec Chatino	zenz1235	zenz1235_v_free.occurrence_minimal	indeterminate	free.occurrence	NA	minimal	NA	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	indeterminate	Free Ocurr. Min.
+444	Zenzontepec Chatino	zenz1235	zenz1235_v_noninterruption	morphosyntactic	noninterruption	NA	NA	NA	7	14	2	0.07	8	0.38	21	21	28	zenz1235_verbal	morphosyntactic	Non-interrupt.
+445	Zenzontepec Chatino	zenz1235	zenz1235_v_nonpermutability_rigid	morphosyntactic	nonpermutability	rigid	NA	NA	7	14	2	0.07	8	0.38	21	21	28	zenz1235_verbal	morphosyntactic	Non-permut. Rigid
+446	Zenzontepec Chatino	zenz1235	zenz1235_v_nonpermutability_scopal	morphosyntactic	nonpermutability	scopal	NA	NA	7	17	2	0.07	11	0.52	21	21	28	zenz1235_verbal	morphosyntactic	Non-permut. Scope
+447	Zenzontepec Chatino	zenz1235	zenz1235_v_play.language_play.language	indeterminate	play.language	play.language	NA	NA	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	indeterminate	Play Lang.
+448	Zenzontepec Chatino	zenz1235	zenz1235_v_recursion.based_maximal_coordination	morphosyntactic	recursion.based	NA	maximal	coordination	2	20	1	0.04	19	0.9	21	21	28	zenz1235_verbal	morphosyntactic	Rep. Subspan Max.
+449	Zenzontepec Chatino	zenz1235	zenz1235_v_recursion.based_minimal_coordination	indeterminate	recursion.based	NA	minimal	coordination	5	16	1	0.04	12	0.57	21	21	28	zenz1235_verbal	morphosyntactic	Rep. Subspan Min.
+450	Zenzontepec Chatino	zenz1235	zenz1235_v_segmental_consonant.assimilation_maximal_palatalization	phonological	segmental	consonant.assimilation	maximal	palatalization	7	13	5	0.18	7	0.33	21	21	28	zenz1235_verbal	assimilation	Palatal. Max.
+451	Zenzontepec Chatino	zenz1235	zenz1235_v_segmental_consonant.assimilation_minimal_palatalization	phonological	segmental	consonant.assimilation	minimal	palatalization	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	assimilation	Palatal. Min.
+452	Zenzontepec Chatino	zenz1235	zenz1235_v_segmental_vowel.coalescence_vowel.fusion	phonological	segmental	vowel.coalescence	NA	vowel.fusion	13	17	2	0.07	5	0.24	21	21	28	zenz1235_verbal	assimilation	Vowel Fusion
+453	Zenzontepec Chatino	zenz1235	zenz1235_v_segmental_vowel.deletion_maximal_vowel.elision	phonological	segmental	vowel.deletion	maximal	vowel.elision	3	16	1	0.04	14	0.67	21	21	28	zenz1235_verbal	deletion	Vowel Elision Max.
+454	Zenzontepec Chatino	zenz1235	zenz1235_v_segmental_vowel.deletion_minimal_vowel.elision	phonological	segmental	vowel.deletion	minimal	vowel.elision	7	13	5	0.18	7	0.33	21	21	28	zenz1235_verbal	deletion	Vowel Elision Min.
+455	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_declination/downstep_declination.and.pitch.reset	phonological	suprasegmental	declination/downstep	NA	declination.and.pitch.reset	1	21	3	0.11	21	1	21	21	28	zenz1235_verbal	other process	Declination/Reset
+456	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_declination/downstep_downstep	phonological	suprasegmental	declination/downstep	NA	downstep	1	21	3	0.11	21	1	21	21	28	zenz1235_verbal	dissimilation	Downstep
+457	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_h.tone.constraint	phonological	suprasegmental	feature.culminativity	NA	h.tone.constraint	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	constraint	Culm. H-Tone
+458	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_maximal_glottal.stop	phonological	suprasegmental	feature.culminativity	maximal	glottal.stop	7	13	5	0.18	7	0.33	21	21	28	zenz1235_verbal	constraint	Culm. Glottal Stop Max.
+459	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_maximal_vowel.length	phonological	suprasegmental	feature.culminativity	maximal	vowel.length	4	13	2	0.07	10	0.48	21	21	28	zenz1235_verbal	constraint	Culm. V-Length Max.
+460	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_maximal_vowel.nasality	phonological	suprasegmental	feature.culminativity	maximal	vowel.nasality	4	13	2	0.07	10	0.48	21	21	28	zenz1235_verbal	constraint	Culm. V-Nasal. Max.
+461	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_minimal_glottal.stop	phonological	suprasegmental	feature.culminativity	minimal	glottal.stop	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	constraint	Culm. Glottal Stop Min.
+462	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_minimal_vowel.length	phonological	suprasegmental	feature.culminativity	minimal	vowel.length	7	13	5	0.18	7	0.33	21	21	28	zenz1235_verbal	constraint	Culm. V-Length Min.
+463	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_feature.culminativity_minimal_vowel.nasality	phonological	suprasegmental	feature.culminativity	minimal	vowel.nasality	7	13	5	0.18	7	0.33	21	21	28	zenz1235_verbal	constraint	Culm. V-Nasal. Min.
+464	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_nasalization_nasality.spreading	phonological	suprasegmental	nasalization	NA	nasality.spreading	13	17	2	0.07	5	0.24	21	21	28	zenz1235_verbal	assimilation	Nasal. Spread.
+465	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_tone.sandhi_mid.tone.replacement	phonological	suprasegmental	tone.sandhi	NA	mid.tone.replacement	10	17	1	0.04	8	0.38	21	21	28	zenz1235_verbal	tone	M-Tone Replace.
+466	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_tone.spreading_h.tone.spreading	phonological	suprasegmental	tone.spreading	NA	h.tone.spreading	1	21	3	0.11	21	1	21	21	28	zenz1235_verbal	tone	H-Tone Spread.
+467	Zenzontepec Chatino	zenz1235	zenz1235_v_suprasegmental_tone.template_paradigmatic.lexical.tone.melodies	phonological	suprasegmental	tone.template	NA	paradigmatic.lexical.tone.melodies	10	13	8	0.29	4	0.19	21	21	28	zenz1235_verbal	allomorphy	Paradigm. Tone
