@@ -70,7 +70,7 @@ domains_out <- domains_input %>%
   arrange(Planar_ID, Domain_ID) %>%
   mutate(Serial_Order = seq(1:nrow(.))) %>%
   filter(!Analysis_Type=="lexphon") %>%
-  select(Serial_Order, Language_Name, Language_ID, Domain_ID, Domain_Type, Abstract_Type, CrossL_Fracture, MinMax_Fracture, Lspecific_Fracture, Left_Edge, Right_Edge, Size, Relative_Size, Largest, Position_Total, Planar_ID, PW_Patterns, Test_Labels)
+  select(Serial_Order, Language_Name, Language_ID, Domain_ID, Domain_Type, Abstract_Type, CrossL_Fracture, MinMax_Fracture, Lspecific_Fracture, Left_Edge, Right_Edge, Size, Relative_Size, Largest, Position_Total, Planar_ID, PW_Pattern, Test_Labels)
 glimpse(domains_out)
 
 # there should not be any duplicates in the Domain_ID! please fix in the input file if there are any
@@ -87,7 +87,7 @@ glimpse(count_convergences)
 
 # calculate total tests per language/domain
 count_tests <- domains_out %>%
-  filter(!Analysis_Type=="lexphon") %>%
+  #filter(!Analysis_Type=="lexphon") %>%
   group_by(Planar_ID) %>%
  summarize(Tests_Total = n())
 

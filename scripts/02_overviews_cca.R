@@ -188,7 +188,7 @@ density_all <- ggplot(data = domains_verbal_density, aes(x = Relative_Convergenc
         strip.text.x = element_text(size = 11))
 density_all
 # export plot
-ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_verbal_all.png", density_all, height = 15, width = 20, device = "png", units = "cm", dpi = 600)
+ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_verbal_all.png", density_all, height = 13, width = 20, device = "png", units = "cm", dpi = 600)
 
 
 # facet density plot of relative convergence per abstract type
