@@ -14,7 +14,6 @@ p_load(ggmap,
 domains <- read_tsv(here("domains.tsv")) %>%
   modify_if(is.character, as.factor)
 
-
 # list all abstract types
 levels(domains$Abstract_Type)
 
@@ -281,6 +280,82 @@ plot_dens_conv_clf <- ggplot(aes(x = Relative_Convergence, group = CrossL_Fractu
 plot_dens_conv_clf
 # export plot
 ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_clf.png", plot_dens_conv_clf, height = 17, width = 20, device = "png", units = "cm", dpi = 600)
+
+
+# plot convergences between phonological and morphosyntactic domains
+# count convergences between those domains per language
+conv_bisection <- domains %>%
+  unite("Spans", Left_Edge:Right_Edge, sep = "-") %>%
+  group_by(Planar_ID, Domain_Type) %>%
+  mutate(Total_Tests_D = n()) %>%
+  group_by(Planar_ID, Domain_Type, Spans) %>%
+  mutate(DConvergence = n()) %>%
+  ungroup() %>%
+  distinct()
+# with indeterminate = morphosyntactic
+conv_bisection_lumped <- domains %>%
+  unite("Spans", Left_Edge:Right_Edge, sep = "-") %>%
+  mutate(Domain_Type = if_else(Domain_Type=="indeterminate", "morphosyntactic", Domain_Type)) %>%
+  group_by(Planar_ID, Domain_Type) %>%
+  mutate(Total_Tests_DL = n()) %>%
+  group_by(Planar_ID, Domain_Type, Spans) %>%
+  mutate(DLConvergence = n()) %>%
+  ungroup() %>%
+  distinct()
+# add back to df for plotting
+domains_bisection <- conv_bisection %>%
+  left_join(., conv_bisection_lumped) %>%
+  mutate(Relative_DConvergence = round(DConvergence/Total_Tests_D, 2), Relative_DLConvergence = round(DLConvergence/Total_Tests_DL, 2))
+
+summary(domains_bisection$Relative_DLConvergence)
+
+# plot lumped
+plot_dens_msphon <- ggplot(data = filter(domains_bisection, !is.na(DLConvergence)), aes(x = Relative_DLConvergence, group = Domain_Type, fill = Domain_Type)) +
+  geom_density(alpha = 0.6) +
+  scale_fill_d3(name = "Domain") +
+  facet_wrap(~Planar_ID, scales = "free_x", ncol = 3) +
+  labs(x = "Relative convergence", y = "Density", ) +
+  scale_x_continuous(expand = c(0.008, 0), breaks = seq(0, 1, 0.2), limits = c(0, 1)) +
+  scale_y_continuous(breaks = seq(0, 25, 10), limits = c(0, 25)) +
+  theme_bw() +
+  theme(legend.position = "top",
+        legend.key.size = unit(1, "lines"),
+        legend.text = element_text(size = 11),
+        axis.text = element_text(size = 11),
+        axis.title = element_text(size = 13),
+        strip.text.x = element_text(size = 11),
+        panel.spacing = unit(1.3, "lines"),
+        strip.clip = "off",
+        plot.margin = margin(5, 10, 5, 10))
+plot_dens_msphon
+# export
+ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_bisection.png", plot_dens_msphon, height = 25, width = 17, device = "png", units = "cm", dpi = 600)
+
+
+# plot with indeterminate
+domains_bisection <- domains_bisection %>%
+  mutate(Domain_Type = factor(Domain_Type, levels = c("morphosyntactic", "phonological", "indeterminate")))
+
+plot_dens_msphonind <- ggplot(data = domains_bisection, aes(x = Relative_DConvergence, group = Domain_Type, fill = Domain_Type)) +
+  geom_density(alpha = 0.6) +
+  scale_fill_d3(name = "Domain") +
+  facet_wrap(~Planar_ID, scales = "free_x", ncol = 3) +
+  labs(x = "Relative convergence", y = "Density", ) +
+  scale_x_continuous(expand = c(0.008, 0), breaks = seq(0, 1, 0.2), limits = c(0, 1)) +
+  scale_y_continuous(breaks = seq(0, 25, 10), limits = c(0, 25)) +
+  theme_bw() +
+  theme(legend.position = "top",
+        legend.key.size = unit(1, "lines"),
+        legend.text = element_text(size = 11),
+        axis.text = element_text(size = 11),
+        axis.title = element_text(size = 13),
+        strip.text.x = element_text(size = 11),
+        panel.spacing = unit(1.3, "lines"),
+        strip.clip = "off",
+        plot.margin = margin(5, 10, 5, 10))
+plot_dens_msphonind
+# export
+ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_bisection_ind.png", plot_dens_msphonind, height = 25, width = 17, device = "png", units = "cm", dpi = 600)
 
 
 
