@@ -1,4 +1,4 @@
-# overviews and applications for discussion section
+# overviews and applications for discussion section of 'Constituency and Convergence in the Americas
 
 if (!require("pacman")) install.packages("pacman")
 p_load(ggmap,
@@ -63,7 +63,7 @@ sample_map_relconv <- ggmap(americas) +
 sample_map_relconv
 
 # export
-ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/map_languagesCCA_conv.png", sample_map_relconv, dpi = 600, height = 20, units = "cm")
+#ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/map_languagesCCA_conv.png", sample_map_relconv, dpi = 600, height = 20, units = "cm")
 
 
 # dot plot of convergences in the verbal domains
@@ -75,7 +75,7 @@ domains_verbal <- domains %>%
   arrange(Relative_Size, Relative_Convergence)
 
 
-rel_convergences_facet <- ggplot(aes(x = Relative_Size, y = Relative_Convergence, group = Language_Name), data = domains_verbal) +
+plot_rel_conv_facet <- ggplot(aes(x = Relative_Size, y = Relative_Convergence, group = Language_Name), data = domains_verbal) +
   geom_point(aes(color = Relative_Convergence), size = 3) +
   geom_line(linewidth = 0.5) +
   facet_wrap(~Short_Name, nrow = 6, ncol = 3, scales = "free_x") +
@@ -89,9 +89,9 @@ rel_convergences_facet <- ggplot(aes(x = Relative_Size, y = Relative_Convergence
         axis.title = element_text(size = 12),
         strip.text.x = element_text(size = 11),
         panel.spacing = unit(1.2, "lines"))
-rel_convergences_facet
+plot_rel_conv_facet
 
-ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_convergences_relative.png", rel_convergences_facet, height = 25, width = 17, device = "png", units = "cm", dpi = 600)
+#ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_convergences_relative.png", plot_rel_conv_facet, height = 25, width = 17, device = "png", units = "cm", dpi = 600)
 
 
 # tests and sizes in the verbal domain
@@ -106,7 +106,7 @@ domains_verbal_sub <- domains_verbal %>%
   filter(Abstract_Type %in% include_at) %>%
   droplevels()
 
-test_sizes <- ggplot(aes(x = Relative_Size, group = Abstract_Type), data = domains_verbal_sub) +
+plot_test_sizes <- ggplot(aes(x = Relative_Size, group = Abstract_Type), data = domains_verbal_sub) +
   geom_density(aes(fill = Abstract_Type, color = Abstract_Type), alpha = 0, linewidth = 1) +
   scale_color_d3(palette = "category10", guide = "none") +
   scale_fill_d3(palette = "category10", name = "Abstract Type") +
@@ -119,10 +119,10 @@ test_sizes <- ggplot(aes(x = Relative_Size, group = Abstract_Type), data = domai
         legend.text = element_text(size = 11),
         axis.text = element_text(size = 12),
         axis.title = element_text(size = 13))
-test_sizes
+plot_test_sizes
 
 # export plot
-ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_size_per_test.png", test_sizes, height = 12, width = 20, device = "png", units = "cm", dpi = 600)
+#ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_size_per_test.png", test_sizes, height = 12, width = 20, device = "png", units = "cm", dpi = 600)
 
 
 # minimal and maximal domains per language
@@ -130,7 +130,7 @@ domains_mm <- domains_verbal_sub %>%
   filter(!is.na(MinMax_Fracture))
 
 # plot density
-minmax_sizes <- ggplot(aes(x = Relative_Size, group = MinMax_Fracture), data = domains_mm) +
+plot_minmax_sizes <- ggplot(aes(x = Relative_Size, group = MinMax_Fracture), data = domains_mm) +
   geom_density(aes(fill = MinMax_Fracture), alpha = 0.7) +
   facet_wrap(~Short_Name, scales = "free_x", nrow = 6, ncol = 3) +
   scale_fill_startrek(name = "Fracture") +
@@ -146,9 +146,9 @@ minmax_sizes <- ggplot(aes(x = Relative_Size, group = MinMax_Fracture), data = d
         strip.text.x = element_text(size = 11),
         panel.spacing = unit(1.2, "lines"))
 
-minmax_sizes
+plot_minmax_sizes
 # export plot
-ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_minmax_per_lang.png", minmax_sizes, height = 27, width = 20, device = "png", units = "cm", dpi = 600)
+#ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_minmax_per_lang.png", minmax_sizes, height = 27, width = 20, device = "png", units = "cm", dpi = 600)
 
 
 # density plot of edge and span convergences
@@ -172,7 +172,7 @@ domains_verbal_density <- domains_verbal %>%
 glimpse(domains_verbal_density)
 
 # density plot all
-density_all <- ggplot(data = domains_verbal_density, aes(x = Relative_Convergence, group = Convergence_Type, fill = Convergence_Type)) +
+plot_density_all <- ggplot(data = domains_verbal_density, aes(x = Relative_Convergence, group = Convergence_Type, fill = Convergence_Type)) +
   geom_density(alpha = 0.6) +
   scale_fill_d3(name = "Type of Convergence") +
   #guides(fill = guide_legend(override.aes = list(alpha = 1, linewidth = 0))) +
@@ -185,9 +185,9 @@ density_all <- ggplot(data = domains_verbal_density, aes(x = Relative_Convergenc
         axis.text = element_text(size = 12),
         axis.title = element_text(size = 13),
         strip.text.x = element_text(size = 11))
-density_all
+plot_density_all
 # export plot
-ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_verbal_all.png", density_all, height = 13, width = 20, device = "png", units = "cm", dpi = 600)
+#ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_verbal_all.png", density_all, height = 13, width = 20, device = "png", units = "cm", dpi = 600)
 
 
 # facet density plot of relative convergence per abstract type
@@ -210,7 +210,7 @@ plot_dens_conv_atype <- ggplot(aes(x = Relative_Convergence, group = Abstract_Ty
         plot.margin = margin(5, 10, 5, 10))
 plot_dens_conv_atype
 # export plot
-ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_abstract.png", plot_dens_conv_atype, height = 17, width = 20, device = "png", units = "cm", dpi = 600)
+#ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_abstract.png", plot_dens_conv_atype, height = 17, width = 20, device = "png", units = "cm", dpi = 600)
 
 
 # facet density plot of relative convergence per prosodic word pattern
@@ -245,7 +245,7 @@ plot_dens_conv_pw <- ggplot(aes(x = Relative_Convergence, group = PW_Pattern), d
         plot.margin = margin(5, 10, 5, 10))
 plot_dens_conv_pw
 # export plot
-ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_pw.png", plot_dens_conv_pw, height = 20, width = 20, device = "png", units = "cm", dpi = 600)
+#ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_pw.png", plot_dens_conv_pw, height = 20, width = 20, device = "png", units = "cm", dpi = 600)
 
 
 # density plots of cross-linguistic fractures with more than 10 token
@@ -279,7 +279,7 @@ plot_dens_conv_clf <- ggplot(aes(x = Relative_Convergence, group = CrossL_Fractu
         plot.margin = margin(5, 10, 5, 10))
 plot_dens_conv_clf
 # export plot
-ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_clf.png", plot_dens_conv_clf, height = 17, width = 20, device = "png", units = "cm", dpi = 600)
+#ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_clf.png", plot_dens_conv_clf, height = 17, width = 20, device = "png", units = "cm", dpi = 600)
 
 
 # plot convergences between phonological and morphosyntactic domains
@@ -329,7 +329,7 @@ plot_dens_msphon <- ggplot(data = filter(domains_bisection, !is.na(DLConvergence
         plot.margin = margin(5, 10, 5, 10))
 plot_dens_msphon
 # export
-ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_bisection.png", plot_dens_msphon, height = 25, width = 17, device = "png", units = "cm", dpi = 600)
+#ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_bisection.png", plot_dens_msphon, height = 25, width = 17, device = "png", units = "cm", dpi = 600)
 
 
 # plot with indeterminate
@@ -354,9 +354,9 @@ plot_dens_msphonind <- ggplot(data = domains_bisection, aes(x = Relative_DConver
         strip.clip = "off",
         plot.margin = margin(5, 10, 5, 10))
 plot_dens_msphonind
-# export
-ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_bisection_ind.png", plot_dens_msphonind, height = 25, width = 17, device = "png", units = "cm", dpi = 600)
 
+# export
+#ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_bisection_ind.png", plot_dens_msphonind, height = 25, width = 17, device = "png", units = "cm", dpi = 600)
 
 
 # density plot left/right
@@ -376,21 +376,3 @@ density_lr <- ggplot(data = domains_verbal_d, aes(x = Relative_Convergence, grou
         panel.spacing = unit(1.2, "lines"))
 density_min_max
 
-
-
-
-# recode variables to binary presence/absence and shorten them for plotting
-# create sub-variables with fractures
-domains_verbal_binary <- domains_verbal %>%
-  mutate(Abstract_Type = str_to_title(Abstract_Type)) %>%
-  unite("Abstract_Type_Sub", c(Abstract_Type, CrossL_Fracture, MinMax_Fracture), sep = ":", remove = FALSE, na.rm = TRUE) %>%
-  mutate(Abstract_Type_Sub = if_else(!str_detect(Abstract_Type_Sub, ":"), paste0(Abstract_Type_Sub, "_X"), Abstract_Type_Sub)) %>%
-  pivot_wider(id_cols = everything(), names_from = Abstract_Type, values_from = Abstract_Type) %>%
-  pivot_wider(id_cols = everything(), names_from = Abstract_Type_Sub, values_from = Abstract_Type_Sub) %>%
-  select(-contains("_X")) %>%
-  mutate(across(Nonpermutability:Repair, ~if_else(is.na(.), 0, 1))) %>%
-  mutate(across(contains(":"), ~if_else(is.na(.), 0, 1))) %>%
-  rename(Nonpermut. = Nonpermutability, Free_occur. = Free.occurrence, Recursion = Recursion.based, Supraseg. = Suprasegmental, Selection = Ciscategorial.selection, Noninterrupt. = Noninterruption)
-glimpse(domains_verbal_binary)
-
-ggsave(("07_figures/reliability/fig_density_convergence_all.png"), density_convergence_all, device = "png", dpi = 300, units = "cm", width=30, height=15)

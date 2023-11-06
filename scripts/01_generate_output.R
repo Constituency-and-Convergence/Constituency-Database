@@ -1,4 +1,4 @@
-# create full output databases, various sanity checks
+# create full output databases and various sanity checks
 
 if (!require("pacman")) install.packages("pacman")
 p_load(here,
@@ -41,7 +41,6 @@ write_tsv(planar_output, here("planar.tsv"))
 
 
 # generate full domains file
-
 # calculate total positions per language
 planar_w_total <- planar_output %>%
   group_by(Planar_ID) %>%
@@ -52,8 +51,7 @@ domains_out <- domains_input %>%
   mutate(across(Analysis_Type:Lspecific_Fracture, ~str_replace_all(., " ", "."))) %>%
   left_join(., overlaps) %>%
   left_join(., select(metadata, Language_ID, Language_Name)) %>%
-  left_join(., select(planar_w_total, Language_ID, Planar_Type, Position_Total), relationship =
-              "many-to-many") %>%
+  left_join(., select(planar_w_total, Language_ID, Planar_Type, Position_Total), relationship = "many-to-many") %>%
   distinct() %>%
   arrange(Language_ID) %>%
   group_by(Planar_ID) %>%
@@ -73,7 +71,7 @@ domains_out <- domains_input %>%
   select(Serial_Order, Language_Name, Language_ID, Domain_ID, Domain_Type, Abstract_Type, CrossL_Fracture, MinMax_Fracture, Lspecific_Fracture, Left_Edge, Right_Edge, Size, Relative_Size, Largest, Position_Total, Planar_ID, PW_Pattern, Test_Labels)
 glimpse(domains_out)
 
-# there should not be any duplicates in the Domain_ID! please fix in the input file if there are any
+# there should not be any duplicates in the Domain_ID! fix in the input file if there are any
 id_dupl <- domains_out %>%
   get_dupes(Domain_ID)
 
