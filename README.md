@@ -55,8 +55,8 @@ The **input** folder contains the raw files in which the data is initially enter
 The CCDB is available under the Creative Commons Attribution Share Alike 4.0 International license. It is a work in progress and continuously updated. For research and citation, please refer to the most recent release archived in Zenodo.
 
 
-## CCDB 1.0 - October 2023
-The data for version 1.0 are described and illustrated in:
+## CCDB 1.0 - November 2023
+First public version of the database, which contains the data from the volume 'Constituency and Convergence in the Americas' (LSP, in press). The data for version 1.0 are described and illustrated in:
 * Adam J.R. Tallman, Sandra Auderset, Hiroto Uchihara (eds.). *Constituency and Convergence in the Americas*. Language Science Press. https://langsci-press.org/catalog/book/291
 
 
