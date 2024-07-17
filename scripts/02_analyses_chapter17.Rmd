@@ -28,7 +28,7 @@ csl: generic-style-rules-for-linguistics.csl
 
 ```{r setup, include=FALSE}
 library(knitr)
-opts_chunk$set(tidy="styler",echo=TRUE,dev = "cairo_pdf",warning = FALSE,fig.align = 'center',out.width="\\textwidth")
+opts_chunk$set(width.cutoff=80,tidy="styler",echo=TRUE,dev = "cairo_pdf",warning = FALSE,fig.align = 'center',out.width="\\textwidth")
 #out.height="\\textheight"
 ```
 
@@ -95,7 +95,7 @@ sample_map
 
 We color the points by maximum number of relative convergences per language.
 
-```{r map convergences}
+```{r map convergences, fig.height=17}
 # merge with domains file
 metadata_sub_conv <- domains %>%
   select(Language_ID, Relative_Convergence) %>%
@@ -127,7 +127,7 @@ sample_map_relconv
 
 We plot the relative convergences against the relative span size per sample language. We use only verbal domains as we currently have too little data for comparing nominal domains as well.
 
-```{r dot plot}
+```{r dot plot, fig.height=16, fig.width=13}
 # exclude all domains that are not verbal; add short name of languages for plotting
 domains_verbal <- domains %>%
   filter(str_detect(Planar_ID, "verbal")) %>%
@@ -160,7 +160,7 @@ ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_convergences
 
 We plot densities of relative span size by abstract type of test domain. Since we are doing this across languages, we exclude abstract types that have less than 10 data points, as these are not informative.
 
-```{r density plot}
+```{r density plot, out.width="70%"}
 # list all abstract types
 levels(domains$Abstract_Type)
 
@@ -258,7 +258,7 @@ glimpse(abstract_type_left)
 
 We then calculate Kendall's tau for each of these data sets and plot the results as correlation plots.
 
-```{r corr plots}
+```{r corr plots, out.width="60%"}
 # make correlation matrices
 corr_span <- cor(abstract_type_span, method = "kendall")
 corr_left <- cor(abstract_type_left, method = "kendall")
@@ -513,12 +513,13 @@ save_kable(corr_cross_l_min[[2]], file = here("scripts/02_analyses_chapter17_fil
 save_kable(corr_cross_l_max[[2]], file = here("scripts/02_analyses_chapter17_files/corr_table_max.tex"))
 ```
 
+
 ## Subsection 6.3
 ### Density plot of relative convergences across span and edges
 
 In order to assess if there are overall tendencies for some domains to converge than others, we explore the density distributions of span and edge convergences pooled across languages of the sample.
 We do this by calculating the the convergences across the span, and on the right and left edge and displaying the densities of these distributions.
-```{r dens rconv}
+```{r dens rconv, out.width="70%"}
 # calculate right and left edge convergences
 domains_verbal <- domains_verbal %>%
   group_by(Language_ID, Left_Edge) %>%
@@ -527,7 +528,6 @@ domains_verbal <- domains_verbal %>%
   mutate(Convergence_Right = n()) %>%
   ungroup() %>%
   mutate(Relative_Convergence_Left = round(Convergence_Left/Tests_Total, 2), Relative_Convergence_Right = round(Convergence_Right/Tests_Total, 2))
-glimpse(domains_verbal)
 
 # data set for plotting density
 domains_verbal_density <- domains_verbal %>%
@@ -563,7 +563,7 @@ ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_verb
 
 We do the same, but separating the tests by abstract type. We exclude types with fewer than 5 data points, because these are not informative.
 
-```{r dens at}
+```{r dens at, fig.width=10, fig.height=8}
 # facet density plot of relative convergence per abstract type
 plot_dens_conv_atype <- ggplot(aes(x = Relative_Convergence, group = Abstract_Type), data = domains_verbal_sub) +
   geom_density(aes(fill = Abstract_Type)) +
@@ -592,7 +592,7 @@ ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_abst
 
 Next, we look at the distributions by type of prosodic word domain. We exclude types with fewer than 5 data points, because these are not informative.
 
-```{r dens pw}
+```{r dens pw, fig.width=10, fig.height=10}
 # exclude categories with few data points
 keep_pw <- domains_verbal_sub %>%
   count(PW_Pattern) %>%
@@ -633,7 +633,7 @@ ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_pw.p
 
 Lastly, we do the same but look at cross-linguistic fractures with more than 10 tokens each. 
 
-```{r dens crossl}
+```{r dens crossl, fig.width=10, fig.height=8}
 # take subset with fractures that have more than 10 tokens; exclude NA
 keep_clf <- domains_verbal %>%
   filter(!is.na(CrossL_Fracture)) %>%
@@ -671,7 +671,11 @@ ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_density_clf.
 
 ### Random Forest analysis
 
-```{r random forest}
+To check whether certain domains predict convergence levels, we apply a random forest model to the data.
+We compare the output of the model to the baseline to calculate the accuracy. The model barely outperforms the baseline, which means it does not really predict anything.
+Therefore the variable importance is not meaningful. We include the plot for completeness.
+
+```{r random forest, fig.width=8}
 # function for calculating baseline and accuracy
 rf_acc <- function(x){
   cm <- as.matrix(x$confusion[ , -3])
@@ -680,41 +684,36 @@ rf_acc <- function(x){
   diff <- round(acc-bl, 4)
   returnlist <- c("baseline" = bl, "accuracy" = acc, "difference"=diff)
 }
-# set seed for making reproducible
+# set seed for reproducibility
 set.seed(200)
+
 # subset for relevant variables, turn into factors
 pw_patterns <- domains_verbal_sub %>%
-  pivot_wider(., names_from = PW_Pattern, values_from = PW_Pattern) %>%
-  mutate(across(morphosyntactic:`other process`, ~if_else(is.na(.x), 0, 1))) %>%
-  select(Serial_Order, Language_ID, morphosyntactic:`other process`)
+  mutate(PW_Pattern = str_replace_all(PW_Pattern, "-", "."), 
+         PW_Pattern = str_replace_all(PW_Pattern, " ", ".")) %>%
+  pivot_wider(., names_from = PW_Pattern, values_from = PW_Pattern, names_prefix = "pw_") %>%
+  mutate(across(starts_with("pw_"), ~if_else(is.na(.x), 0, 1))) %>%
+  select(Serial_Order, Language_ID, pw_morphosyntactic:pw_other.process)
 
+# add together with other fracture data sets; subset for applying random forest
+all_fractures <- abstract_type %>%
+  select(Language_ID:noninterruption) %>%
+  bind_cols(select(cross_l, -any_of(colnames(abstract_type)), -Abstract_Type)) %>%
+  bind_cols(select(pw_patterns, pw_morphosyntactic:pw_other.process)) %>%
+  select(Convergence, nonpermutability:pw_other.process) %>%
+  mutate(Convergence = as.factor(Convergence))
+glimpse(all_fractures)
 
-domains_verbal_rf <- domains_verbal_sub %>%
-  select(Language_ID, Relative_Size, Convergence, Relative_Convergence, Noninterrupt.:PW_tone)
-
-domains_vars$Language <- as.factor(domains_vars$Language)
-domains_vars$Convergence <- as.factor(domains_vars$Convergence)
-
-
-convergence_randomforest =randomForest(as.factor(Convergence)~.,data=domains_vars,ntree=1000, mtry=2, importance=TRUE)
-
-varImpPlot(convergence_randomforest, main = "Diagnostics predicting convergence")
-confusion_matrix=convergence_randomforest$confusion
-confusion_matrix
+# apply random forest algorithm
+convergence_randomforest <- randomForest(Convergence~., data = all_fractures, ntree = 1000, mtry = 2, importance = TRUE)
 convergence_randomforest
 
-domains_vars_01 <- domains_vars %>%
-  select(-Language, -Relative_Size, -Relative_Convergence)
-convergence_randomforest_01 =randomForest(as.factor(Convergence)~.,data=domains_vars_01,ntree=1000, mtry=2, importance=TRUE)
-varImpPlot(convergence_randomforest_01, main = "Predicting convergence")
-confusion_matrix_01<-convergence_randomforest_01$confusion
-confusion_matrix_01
-rf_acc(convergence_randomforest_01)
+# calculate baseline and accuracy of the model
+rf_measures <- rf_acc(convergence_randomforest)
+rf_measures
 
-convergence_randomforest_01
-
-nrow(domains_vars)
-188/463
+# plot variable importance
+varImpPlot(convergence_randomforest)
 ```
 
 
@@ -751,7 +750,7 @@ domains_bisection <- conv_bisection %>%
 ```
 
 We then plot the result for phonological domains.
-```{r conv phon plot, message=FALSE}
+```{r conv phon plot, message=FALSE, fig.width=12, fig.height=17}
 # plot lumped, phonological domains
 plot_points_phon <- ggplot(data = filter(domains_bisection, Domain_Type_Lumped=="phonological"), aes(x = Relative_Size, y = DLConvergence)) +
   geom_line(linewidth = 0.5) +
@@ -782,7 +781,7 @@ ggsave("/Users/auderset/Documents/GitHub/CCAmericas/07_figures/plot_points_bisec
 
 And the same for morphosyntactic domains.
 
-```{r conv morph}
+```{r conv morph, fig.width=12, fig.height=17}
 # plot lumped, morphosyntactic domains
 plot_points_ms <- ggplot(data = filter(domains_bisection, Domain_Type_Lumped=="morphosyntactic"), aes(x = Relative_Size, y = DLConvergence)) +
   geom_line(linewidth = 0.5) +
